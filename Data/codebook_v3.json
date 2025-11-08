@@ -1,0 +1,55 @@
+{
+  "race_ml": {
+    "sep": "|",
+    "allowed": [
+      "White",
+      "Black",
+      "EastAsian",
+      "SouthAsian",
+      "SoutheastAsian",
+      "MiddleEastern",
+      "Latino",
+      "Other",
+      "Unknown"
+    ]
+  },
+  "skin_tone_bin": {
+    "type": "ordinal",
+    "values": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "unknown": "Unknown"
+  },
+  "cultural_markers": {
+    "sep": "|",
+    "allowed": [
+      "religious_headwear",
+      "traditional_attire",
+      "tattoo_visible",
+      "piercing_visible",
+      "beard",
+      "none"
+    ]
+  },
+  "ambiguous_mixed": [
+    0,
+    1
+  ],
+  "prefer_not_to_label": [
+    0,
+    1
+  ],
+  "unknown_uncertain": [
+    0,
+    1
+  ],
+  "conf_race": "float[0,1]",
+  "conf_gender": "float[0,1]",
+  "conf_skin": "float[0,1]"
+}

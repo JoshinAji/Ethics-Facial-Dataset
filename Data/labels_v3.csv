@@ -1,0 +1,901 @@
+image_id,source_dataset,rel_path,race_cat,gender_cat,age_cat,split,race_ml,skin_tone_bin,cultural_markers,ambiguous_mixed,prefer_not_to_label,unknown_uncertain,conf_race,conf_gender,conf_skin,annotation_notes
+FA_FF_47373,FairFace,FairFace/train/47373.jpg,White,Female,20-29,train,White,5,none,0.0,0.0,0.0,0.845,0.817,0.768,
+UT_UTK_1_0_0_20170109192219011.jpg.chip,UTKFace,UTKFace/1_0_0_20170109192219011.jpg.chip.jpg,White,Male,,train,White,7,none,0.0,0.0,1.0,0.901,0.844,0.663,auto: low confidence / uncertain
+UT_UTK_35_1_0_20170117191606659.jpg.chip,UTKFace,UTKFace/35_1_0_20170117191606659.jpg.chip.jpg,White,Female,,train,White,6,none,0.0,0.0,1.0,0.501,0.831,0.602,auto: low confidence / uncertain
+FA_FF_72456,FairFace,FairFace/train/72456.jpg,White,Female,20-29,train,White,6,none,0.0,0.0,1.0,0.324,0.961,0.681,auto: low confidence / uncertain
+UT_UTK_18_1_0_20170109214726739.jpg.chip,UTKFace,UTKFace/18_1_0_20170109214726739.jpg.chip.jpg,White,Female,,train,White,3,none,0.0,0.0,0.0,0.876,0.972,0.686,
+FA_FF_46882,FairFace,FairFace/train/46882.jpg,White,Male,30-39,train,White,3,none,0.0,0.0,1.0,0.357,0.82,0.57,auto: low confidence / uncertain
+UT_UTK_16_0_0_20170117134538670.jpg.chip,UTKFace,UTKFace/16_0_0_20170117134538670.jpg.chip.jpg,White,Male,,train,White,2,none,0.0,0.0,0.0,0.874,0.922,0.694,
+UT_UTK_52_0_0_20170105173619725.jpg.chip,UTKFace,UTKFace/52_0_0_20170105173619725.jpg.chip.jpg,White,Male,,train,White,7,none,0.0,0.0,0.0,0.876,0.969,0.705,
+FA_FF_73224,FairFace,FairFace/train/73224.jpg,White,Female,30-39,train,White,6,none,0.0,0.0,1.0,0.379,0.989,0.563,auto: low confidence / uncertain
+UT_UTK_28_0_0_20170113132654464.jpg.chip,UTKFace,UTKFace/28_0_0_20170113132654464.jpg.chip.jpg,White,Male,,train,White,6,none,0.0,0.0,0.0,0.879,0.912,0.574,
+UT_UTK_10_1_0_20161220222001459.jpg.chip,UTKFace,UTKFace/10_1_0_20161220222001459.jpg.chip.jpg,White,Female,,train,White,1,none,0.0,0.0,0.0,0.88,0.818,0.653,
+UT_UTK_7_0_0_20170110225109143.jpg.chip,UTKFace,UTKFace/7_0_0_20170110225109143.jpg.chip.jpg,White,Male,,train,White|Latino,7,none,1.0,0.0,1.0,0.59,0.919,0.615,auto: multi-heritage heuristic; auto: low confidence / uncertain
+UT_UTK_32_1_0_20170117134737646.jpg.chip,UTKFace,UTKFace/32_1_0_20170117134737646.jpg.chip.jpg,White,Female,,train,White,7,none,0.0,0.0,0.0,0.988,0.95,0.765,
+UT_UTK_16_1_0_20170109213117588.jpg.chip,UTKFace,UTKFace/16_1_0_20170109213117588.jpg.chip.jpg,White,Female,,train,White,4,none,0.0,0.0,1.0,0.832,0.994,0.716,auto: low confidence / uncertain
+FA_FF_44018,FairFace,FairFace/train/44018.jpg,White,Female,20-29,train,White,3,none,0.0,0.0,0.0,0.925,0.875,0.56,
+FA_FF_46208,FairFace,FairFace/train/46208.jpg,White,Female,20-29,train,White,3,none,0.0,0.0,0.0,0.984,0.873,0.534,
+FA_FF_45504,FairFace,FairFace/train/45504.jpg,White,Female,30-39,train,White,4,none,0.0,0.0,0.0,0.848,0.963,0.72,
+FA_FF_36863,FairFace,FairFace/train/36863.jpg,White,Male,40-49,train,White,5,none,0.0,0.0,0.0,0.932,0.993,0.682,
+FA_FF_42414,FairFace,FairFace/train/42414.jpg,White,Female,30-39,train,White,5,none,0.0,0.0,0.0,0.943,0.98,0.612,
+UT_UTK_54_0_0_20170113184055047.jpg.chip,UTKFace,UTKFace/54_0_0_20170113184055047.jpg.chip.jpg,White,Male,,train,White,4,none,0.0,0.0,1.0,0.305,0.942,0.502,auto: low confidence / uncertain
+UT_UTK_68_1_0_20170110143529881.jpg.chip,UTKFace,UTKFace/68_1_0_20170110143529881.jpg.chip.jpg,White,Female,,train,White|Latino,6,none,1.0,0.0,1.0,0.765,0.843,0.701,auto: multi-heritage heuristic; auto: low confidence / uncertain
+UT_UTK_16_0_0_20170110232647979.jpg.chip,UTKFace,UTKFace/16_0_0_20170110232647979.jpg.chip.jpg,White,Male,,train,White|Latino,3,beard,1.0,0.0,0.0,0.668,0.882,0.606,auto: multi-heritage heuristic
+UT_UTK_68_0_0_20170117184556032.jpg.chip,UTKFace,UTKFace/68_0_0_20170117184556032.jpg.chip.jpg,White,Male,,train,White,4,none,0.0,0.0,1.0,0.929,0.838,0.533,auto: low confidence / uncertain
+FA_FF_11937,FairFace,FairFace/train/11937.jpg,White,Male,20-29,train,White,5,beard,0.0,0.0,0.0,0.893,0.82,0.757,
+UT_UTK_80_0_0_20170117173059810.jpg.chip,UTKFace,UTKFace/80_0_0_20170117173059810.jpg.chip.jpg,White,Male,,train,White,5,none,0.0,0.0,1.0,0.323,0.896,0.622,auto: low confidence / uncertain
+FA_FF_18666,FairFace,FairFace/train/18666.jpg,White,Male,3-9,train,White,7,none,0.0,0.0,0.0,0.8,0.939,0.586,
+FA_FF_85926,FairFace,FairFace/train/85926.jpg,White,Female,10-19,train,White,3,none,0.0,0.0,0.0,0.897,0.947,0.518,
+UT_UTK_32_0_0_20170117120858247.jpg.chip,UTKFace,UTKFace/32_0_0_20170117120858247.jpg.chip.jpg,White,Male,,train,White|Latino,5,none,1.0,0.0,0.0,0.696,0.816,0.788,auto: multi-heritage heuristic
+UT_UTK_49_1_0_20170104185051510.jpg.chip,UTKFace,UTKFace/49_1_0_20170104185051510.jpg.chip.jpg,White,Female,,train,White,6,none,0.0,0.0,0.0,0.847,0.919,0.574,
+FA_FF_25291,FairFace,FairFace/train/25291.jpg,White,Male,20-29,train,White,2,none,0.0,0.0,0.0,0.905,0.879,0.572,
+FA_FF_39010,FairFace,FairFace/train/39010.jpg,White,Female,20-29,train,White,6,none,0.0,0.0,1.0,0.95,0.999,0.8,auto: low confidence / uncertain
+UT_UTK_20_1_0_20170117133854316.jpg.chip,UTKFace,UTKFace/20_1_0_20170117133854316.jpg.chip.jpg,White,Female,,train,White|Latino,3,none,1.0,0.0,1.0,0.583,0.849,0.521,auto: multi-heritage heuristic; auto: low confidence / uncertain
+FA_FF_52180,FairFace,FairFace/train/52180.jpg,White,Male,30-39,train,White,2,none,0.0,0.0,0.0,0.861,0.911,0.7,
+UT_UTK_13_1_0_20170109214635943.jpg.chip,UTKFace,UTKFace/13_1_0_20170109214635943.jpg.chip.jpg,White,Female,,train,White,7,none,0.0,0.0,0.0,0.853,0.856,0.547,
+FA_FF_78159,FairFace,FairFace/train/78159.jpg,White,Male,40-49,train,White,7,none,0.0,0.0,0.0,0.971,0.927,0.515,
+UT_UTK_63_0_0_20170117194948539.jpg.chip,UTKFace,UTKFace/63_0_0_20170117194948539.jpg.chip.jpg,White,Male,,train,White,7,none,0.0,0.0,0.0,0.826,0.912,0.712,
+FA_FF_39130,FairFace,FairFace/train/39130.jpg,White,Male,0-2,train,White|Latino,4,none,1.0,0.0,0.0,0.759,0.98,0.592,auto: multi-heritage heuristic
+UT_UTK_85_1_0_20170110183522560.jpg.chip,UTKFace,UTKFace/85_1_0_20170110183522560.jpg.chip.jpg,White,Female,,train,White,2,none,0.0,0.0,0.0,0.842,0.977,0.734,
+FA_FF_12182,FairFace,FairFace/train/12182.jpg,White,Male,30-39,train,White,6,none,0.0,0.0,0.0,0.986,0.805,0.764,
+UT_UTK_17_0_0_20170110232257182.jpg.chip,UTKFace,UTKFace/17_0_0_20170110232257182.jpg.chip.jpg,White,Male,,train,White,5,none,0.0,0.0,0.0,0.96,0.822,0.736,
+FA_FF_41917,FairFace,FairFace/train/41917.jpg,White,Male,20-29,train,White,3,none,0.0,0.0,0.0,0.963,0.805,0.568,
+UT_UTK_48_0_0_20170117133115061.jpg.chip,UTKFace,UTKFace/48_0_0_20170117133115061.jpg.chip.jpg,White,Male,,train,White,5,none,0.0,0.0,0.0,0.993,0.907,0.794,
+UT_UTK_34_0_0_20170116215618294.jpg.chip,UTKFace,UTKFace/34_0_0_20170116215618294.jpg.chip.jpg,White,Male,,train,White,1,none,0.0,0.0,0.0,0.836,0.946,0.63,
+UT_UTK_26_0_0_20170103235702988.jpg.chip,UTKFace,UTKFace/26_0_0_20170103235702988.jpg.chip.jpg,White,Male,,train,White,7,none,0.0,0.0,0.0,0.877,0.985,0.501,
+UT_UTK_30_0_0_20170104164938536.jpg.chip,UTKFace,UTKFace/30_0_0_20170104164938536.jpg.chip.jpg,White,Male,,train,White,4,beard,0.0,0.0,0.0,0.934,0.863,0.599,
+UT_UTK_60_0_0_20170120220406122.jpg.chip,UTKFace,UTKFace/60_0_0_20170120220406122.jpg.chip.jpg,White,Male,,train,White,6,none,0.0,0.0,0.0,0.862,0.884,0.538,
+UT_UTK_19_1_0_20170109214615122.jpg.chip,UTKFace,UTKFace/19_1_0_20170109214615122.jpg.chip.jpg,White,Female,,train,White,4,none,0.0,0.0,0.0,0.923,0.857,0.5,
+UT_UTK_35_1_0_20170117135241435.jpg.chip,UTKFace,UTKFace/35_1_0_20170117135241435.jpg.chip.jpg,White,Female,,train,White,5,none,0.0,0.0,0.0,0.893,0.98,0.642,
+UT_UTK_63_0_0_20170111195517664.jpg.chip,UTKFace,UTKFace/63_0_0_20170111195517664.jpg.chip.jpg,White,Male,,train,White,6,none,0.0,0.0,1.0,0.429,0.95,0.746,auto: low confidence / uncertain
+UT_UTK_18_1_0_20170109212826322.jpg.chip,UTKFace,UTKFace/18_1_0_20170109212826322.jpg.chip.jpg,White,Female,,train,White,3,none,0.0,0.0,0.0,0.805,0.815,0.755,
+UT_UTK_25_1_0_20170117151946851.jpg.chip,UTKFace,UTKFace/25_1_0_20170117151946851.jpg.chip.jpg,White,Female,,train,White,7,none,0.0,0.0,0.0,0.939,0.801,0.697,
+UT_UTK_16_1_0_20170116204045849.jpg.chip,UTKFace,UTKFace/16_1_0_20170116204045849.jpg.chip.jpg,White,Female,,train,White,7,none,0.0,0.0,0.0,0.885,0.81,0.655,
+UT_UTK_61_1_0_20170110122712394.jpg.chip,UTKFace,UTKFace/61_1_0_20170110122712394.jpg.chip.jpg,White,Female,,train,White,7,none,0.0,0.0,0.0,0.96,0.99,0.679,
+UT_UTK_1_1_0_20170109190742179.jpg.chip,UTKFace,UTKFace/1_1_0_20170109190742179.jpg.chip.jpg,White,Female,,train,White,7,none,0.0,0.0,0.0,0.901,0.949,0.769,
+FA_FF_1618,FairFace,FairFace/train/1618.jpg,White,Male,20-29,train,White,6,none,0.0,0.0,0.0,0.928,0.815,0.582,
+UT_UTK_23_1_0_20170104165334721.jpg.chip,UTKFace,UTKFace/23_1_0_20170104165334721.jpg.chip.jpg,White,Female,,train,White,7,none,0.0,0.0,0.0,0.908,0.941,0.708,
+UT_UTK_52_0_0_20170109132901912.jpg.chip,UTKFace,UTKFace/52_0_0_20170109132901912.jpg.chip.jpg,White,Male,,train,White|Latino,2,none,1.0,0.0,1.0,0.666,0.989,0.731,auto: multi-heritage heuristic; auto: low confidence / uncertain
+UT_UTK_26_1_0_20170117175343265.jpg.chip,UTKFace,UTKFace/26_1_0_20170117175343265.jpg.chip.jpg,White,Female,,train,White|Latino,3,none,1.0,0.0,0.0,0.786,0.967,0.767,auto: multi-heritage heuristic
+UT_UTK_67_0_0_20170104213345869.jpg.chip,UTKFace,UTKFace/67_0_0_20170104213345869.jpg.chip.jpg,White,Male,,train,White,2,none,0.0,0.0,0.0,0.98,0.934,0.617,
+UT_UTK_52_0_0_20170105173134925.jpg.chip,UTKFace,UTKFace/52_0_0_20170105173134925.jpg.chip.jpg,White,Male,,train,White,4,none,0.0,0.0,0.0,0.984,0.933,0.678,
+UT_UTK_36_0_0_20170112003914754.jpg.chip,UTKFace,UTKFace/36_0_0_20170112003914754.jpg.chip.jpg,White,Male,,train,White|Latino,5,none,1.0,0.0,1.0,0.665,0.952,0.598,auto: multi-heritage heuristic; auto: low confidence / uncertain
+FA_FF_26926,FairFace,FairFace/train/26926.jpg,White,Male,30-39,train,White,4,beard,0.0,0.0,1.0,0.85,0.87,0.8,auto: low confidence / uncertain
+UT_UTK_22_1_0_20170111182452750.jpg.chip,UTKFace,UTKFace/22_1_0_20170111182452750.jpg.chip.jpg,White,Female,,train,White,7,none,0.0,0.0,0.0,0.951,0.83,0.506,
+FA_FF_33754,FairFace,FairFace/train/33754.jpg,White,Male,3-9,train,White|Latino,5,none,1.0,0.0,0.0,0.604,0.95,0.682,auto: multi-heritage heuristic
+UT_UTK_5_0_0_20170110212804775.jpg.chip,UTKFace,UTKFace/5_0_0_20170110212804775.jpg.chip.jpg,White,Male,,train,White|Latino,4,beard,1.0,0.0,1.0,0.577,0.992,0.703,auto: multi-heritage heuristic; auto: low confidence / uncertain
+UT_UTK_31_1_0_20170117135716524.jpg.chip,UTKFace,UTKFace/31_1_0_20170117135716524.jpg.chip.jpg,White,Female,,train,White,6,none,0.0,0.0,1.0,0.473,0.954,0.531,auto: low confidence / uncertain
+UT_UTK_22_0_0_20170119151204830.jpg.chip,UTKFace,UTKFace/22_0_0_20170119151204830.jpg.chip.jpg,White,Male,,train,White,3,none,0.0,0.0,0.0,0.997,0.901,0.611,
+UT_UTK_30_1_0_20170117145129099.jpg.chip,UTKFace,UTKFace/30_1_0_20170117145129099.jpg.chip.jpg,White,Female,,train,White,7,none,0.0,0.0,0.0,0.821,0.941,0.749,
+FA_FF_32236,FairFace,FairFace/train/32236.jpg,White,Male,20-29,train,White,2,none,0.0,0.0,0.0,0.854,0.946,0.631,
+FA_FF_72504,FairFace,FairFace/train/72504.jpg,White,Female,40-49,train,White,7,none,0.0,0.0,0.0,0.817,0.922,0.639,
+UT_UTK_36_0_0_20170116210312217.jpg.chip,UTKFace,UTKFace/36_0_0_20170116210312217.jpg.chip.jpg,White,Male,,train,White,7,none,0.0,0.0,0.0,0.836,0.94,0.764,
+UT_UTK_30_1_0_20170105164713380.jpg.chip,UTKFace,UTKFace/30_1_0_20170105164713380.jpg.chip.jpg,White,Female,,train,White,3,none,0.0,0.0,0.0,0.817,0.938,0.727,
+FA_FF_49274,FairFace,FairFace/train/49274.jpg,White,Female,10-19,train,White,1,none,0.0,0.0,0.0,0.819,0.916,0.592,
+FA_FF_2860,FairFace,FairFace/train/2860.jpg,White,Female,10-19,train,White,7,none,0.0,0.0,0.0,0.949,0.85,0.581,
+UT_UTK_45_0_0_20170116212320846.jpg.chip,UTKFace,UTKFace/45_0_0_20170116212320846.jpg.chip.jpg,White,Male,,train,White|Latino,6,none,1.0,0.0,0.0,0.736,0.855,0.722,auto: multi-heritage heuristic
+UT_UTK_33_1_0_20170105163852244.jpg.chip,UTKFace,UTKFace/33_1_0_20170105163852244.jpg.chip.jpg,White,Female,,train,White,6,none,0.0,0.0,0.0,0.996,0.86,0.608,
+UT_UTK_32_1_0_20170117182452621.jpg.chip,UTKFace,UTKFace/32_1_0_20170117182452621.jpg.chip.jpg,White,Female,,train,White,7,none,0.0,0.0,1.0,0.314,0.928,0.783,auto: low confidence / uncertain
+FA_FF_86400,FairFace,FairFace/train/86400.jpg,White,Female,60-69,train,White,2,none,0.0,0.0,1.0,0.371,0.993,0.602,auto: low confidence / uncertain
+UT_UTK_42_0_0_20170117185635954.jpg.chip,UTKFace,UTKFace/42_0_0_20170117185635954.jpg.chip.jpg,White,Male,,train,White,5,none,0.0,0.0,0.0,0.813,0.962,0.546,
+UT_UTK_34_0_0_20170117120149082.jpg.chip,UTKFace,UTKFace/34_0_0_20170117120149082.jpg.chip.jpg,White,Male,,train,White,3,none,0.0,0.0,0.0,0.912,0.876,0.733,
+UT_UTK_1_1_0_20170109191021631.jpg.chip,UTKFace,UTKFace/1_1_0_20170109191021631.jpg.chip.jpg,White,Female,,train,White,7,none,0.0,0.0,0.0,0.886,0.82,0.788,
+FA_FF_14381,FairFace,FairFace/train/14381.jpg,White,Female,30-39,train,White,6,none,0.0,0.0,0.0,0.816,0.882,0.547,
+UT_UTK_30_1_0_20170117114710101.jpg.chip,UTKFace,UTKFace/30_1_0_20170117114710101.jpg.chip.jpg,White,Female,,train,White,4,none,0.0,0.0,1.0,0.372,0.814,0.758,auto: low confidence / uncertain
+FA_FF_48525,FairFace,FairFace/train/48525.jpg,White,Female,more than 70,train,White,2,none,0.0,0.0,0.0,0.918,0.845,0.534,
+UT_UTK_8_1_0_20170109205426790.jpg.chip,UTKFace,UTKFace/8_1_0_20170109205426790.jpg.chip.jpg,White,Female,,train,White|Latino,4,none,1.0,0.0,1.0,0.568,0.95,0.592,auto: multi-heritage heuristic; auto: low confidence / uncertain
+FA_FF_59023,FairFace,FairFace/train/59023.jpg,White,Female,40-49,train,White,4,none,0.0,0.0,0.0,0.938,0.899,0.65,
+UT_UTK_24_1_0_20170116172723427.jpg.chip,UTKFace,UTKFace/24_1_0_20170116172723427.jpg.chip.jpg,White,Female,,train,White|Latino,6,piercing_visible,1.0,0.0,0.0,0.734,0.935,0.569,auto: multi-heritage heuristic
+UT_UTK_60_0_0_20170103182814970.jpg.chip,UTKFace,UTKFace/60_0_0_20170103182814970.jpg.chip.jpg,White,Male,,train,White,6,none,0.0,0.0,1.0,0.491,0.835,0.729,auto: low confidence / uncertain
+UT_UTK_55_0_0_20170120222221343.jpg.chip,UTKFace,UTKFace/55_0_0_20170120222221343.jpg.chip.jpg,White,Male,,train,White,7,none,0.0,0.0,0.0,0.999,0.882,0.641,
+UT_UTK_35_1_0_20170117135354644.jpg.chip,UTKFace,UTKFace/35_1_0_20170117135354644.jpg.chip.jpg,White,Female,,train,White,5,none,0.0,0.0,0.0,0.882,0.952,0.62,
+FA_FF_49722,FairFace,FairFace/train/49722.jpg,White,Male,30-39,train,White|Latino,3,none,1.0,0.0,0.0,0.631,0.932,0.796,auto: multi-heritage heuristic
+UT_UTK_61_0_0_20170104210224700.jpg.chip,UTKFace,UTKFace/61_0_0_20170104210224700.jpg.chip.jpg,White,Male,,train,White,6,none,0.0,0.0,0.0,0.872,0.91,0.561,
+UT_UTK_14_1_0_20170109214428765.jpg.chip,UTKFace,UTKFace/14_1_0_20170109214428765.jpg.chip.jpg,White,Female,,train,White,7,none,0.0,0.0,0.0,0.824,0.832,0.572,
+UT_UTK_17_1_0_20170109214431887.jpg.chip,UTKFace,UTKFace/17_1_0_20170109214431887.jpg.chip.jpg,White,Female,,train,White,6,none,0.0,0.0,1.0,0.548,0.823,0.638,auto: low confidence / uncertain
+FA_FF_84086,FairFace,FairFace/train/84086.jpg,White,Female,50-59,train,White,7,none,0.0,0.0,0.0,0.902,0.849,0.794,
+UT_UTK_62_0_0_20170104170229321.jpg.chip,UTKFace,UTKFace/62_0_0_20170104170229321.jpg.chip.jpg,White,Male,,train,White,5,none,0.0,0.0,0.0,0.902,0.883,0.737,
+UT_UTK_28_1_0_20170116221705370.jpg.chip,UTKFace,UTKFace/28_1_0_20170116221705370.jpg.chip.jpg,White,Female,,train,White,5,none,0.0,0.0,0.0,0.857,0.898,0.8,
+FA_FF_602,FairFace,FairFace/train/602.jpg,White,Female,50-59,train,White|Latino,5,none,1.0,0.0,0.0,0.688,0.838,0.597,auto: multi-heritage heuristic
+FA_FF_59038,FairFace,FairFace/train/59038.jpg,White,Female,40-49,train,White,1,none,0.0,0.0,1.0,0.955,0.962,0.712,auto: low confidence / uncertain
+UT_UTK_33_1_0_20170117175140175.jpg.chip,UTKFace,UTKFace/33_1_0_20170117175140175.jpg.chip.jpg,White,Female,,train,White,2,piercing_visible,0.0,0.0,0.0,0.996,0.918,0.651,
+FA_FF_83539,FairFace,FairFace/train/83539.jpg,White,Female,20-29,train,White,1,none,0.0,0.0,0.0,0.905,0.931,0.623,
+UT_UTK_26_0_0_20170113210127395.jpg.chip,UTKFace,UTKFace/26_0_0_20170113210127395.jpg.chip.jpg,White,Male,,train,White,6,none,0.0,0.0,0.0,0.868,0.972,0.756,
+FA_FF_17110,FairFace,FairFace/train/17110.jpg,White,Male,20-29,train,White,4,beard,0.0,0.0,0.0,0.952,0.984,0.689,
+UT_UTK_27_0_0_20170116204136393.jpg.chip,UTKFace,UTKFace/27_0_0_20170116204136393.jpg.chip.jpg,White,Male,,train,White,5,none,0.0,0.0,0.0,0.82,0.981,0.708,
+FA_FF_14476,FairFace,FairFace/train/14476.jpg,White,Male,20-29,train,White|Latino,7,none,1.0,0.0,0.0,0.644,0.834,0.738,auto: multi-heritage heuristic
+UT_UTK_2_1_0_20170117192801580.jpg.chip,UTKFace,UTKFace/2_1_0_20170117192801580.jpg.chip.jpg,White,Female,,train,White|Latino,4,none,1.0,0.0,0.0,0.61,0.851,0.638,auto: multi-heritage heuristic
+UT_UTK_26_1_0_20170116225049260.jpg.chip,UTKFace,UTKFace/26_1_0_20170116225049260.jpg.chip.jpg,White,Female,,train,White,5,none,0.0,1.0,1.0,0.501,0.832,0.703,auto: low confidence / uncertain; auto: prefer-not-to-label set
+UT_UTK_2_0_0_20170110213146269.jpg.chip,UTKFace,UTKFace/2_0_0_20170110213146269.jpg.chip.jpg,White,Male,,train,White,7,none,0.0,0.0,0.0,0.928,0.877,0.56,
+FA_FF_85870,FairFace,FairFace/train/85870.jpg,White,Male,40-49,train,White,4,none,0.0,0.0,0.0,0.915,0.855,0.697,
+UT_UTK_80_1_0_20170110151356634.jpg.chip,UTKFace,UTKFace/80_1_0_20170110151356634.jpg.chip.jpg,White,Female,,train,White,2,none,0.0,0.0,0.0,0.81,0.857,0.771,
+FA_FF_21914,FairFace,FairFace/train/21914.jpg,White,Male,50-59,train,White,4,none,0.0,0.0,0.0,0.927,0.968,0.698,
+FA_FF_13773,FairFace,FairFace/train/13773.jpg,White,Male,20-29,train,White,3,none,0.0,0.0,0.0,0.862,0.859,0.527,
+FA_FF_18651,FairFace,FairFace/train/18651.jpg,White,Male,30-39,train,White,7,none,0.0,0.0,0.0,0.908,0.851,0.749,
+FA_FF_968,FairFace,FairFace/train/968.jpg,MiddleEastern,Female,20-29,train,MiddleEastern,6,religious_headwear,0.0,0.0,0.0,0.949,0.993,0.542,
+FA_FF_27059,FairFace,FairFace/train/27059.jpg,MiddleEastern,Male,20-29,train,MiddleEastern,5,piercing_visible,0.0,0.0,0.0,0.993,0.891,0.661,
+FA_FF_73328,FairFace,FairFace/train/73328.jpg,MiddleEastern,Female,30-39,train,MiddleEastern,7,religious_headwear,0.0,0.0,0.0,0.964,0.977,0.508,
+FA_FF_78148,FairFace,FairFace/train/78148.jpg,MiddleEastern,Female,40-49,train,MiddleEastern,6,none,0.0,0.0,0.0,0.813,0.828,0.622,
+FA_FF_78413,FairFace,FairFace/train/78413.jpg,MiddleEastern,Male,30-39,train,MiddleEastern,2,none,0.0,0.0,0.0,0.819,0.989,0.723,
+FA_FF_11232,FairFace,FairFace/train/11232.jpg,MiddleEastern,Female,more than 70,train,MiddleEastern,7,none,0.0,0.0,1.0,0.883,0.807,0.785,auto: low confidence / uncertain
+FA_FF_6241,FairFace,FairFace/train/6241.jpg,MiddleEastern,Male,50-59,train,MiddleEastern,4,none,0.0,0.0,1.0,0.971,0.88,0.608,auto: low confidence / uncertain
+FA_FF_20618,FairFace,FairFace/train/20618.jpg,MiddleEastern,Male,50-59,train,MiddleEastern,6,piercing_visible,0.0,0.0,0.0,0.891,0.849,0.736,
+FA_FF_4695,FairFace,FairFace/train/4695.jpg,MiddleEastern,Male,40-49,train,MiddleEastern|SouthAsian,7,none,1.0,0.0,0.0,0.741,0.98,0.544,auto: multi-heritage heuristic
+FA_FF_26164,FairFace,FairFace/train/26164.jpg,MiddleEastern,Male,20-29,train,MiddleEastern|SouthAsian,3,religious_headwear,1.0,0.0,0.0,0.685,0.958,0.607,auto: multi-heritage heuristic
+FA_FF_78854,FairFace,FairFace/train/78854.jpg,MiddleEastern,Male,40-49,train,MiddleEastern,1,beard|religious_headwear,0.0,0.0,0.0,0.825,0.919,0.609,
+FA_FF_83151,FairFace,FairFace/train/83151.jpg,MiddleEastern,Male,40-49,train,MiddleEastern,2,none,0.0,0.0,0.0,0.945,1.0,0.509,
+FA_FF_63498,FairFace,FairFace/train/63498.jpg,MiddleEastern,Male,50-59,train,MiddleEastern,3,none,0.0,0.0,0.0,0.942,0.925,0.538,
+FA_FF_71695,FairFace,FairFace/train/71695.jpg,MiddleEastern,Male,30-39,train,MiddleEastern,6,none,0.0,0.0,0.0,0.919,0.931,0.534,
+FA_FF_42584,FairFace,FairFace/train/42584.jpg,MiddleEastern,Male,30-39,train,MiddleEastern,7,none,0.0,0.0,0.0,0.886,0.863,0.719,
+FA_FF_76139,FairFace,FairFace/train/76139.jpg,MiddleEastern,Female,40-49,train,MiddleEastern,1,religious_headwear,0.0,0.0,0.0,0.937,0.949,0.63,
+FA_FF_41196,FairFace,FairFace/train/41196.jpg,MiddleEastern,Male,10-19,train,MiddleEastern,4,none,0.0,0.0,1.0,0.539,0.988,0.762,auto: low confidence / uncertain
+FA_FF_17760,FairFace,FairFace/train/17760.jpg,MiddleEastern,Female,30-39,train,MiddleEastern,3,none,0.0,0.0,1.0,0.372,0.831,0.652,auto: low confidence / uncertain
+FA_FF_5415,FairFace,FairFace/train/5415.jpg,MiddleEastern,Female,10-19,train,MiddleEastern,2,none,0.0,0.0,0.0,0.911,0.912,0.629,
+FA_FF_69294,FairFace,FairFace/train/69294.jpg,MiddleEastern,Male,30-39,train,MiddleEastern,1,piercing_visible,0.0,0.0,0.0,0.911,0.952,0.582,
+FA_FF_23167,FairFace,FairFace/train/23167.jpg,MiddleEastern,Female,40-49,train,MiddleEastern,3,religious_headwear,0.0,0.0,0.0,0.829,0.818,0.792,
+FA_FF_60506,FairFace,FairFace/train/60506.jpg,MiddleEastern,Male,3-9,train,MiddleEastern,7,none,0.0,0.0,0.0,0.831,0.831,0.765,
+FA_FF_15476,FairFace,FairFace/train/15476.jpg,MiddleEastern,Male,30-39,train,MiddleEastern,3,none,0.0,0.0,1.0,0.411,0.902,0.565,auto: low confidence / uncertain
+FA_FF_26625,FairFace,FairFace/train/26625.jpg,MiddleEastern,Male,20-29,train,MiddleEastern,4,none,0.0,0.0,0.0,0.919,0.841,0.516,
+FA_FF_33309,FairFace,FairFace/train/33309.jpg,MiddleEastern,Female,20-29,train,MiddleEastern,5,none,0.0,0.0,0.0,0.858,0.907,0.539,
+FA_FF_51210,FairFace,FairFace/train/51210.jpg,MiddleEastern,Male,10-19,train,MiddleEastern,3,none,0.0,0.0,0.0,0.871,0.863,0.523,
+FA_FF_85006,FairFace,FairFace/train/85006.jpg,MiddleEastern,Female,30-39,train,MiddleEastern,7,none,0.0,0.0,0.0,0.858,0.892,0.784,
+FA_FF_84084,FairFace,FairFace/train/84084.jpg,MiddleEastern,Male,40-49,train,MiddleEastern,7,beard,0.0,0.0,0.0,0.821,0.844,0.724,
+FA_FF_34190,FairFace,FairFace/train/34190.jpg,MiddleEastern,Female,20-29,train,MiddleEastern,2,none,0.0,0.0,0.0,0.906,0.929,0.787,
+FA_FF_45873,FairFace,FairFace/train/45873.jpg,MiddleEastern,Female,30-39,train,MiddleEastern|SouthAsian,4,none,1.0,0.0,1.0,0.599,0.835,0.697,auto: multi-heritage heuristic; auto: low confidence / uncertain
+FA_FF_75094,FairFace,FairFace/train/75094.jpg,MiddleEastern,Male,30-39,train,MiddleEastern,3,none,0.0,0.0,0.0,0.952,0.973,0.687,
+FA_FF_45803,FairFace,FairFace/train/45803.jpg,MiddleEastern,Male,20-29,train,MiddleEastern,2,piercing_visible,0.0,0.0,1.0,0.411,0.862,0.652,auto: low confidence / uncertain
+FA_FF_10838,FairFace,FairFace/train/10838.jpg,MiddleEastern,Female,3-9,train,MiddleEastern,1,none,0.0,0.0,0.0,0.815,0.893,0.652,
+FA_FF_779,FairFace,FairFace/train/779.jpg,MiddleEastern,Male,20-29,train,MiddleEastern,5,none,0.0,0.0,0.0,0.89,0.812,0.545,
+FA_FF_45087,FairFace,FairFace/train/45087.jpg,MiddleEastern,Female,50-59,train,MiddleEastern|Latino,4,piercing_visible,1.0,0.0,1.0,0.571,0.998,0.712,auto: multi-heritage heuristic; auto: low confidence / uncertain
+FA_FF_29598,FairFace,FairFace/train/29598.jpg,MiddleEastern,Female,20-29,train,MiddleEastern,1,none,0.0,0.0,0.0,0.984,0.926,0.516,
+FA_FF_21758,FairFace,FairFace/train/21758.jpg,MiddleEastern,Female,20-29,train,MiddleEastern,2,none,0.0,0.0,0.0,0.877,0.83,0.681,
+FA_FF_69020,FairFace,FairFace/train/69020.jpg,MiddleEastern,Male,30-39,train,MiddleEastern|SouthAsian,7,none,1.0,0.0,0.0,0.628,0.912,0.525,auto: multi-heritage heuristic
+FA_FF_16548,FairFace,FairFace/train/16548.jpg,MiddleEastern,Male,50-59,train,MiddleEastern,2,none,0.0,0.0,0.0,0.941,0.902,0.701,
+FA_FF_62784,FairFace,FairFace/train/62784.jpg,MiddleEastern,Male,40-49,train,MiddleEastern|Latino,2,none,1.0,0.0,0.0,0.604,0.969,0.523,auto: multi-heritage heuristic
+FA_FF_15105,FairFace,FairFace/train/15105.jpg,MiddleEastern,Male,30-39,train,MiddleEastern|SouthAsian,4,none,1.0,0.0,0.0,0.769,0.925,0.708,auto: multi-heritage heuristic
+FA_FF_21065,FairFace,FairFace/train/21065.jpg,MiddleEastern,Male,60-69,train,MiddleEastern,7,none,0.0,0.0,1.0,0.391,0.957,0.726,auto: low confidence / uncertain
+FA_FF_10848,FairFace,FairFace/train/10848.jpg,MiddleEastern,Male,20-29,train,MiddleEastern,2,none,0.0,0.0,0.0,0.957,0.954,0.632,
+FA_FF_38038,FairFace,FairFace/train/38038.jpg,MiddleEastern,Female,3-9,train,MiddleEastern,5,none,0.0,0.0,0.0,0.832,0.896,0.516,
+FA_FF_54780,FairFace,FairFace/train/54780.jpg,MiddleEastern,Male,20-29,train,MiddleEastern,6,religious_headwear,0.0,0.0,0.0,0.903,0.966,0.654,
+FA_FF_3202,FairFace,FairFace/train/3202.jpg,MiddleEastern,Male,40-49,train,MiddleEastern|SouthAsian,2,none,1.0,0.0,0.0,0.771,0.816,0.616,auto: multi-heritage heuristic
+FA_FF_86174,FairFace,FairFace/train/86174.jpg,MiddleEastern,Female,10-19,train,MiddleEastern,6,none,0.0,0.0,1.0,0.479,0.983,0.511,auto: low confidence / uncertain
+FA_FF_66174,FairFace,FairFace/train/66174.jpg,MiddleEastern,Male,40-49,train,MiddleEastern,3,beard,0.0,0.0,0.0,0.894,0.988,0.545,
+FA_FF_42955,FairFace,FairFace/train/42955.jpg,MiddleEastern,Female,0-2,train,MiddleEastern,5,none,0.0,0.0,0.0,0.848,0.813,0.687,
+FA_FF_7245,FairFace,FairFace/train/7245.jpg,MiddleEastern,Male,40-49,train,MiddleEastern,5,piercing_visible,0.0,0.0,0.0,0.926,0.914,0.606,
+FA_FF_74709,FairFace,FairFace/train/74709.jpg,MiddleEastern,Female,40-49,train,MiddleEastern,4,none,0.0,0.0,0.0,0.872,0.804,0.652,
+FA_FF_41822,FairFace,FairFace/train/41822.jpg,MiddleEastern,Female,20-29,train,MiddleEastern,1,none,0.0,0.0,0.0,0.875,0.931,0.572,
+FA_FF_51559,FairFace,FairFace/train/51559.jpg,MiddleEastern,Female,20-29,train,MiddleEastern|Latino,6,none,1.0,0.0,0.0,0.638,0.996,0.705,auto: multi-heritage heuristic
+FA_FF_59688,FairFace,FairFace/train/59688.jpg,MiddleEastern,Male,30-39,train,MiddleEastern,3,religious_headwear,0.0,0.0,0.0,0.943,0.863,0.766,
+FA_FF_44305,FairFace,FairFace/train/44305.jpg,MiddleEastern,Female,30-39,train,MiddleEastern,2,none,0.0,0.0,1.0,0.895,0.81,0.759,auto: low confidence / uncertain
+FA_FF_51946,FairFace,FairFace/train/51946.jpg,MiddleEastern,Male,30-39,train,MiddleEastern,1,none,0.0,0.0,0.0,0.887,0.938,0.556,
+FA_FF_12965,FairFace,FairFace/train/12965.jpg,MiddleEastern,Male,60-69,train,MiddleEastern,5,none,0.0,0.0,0.0,0.817,0.821,0.588,
+FA_FF_29256,FairFace,FairFace/train/29256.jpg,MiddleEastern,Male,40-49,train,MiddleEastern,5,none,0.0,0.0,0.0,0.944,0.923,0.773,
+FA_FF_49377,FairFace,FairFace/train/49377.jpg,MiddleEastern,Male,10-19,train,MiddleEastern,1,none,0.0,0.0,0.0,0.811,0.806,0.548,
+FA_FF_71688,FairFace,FairFace/train/71688.jpg,MiddleEastern,Male,20-29,train,MiddleEastern,4,none,0.0,0.0,0.0,0.825,0.831,0.51,
+FA_FF_47501,FairFace,FairFace/train/47501.jpg,MiddleEastern,Female,20-29,train,MiddleEastern,2,none,0.0,0.0,0.0,0.815,0.992,0.584,
+FA_FF_38799,FairFace,FairFace/train/38799.jpg,MiddleEastern,Female,40-49,train,MiddleEastern|SouthAsian,5,none,1.0,0.0,0.0,0.647,0.999,0.634,auto: multi-heritage heuristic
+FA_FF_78966,FairFace,FairFace/train/78966.jpg,MiddleEastern,Male,10-19,train,MiddleEastern,2,none,0.0,0.0,0.0,0.825,0.936,0.526,
+FA_FF_23797,FairFace,FairFace/train/23797.jpg,MiddleEastern,Male,40-49,train,MiddleEastern,5,none,0.0,0.0,0.0,0.813,0.928,0.778,
+FA_FF_67881,FairFace,FairFace/train/67881.jpg,MiddleEastern,Female,30-39,train,MiddleEastern,3,piercing_visible,0.0,0.0,0.0,0.84,0.874,0.666,
+FA_FF_7414,FairFace,FairFace/train/7414.jpg,MiddleEastern,Male,10-19,train,MiddleEastern,7,none,0.0,0.0,0.0,0.817,0.965,0.731,
+FA_FF_29284,FairFace,FairFace/train/29284.jpg,MiddleEastern,Female,20-29,train,MiddleEastern|Latino,1,none,1.0,0.0,0.0,0.662,0.928,0.734,auto: multi-heritage heuristic
+FA_FF_51816,FairFace,FairFace/train/51816.jpg,MiddleEastern,Male,20-29,train,MiddleEastern,3,none,0.0,0.0,1.0,0.982,0.942,0.597,auto: low confidence / uncertain
+FA_FF_78645,FairFace,FairFace/train/78645.jpg,MiddleEastern,Female,20-29,train,MiddleEastern,1,none,0.0,0.0,0.0,0.969,0.861,0.538,
+FA_FF_43392,FairFace,FairFace/train/43392.jpg,MiddleEastern,Female,20-29,train,MiddleEastern,7,none,0.0,0.0,0.0,0.988,0.969,0.682,
+FA_FF_31186,FairFace,FairFace/train/31186.jpg,MiddleEastern,Male,30-39,train,MiddleEastern,7,none,0.0,0.0,1.0,0.311,0.883,0.73,auto: low confidence / uncertain
+FA_FF_81586,FairFace,FairFace/train/81586.jpg,MiddleEastern,Female,20-29,train,MiddleEastern,2,none,0.0,0.0,0.0,0.858,0.859,0.705,
+FA_FF_50557,FairFace,FairFace/train/50557.jpg,MiddleEastern,Male,3-9,train,MiddleEastern|SouthAsian,5,none,1.0,0.0,0.0,0.654,0.998,0.596,auto: multi-heritage heuristic
+FA_FF_21080,FairFace,FairFace/train/21080.jpg,MiddleEastern,Male,40-49,train,MiddleEastern,6,none,0.0,0.0,0.0,0.903,0.81,0.542,
+FA_FF_68489,FairFace,FairFace/train/68489.jpg,MiddleEastern,Male,20-29,train,MiddleEastern,4,none,0.0,0.0,0.0,0.993,0.832,0.557,
+FA_FF_65913,FairFace,FairFace/train/65913.jpg,EastAsian,Female,60-69,train,EastAsian,4,none,0.0,0.0,1.0,0.899,0.848,0.637,auto: low confidence / uncertain
+UT_UTK_28_1_2_20170116192305668.jpg.chip,UTKFace,UTKFace/28_1_2_20170116192305668.jpg.chip.jpg,EastAsian,Female,,train,EastAsian,2,none,0.0,0.0,0.0,0.92,0.802,0.586,
+UT_UTK_1_0_2_20161219205717701.jpg.chip,UTKFace,UTKFace/1_0_2_20161219205717701.jpg.chip.jpg,EastAsian,Male,,train,EastAsian|SoutheastAsian,1,none,1.0,0.0,0.0,0.732,0.839,0.671,auto: multi-heritage heuristic
+UT_UTK_2_0_2_20161219192307618.jpg.chip,UTKFace,UTKFace/2_0_2_20161219192307618.jpg.chip.jpg,EastAsian,Male,,train,EastAsian,7,none,0.0,0.0,0.0,0.953,0.995,0.536,
+FA_FF_43822,FairFace,FairFace/train/43822.jpg,EastAsian,Male,40-49,train,EastAsian,7,none,0.0,0.0,0.0,0.988,0.809,0.65,
+FA_FF_10208,FairFace,FairFace/train/10208.jpg,EastAsian,Female,20-29,train,EastAsian|SoutheastAsian,5,none,1.0,0.0,0.0,0.68,0.986,0.542,auto: multi-heritage heuristic
+UT_UTK_35_1_2_20170117135409365.jpg.chip,UTKFace,UTKFace/35_1_2_20170117135409365.jpg.chip.jpg,EastAsian,Female,,train,EastAsian,3,none,0.0,0.0,0.0,0.969,0.898,0.653,
+FA_FF_62196,FairFace,FairFace/train/62196.jpg,EastAsian,Female,30-39,train,EastAsian,3,none,0.0,0.0,1.0,0.383,0.862,0.625,auto: low confidence / uncertain
+UT_UTK_24_1_2_20170116174406776.jpg.chip,UTKFace,UTKFace/24_1_2_20170116174406776.jpg.chip.jpg,EastAsian,Female,,train,EastAsian,6,none,0.0,0.0,0.0,0.919,0.916,0.792,
+UT_UTK_2_1_2_20161219204046924.jpg.chip,UTKFace,UTKFace/2_1_2_20161219204046924.jpg.chip.jpg,EastAsian,Female,,train,EastAsian,7,none,0.0,0.0,0.0,0.905,0.964,0.614,
+UT_UTK_24_0_2_20170116165047009.jpg.chip,UTKFace,UTKFace/24_0_2_20170116165047009.jpg.chip.jpg,EastAsian,Male,,train,EastAsian,7,none,0.0,0.0,0.0,0.838,0.9,0.561,
+UT_UTK_2_0_2_20161219161046894.jpg.chip,UTKFace,UTKFace/2_0_2_20161219161046894.jpg.chip.jpg,EastAsian,Male,,train,EastAsian,6,none,0.0,0.0,0.0,0.945,0.896,0.799,
+FA_FF_18622,FairFace,FairFace/train/18622.jpg,EastAsian,Female,0-2,train,EastAsian,5,none,0.0,0.0,0.0,0.907,0.936,0.76,
+UT_UTK_4_1_2_20161219160740335.jpg.chip,UTKFace,UTKFace/4_1_2_20161219160740335.jpg.chip.jpg,EastAsian,Female,,train,EastAsian,1,none,0.0,0.0,0.0,0.991,0.996,0.782,
+FA_FF_24710,FairFace,FairFace/train/24710.jpg,EastAsian,Male,20-29,train,EastAsian,2,none,0.0,0.0,0.0,0.898,0.858,0.716,
+FA_FF_36868,FairFace,FairFace/train/36868.jpg,EastAsian,Male,3-9,train,EastAsian,7,none,0.0,0.0,0.0,0.879,0.991,0.513,
+FA_FF_12192,FairFace,FairFace/train/12192.jpg,EastAsian,Male,40-49,train,EastAsian|SoutheastAsian,5,none,1.0,0.0,0.0,0.737,0.854,0.669,auto: multi-heritage heuristic
+FA_FF_2427,FairFace,FairFace/train/2427.jpg,EastAsian,Female,30-39,train,EastAsian|SoutheastAsian,1,none,1.0,0.0,0.0,0.717,0.883,0.516,auto: multi-heritage heuristic
+FA_FF_73341,FairFace,FairFace/train/73341.jpg,EastAsian,Female,10-19,train,EastAsian,1,none,0.0,0.0,0.0,0.801,0.987,0.622,
+FA_FF_18232,FairFace,FairFace/train/18232.jpg,EastAsian,Female,40-49,train,EastAsian,5,none,0.0,0.0,0.0,0.993,0.818,0.772,
+UT_UTK_38_0_2_20170109002407221.jpg.chip,UTKFace,UTKFace/38_0_2_20170109002407221.jpg.chip.jpg,EastAsian,Male,,train,EastAsian,1,none,0.0,0.0,0.0,0.987,0.984,0.553,
+FA_FF_76460,FairFace,FairFace/train/76460.jpg,EastAsian,Male,60-69,train,EastAsian,2,none,0.0,0.0,0.0,0.987,0.914,0.503,
+FA_FF_26952,FairFace,FairFace/train/26952.jpg,EastAsian,Male,20-29,train,EastAsian|SoutheastAsian,4,none,1.0,0.0,0.0,0.797,0.894,0.755,auto: multi-heritage heuristic
+UT_UTK_27_0_2_20170104011250152.jpg.chip,UTKFace,UTKFace/27_0_2_20170104011250152.jpg.chip.jpg,EastAsian,Male,,train,EastAsian,5,none,0.0,0.0,0.0,0.892,0.914,0.737,
+UT_UTK_24_1_2_20170116171030907.jpg.chip,UTKFace,UTKFace/24_1_2_20170116171030907.jpg.chip.jpg,EastAsian,Female,,train,EastAsian,5,none,0.0,0.0,0.0,0.979,0.934,0.526,
+FA_FF_60603,FairFace,FairFace/train/60603.jpg,EastAsian,Male,3-9,train,EastAsian,2,none,0.0,0.0,0.0,0.85,0.86,0.786,
+UT_UTK_27_1_2_20170116172501420.jpg.chip,UTKFace,UTKFace/27_1_2_20170116172501420.jpg.chip.jpg,EastAsian,Female,,train,EastAsian,5,none,0.0,0.0,1.0,0.939,0.881,0.592,auto: low confidence / uncertain
+UT_UTK_6_1_2_20161219190053203.jpg.chip,UTKFace,UTKFace/6_1_2_20161219190053203.jpg.chip.jpg,EastAsian,Female,,train,EastAsian,2,none,0.0,0.0,0.0,0.862,0.923,0.589,
+UT_UTK_2_0_2_20161219211219902.jpg.chip,UTKFace,UTKFace/2_0_2_20161219211219902.jpg.chip.jpg,EastAsian,Male,,train,EastAsian,3,none,0.0,0.0,0.0,0.95,0.908,0.641,
+UT_UTK_6_1_2_20161219153247548.jpg.chip,UTKFace,UTKFace/6_1_2_20161219153247548.jpg.chip.jpg,EastAsian,Female,,train,EastAsian,6,none,0.0,0.0,0.0,0.951,0.941,0.634,
+UT_UTK_30_0_2_20170116174814595.jpg.chip,UTKFace,UTKFace/30_0_2_20170116174814595.jpg.chip.jpg,EastAsian,Male,,train,EastAsian|SoutheastAsian,5,none,1.0,0.0,0.0,0.687,0.904,0.598,auto: multi-heritage heuristic
+UT_UTK_24_0_2_20170116165205506.jpg.chip,UTKFace,UTKFace/24_0_2_20170116165205506.jpg.chip.jpg,EastAsian,Male,,train,EastAsian|SoutheastAsian,6,piercing_visible,1.0,0.0,0.0,0.672,0.883,0.54,auto: multi-heritage heuristic
+UT_UTK_26_1_2_20170116184054722.jpg.chip,UTKFace,UTKFace/26_1_2_20170116184054722.jpg.chip.jpg,EastAsian,Female,,train,EastAsian,5,none,0.0,0.0,1.0,0.862,0.844,0.501,auto: low confidence / uncertain
+UT_UTK_26_1_2_20170116233134701.jpg.chip,UTKFace,UTKFace/26_1_2_20170116233134701.jpg.chip.jpg,EastAsian,Female,,train,EastAsian|SoutheastAsian,4,none,1.0,0.0,1.0,0.566,0.814,0.78,auto: multi-heritage heuristic; auto: low confidence / uncertain
+FA_FF_34620,FairFace,FairFace/train/34620.jpg,EastAsian,Male,3-9,train,EastAsian,1,none,0.0,0.0,0.0,0.954,0.999,0.626,
+FA_FF_13223,FairFace,FairFace/train/13223.jpg,EastAsian,Male,20-29,train,EastAsian,3,none,0.0,0.0,0.0,0.875,0.87,0.696,
+UT_UTK_4_0_2_20161219154925917.jpg.chip,UTKFace,UTKFace/4_0_2_20161219154925917.jpg.chip.jpg,EastAsian,Male,,train,EastAsian,2,beard|piercing_visible,0.0,0.0,0.0,0.946,0.935,0.59,
+FA_FF_77727,FairFace,FairFace/train/77727.jpg,EastAsian,Female,3-9,train,EastAsian,2,none,0.0,0.0,0.0,0.85,0.945,0.781,
+FA_FF_49000,FairFace,FairFace/train/49000.jpg,EastAsian,Male,20-29,train,EastAsian|SoutheastAsian,7,none,1.0,0.0,0.0,0.784,0.889,0.678,auto: multi-heritage heuristic
+UT_UTK_3_1_2_20161219212116151.jpg.chip,UTKFace,UTKFace/3_1_2_20161219212116151.jpg.chip.jpg,EastAsian,Female,,train,EastAsian,3,none,0.0,0.0,0.0,0.809,0.955,0.726,
+FA_FF_49567,FairFace,FairFace/train/49567.jpg,EastAsian,Male,30-39,train,EastAsian|SoutheastAsian,7,none,1.0,0.0,0.0,0.779,0.847,0.746,auto: multi-heritage heuristic
+UT_UTK_86_0_2_20170112220210391.jpg.chip,UTKFace,UTKFace/86_0_2_20170112220210391.jpg.chip.jpg,EastAsian,Male,,train,EastAsian,5,none,0.0,0.0,0.0,0.883,0.835,0.721,
+FA_FF_53347,FairFace,FairFace/train/53347.jpg,EastAsian,Male,30-39,train,EastAsian,6,none,0.0,0.0,1.0,0.386,0.939,0.657,auto: low confidence / uncertain
+UT_UTK_30_1_2_20170116163932623.jpg.chip,UTKFace,UTKFace/30_1_2_20170116163932623.jpg.chip.jpg,EastAsian,Female,,train,EastAsian,4,none,0.0,0.0,0.0,0.908,0.829,0.757,
+UT_UTK_27_1_2_20170116190003226.jpg.chip,UTKFace,UTKFace/27_1_2_20170116190003226.jpg.chip.jpg,EastAsian,Female,,train,EastAsian,5,none,0.0,0.0,0.0,0.883,0.866,0.576,
+FA_FF_36778,FairFace,FairFace/train/36778.jpg,EastAsian,Male,20-29,train,EastAsian|SoutheastAsian,4,none,1.0,0.0,1.0,0.573,0.935,0.581,auto: multi-heritage heuristic; auto: low confidence / uncertain
+FA_FF_32954,FairFace,FairFace/train/32954.jpg,EastAsian,Male,20-29,train,EastAsian,2,none,0.0,0.0,0.0,0.952,0.867,0.761,
+UT_UTK_27_1_2_20170116163739668.jpg.chip,UTKFace,UTKFace/27_1_2_20170116163739668.jpg.chip.jpg,EastAsian,Female,,train,EastAsian,6,none,0.0,0.0,0.0,0.992,0.849,0.644,
+FA_FF_74838,FairFace,FairFace/train/74838.jpg,EastAsian,Female,30-39,train,EastAsian,2,none,0.0,0.0,0.0,0.91,0.872,0.66,
+UT_UTK_23_1_2_20170116173036181.jpg.chip,UTKFace,UTKFace/23_1_2_20170116173036181.jpg.chip.jpg,EastAsian,Female,,train,EastAsian,1,none,0.0,0.0,0.0,0.82,0.983,0.752,
+UT_UTK_1_0_2_20161219142452152.jpg.chip,UTKFace,UTKFace/1_0_2_20161219142452152.jpg.chip.jpg,EastAsian,Male,,train,EastAsian,5,none,0.0,0.0,0.0,0.844,0.884,0.674,
+UT_UTK_61_0_2_20170112205237140.jpg.chip,UTKFace,UTKFace/61_0_2_20170112205237140.jpg.chip.jpg,EastAsian,Male,,train,EastAsian,2,none,0.0,0.0,0.0,0.967,0.964,0.577,
+UT_UTK_29_1_2_20170116171619907.jpg.chip,UTKFace,UTKFace/29_1_2_20170116171619907.jpg.chip.jpg,EastAsian,Female,,train,EastAsian,7,none,0.0,0.0,0.0,0.834,0.898,0.716,
+FA_FF_19631,FairFace,FairFace/train/19631.jpg,EastAsian,Female,30-39,train,EastAsian,7,none,0.0,0.0,1.0,0.812,0.934,0.784,auto: low confidence / uncertain
+FA_FF_63210,FairFace,FairFace/train/63210.jpg,EastAsian,Female,20-29,train,EastAsian,7,piercing_visible,0.0,0.0,0.0,0.846,0.875,0.652,
+FA_FF_74743,FairFace,FairFace/train/74743.jpg,EastAsian,Female,20-29,train,EastAsian,3,piercing_visible,0.0,0.0,0.0,0.897,0.802,0.665,
+FA_FF_23353,FairFace,FairFace/train/23353.jpg,EastAsian,Male,60-69,train,EastAsian,1,none,0.0,0.0,0.0,0.803,0.821,0.773,
+FA_FF_35422,FairFace,FairFace/train/35422.jpg,EastAsian,Female,40-49,train,EastAsian|SoutheastAsian,7,none,1.0,0.0,0.0,0.705,0.816,0.738,auto: multi-heritage heuristic
+UT_UTK_24_1_2_20170116174428658.jpg.chip,UTKFace,UTKFace/24_1_2_20170116174428658.jpg.chip.jpg,EastAsian,Female,,train,EastAsian,3,none,0.0,0.0,0.0,0.939,0.998,0.524,
+FA_FF_41136,FairFace,FairFace/train/41136.jpg,EastAsian,Male,3-9,train,EastAsian,7,none,0.0,0.0,0.0,0.875,0.969,0.525,
+FA_FF_80739,FairFace,FairFace/train/80739.jpg,EastAsian,Male,10-19,train,EastAsian,7,none,0.0,0.0,0.0,0.995,0.938,0.77,
+UT_UTK_24_1_2_20170116163634730.jpg.chip,UTKFace,UTKFace/24_1_2_20170116163634730.jpg.chip.jpg,EastAsian,Female,,train,EastAsian,6,none,0.0,0.0,0.0,0.937,0.836,0.697,
+FA_FF_57184,FairFace,FairFace/train/57184.jpg,EastAsian,Male,3-9,train,EastAsian,3,none,0.0,0.0,0.0,0.829,0.913,0.59,
+UT_UTK_1_0_2_20161219222043223.jpg.chip,UTKFace,UTKFace/1_0_2_20161219222043223.jpg.chip.jpg,EastAsian,Male,,train,EastAsian,3,none,0.0,0.0,0.0,0.908,0.816,0.707,
+UT_UTK_1_1_2_20161219200539420.jpg.chip,UTKFace,UTKFace/1_1_2_20161219200539420.jpg.chip.jpg,EastAsian,Female,,train,EastAsian,6,none,0.0,0.0,1.0,0.358,0.923,0.682,auto: low confidence / uncertain
+UT_UTK_26_1_2_20170116161912952.jpg.chip,UTKFace,UTKFace/26_1_2_20170116161912952.jpg.chip.jpg,EastAsian,Female,,train,EastAsian,3,none,0.0,0.0,0.0,0.927,0.911,0.568,
+FA_FF_24096,FairFace,FairFace/train/24096.jpg,EastAsian,Male,30-39,train,EastAsian,2,none,0.0,0.0,0.0,0.876,0.854,0.522,
+UT_UTK_1_0_2_20161219200342123.jpg.chip,UTKFace,UTKFace/1_0_2_20161219200342123.jpg.chip.jpg,EastAsian,Male,,train,EastAsian,4,beard,0.0,0.0,0.0,0.878,0.952,0.633,
+FA_FF_66046,FairFace,FairFace/train/66046.jpg,EastAsian,Female,20-29,train,EastAsian|SoutheastAsian,7,none,1.0,0.0,0.0,0.662,0.871,0.508,auto: multi-heritage heuristic
+UT_UTK_27_1_2_20170116165601873.jpg.chip,UTKFace,UTKFace/27_1_2_20170116165601873.jpg.chip.jpg,EastAsian,Female,,train,EastAsian|SoutheastAsian,5,none,1.0,0.0,1.0,0.553,0.945,0.734,auto: multi-heritage heuristic; auto: low confidence / uncertain
+UT_UTK_58_0_2_20170116193604774.jpg.chip,UTKFace,UTKFace/58_0_2_20170116193604774.jpg.chip.jpg,EastAsian,Male,,train,EastAsian,4,none,0.0,0.0,0.0,0.904,0.829,0.581,
+UT_UTK_19_1_2_20170104021632526.jpg.chip,UTKFace,UTKFace/19_1_2_20170104021632526.jpg.chip.jpg,EastAsian,Female,,train,EastAsian,1,none,0.0,0.0,0.0,0.957,0.899,0.716,
+FA_FF_10301,FairFace,FairFace/train/10301.jpg,EastAsian,Female,20-29,train,EastAsian,5,none,0.0,0.0,0.0,0.801,0.972,0.614,
+FA_FF_8044,FairFace,FairFace/train/8044.jpg,EastAsian,Male,20-29,train,EastAsian,7,none,0.0,0.0,0.0,0.93,0.896,0.709,
+FA_FF_14207,FairFace,FairFace/train/14207.jpg,EastAsian,Female,30-39,train,EastAsian,1,none,0.0,0.0,0.0,0.947,0.865,0.735,
+FA_FF_17252,FairFace,FairFace/train/17252.jpg,EastAsian,Female,10-19,train,EastAsian,4,none,0.0,0.0,0.0,0.986,0.954,0.554,
+FA_FF_58893,FairFace,FairFace/train/58893.jpg,EastAsian,Male,20-29,train,EastAsian|SoutheastAsian,7,none,1.0,0.0,0.0,0.602,0.959,0.754,auto: multi-heritage heuristic
+FA_FF_25607,FairFace,FairFace/train/25607.jpg,EastAsian,Male,30-39,train,EastAsian,6,none,0.0,0.0,0.0,0.851,0.92,0.635,
+FA_FF_22093,FairFace,FairFace/train/22093.jpg,EastAsian,Male,20-29,train,EastAsian,5,beard,0.0,0.0,0.0,0.974,0.962,0.71,
+FA_FF_37149,FairFace,FairFace/train/37149.jpg,EastAsian,Female,3-9,train,EastAsian,5,none,0.0,0.0,0.0,0.85,0.913,0.684,
+UT_UTK_1_0_2_20161219140540938.jpg.chip,UTKFace,UTKFace/1_0_2_20161219140540938.jpg.chip.jpg,EastAsian,Male,,train,EastAsian,3,beard,0.0,0.0,0.0,0.866,0.949,0.567,
+UT_UTK_29_0_2_20170116163356668.jpg.chip,UTKFace,UTKFace/29_0_2_20170116163356668.jpg.chip.jpg,EastAsian,Male,,train,EastAsian,3,none,0.0,0.0,0.0,0.875,1.0,0.545,
+UT_UTK_32_1_2_20170117134739830.jpg.chip,UTKFace,UTKFace/32_1_2_20170117134739830.jpg.chip.jpg,EastAsian,Female,,train,EastAsian,6,none,0.0,0.0,0.0,0.817,0.869,0.604,
+FA_FF_79869,FairFace,FairFace/train/79869.jpg,EastAsian,Male,30-39,train,EastAsian,6,none,0.0,0.0,0.0,0.82,0.942,0.513,
+FA_FF_9426,FairFace,FairFace/train/9426.jpg,EastAsian,Female,more than 70,train,EastAsian|SoutheastAsian,7,none,1.0,0.0,0.0,0.719,0.835,0.573,auto: multi-heritage heuristic
+UT_UTK_35_0_2_20170105172512670.jpg.chip,UTKFace,UTKFace/35_0_2_20170105172512670.jpg.chip.jpg,EastAsian,Male,,train,EastAsian,7,none,0.0,0.0,0.0,0.846,0.806,0.63,
+UT_UTK_23_0_2_20170116172856091.jpg.chip,UTKFace,UTKFace/23_0_2_20170116172856091.jpg.chip.jpg,EastAsian,Male,,train,EastAsian,4,none,0.0,0.0,0.0,0.878,0.813,0.743,
+UT_UTK_26_1_2_20170116184059994.jpg.chip,UTKFace,UTKFace/26_1_2_20170116184059994.jpg.chip.jpg,EastAsian,Female,,train,EastAsian|SoutheastAsian,4,none,1.0,0.0,1.0,0.599,0.898,0.701,auto: multi-heritage heuristic; auto: low confidence / uncertain
+UT_UTK_35_0_2_20170117135017903.jpg.chip,UTKFace,UTKFace/35_0_2_20170117135017903.jpg.chip.jpg,EastAsian,Male,,train,EastAsian,6,none,0.0,0.0,0.0,0.879,0.935,0.552,
+UT_UTK_35_1_2_20170116233432190.jpg.chip,UTKFace,UTKFace/35_1_2_20170116233432190.jpg.chip.jpg,EastAsian,Female,,train,EastAsian,5,none,0.0,0.0,0.0,0.934,0.875,0.535,
+FA_FF_26080,FairFace,FairFace/train/26080.jpg,EastAsian,Female,3-9,train,EastAsian|SoutheastAsian,5,none,1.0,0.0,1.0,0.584,0.927,0.556,auto: multi-heritage heuristic; auto: low confidence / uncertain
+FA_FF_56491,FairFace,FairFace/train/56491.jpg,EastAsian,Male,30-39,train,EastAsian,6,none,0.0,0.0,0.0,0.911,0.811,0.635,
+UT_UTK_27_1_2_20170116163338293.jpg.chip,UTKFace,UTKFace/27_1_2_20170116163338293.jpg.chip.jpg,EastAsian,Female,,train,EastAsian,7,none,0.0,1.0,1.0,0.334,0.901,0.789,auto: low confidence / uncertain; auto: prefer-not-to-label set
+FA_FF_28633,FairFace,FairFace/train/28633.jpg,EastAsian,Female,20-29,train,EastAsian,3,none,0.0,0.0,0.0,0.968,0.952,0.509,
+UT_UTK_28_0_2_20170116164352558.jpg.chip,UTKFace,UTKFace/28_0_2_20170116164352558.jpg.chip.jpg,EastAsian,Male,,train,EastAsian,3,none,0.0,0.0,0.0,0.834,0.823,0.665,
+FA_FF_85014,FairFace,FairFace/train/85014.jpg,EastAsian,Male,30-39,train,EastAsian|SoutheastAsian,1,none,1.0,0.0,0.0,0.739,0.947,0.628,auto: multi-heritage heuristic
+UT_UTK_29_1_2_20170104021748445.jpg.chip,UTKFace,UTKFace/29_1_2_20170104021748445.jpg.chip.jpg,EastAsian,Female,,train,EastAsian,5,none,0.0,0.0,0.0,0.806,0.973,0.526,
+FA_FF_30654,FairFace,FairFace/train/30654.jpg,EastAsian,Female,20-29,train,EastAsian|SoutheastAsian,1,none,1.0,0.0,0.0,0.734,0.886,0.683,auto: multi-heritage heuristic
+FA_FF_55221,FairFace,FairFace/train/55221.jpg,EastAsian,Female,20-29,train,EastAsian,4,none,0.0,0.0,0.0,0.961,0.834,0.679,
+UT_UTK_54_0_2_20170120223248924.jpg.chip,UTKFace,UTKFace/54_0_2_20170120223248924.jpg.chip.jpg,EastAsian,Male,,train,EastAsian,4,none,0.0,0.0,0.0,0.99,0.95,0.541,
+UT_UTK_1_1_2_20161219162730478.jpg.chip,UTKFace,UTKFace/1_1_2_20161219162730478.jpg.chip.jpg,EastAsian,Female,,train,EastAsian,3,none,0.0,0.0,0.0,0.931,0.864,0.544,
+FA_FF_77600,FairFace,FairFace/train/77600.jpg,SoutheastAsian,Male,10-19,train,SoutheastAsian,5,none,0.0,0.0,0.0,0.828,0.959,0.523,
+FA_FF_60620,FairFace,FairFace/train/60620.jpg,SoutheastAsian,Female,3-9,train,SoutheastAsian,1,none,0.0,0.0,0.0,0.939,0.916,0.646,
+FA_FF_13686,FairFace,FairFace/train/13686.jpg,SoutheastAsian,Female,20-29,train,SoutheastAsian,1,none,0.0,0.0,1.0,0.543,0.97,0.709,auto: low confidence / uncertain
+FA_FF_28528,FairFace,FairFace/train/28528.jpg,SoutheastAsian,Female,3-9,train,SoutheastAsian,6,none,0.0,0.0,0.0,0.965,0.909,0.585,
+FA_FF_52586,FairFace,FairFace/train/52586.jpg,SoutheastAsian,Female,30-39,train,SoutheastAsian|SouthAsian,3,piercing_visible,1.0,0.0,0.0,0.774,0.967,0.688,auto: multi-heritage heuristic
+FA_FF_86427,FairFace,FairFace/train/86427.jpg,SoutheastAsian,Female,10-19,train,SoutheastAsian|EastAsian,1,none,1.0,0.0,1.0,0.55,0.938,0.561,auto: multi-heritage heuristic; auto: low confidence / uncertain
+FA_FF_77541,FairFace,FairFace/train/77541.jpg,SoutheastAsian,Male,3-9,train,SoutheastAsian|SouthAsian,4,none,1.0,0.0,0.0,0.783,0.981,0.612,auto: multi-heritage heuristic
+FA_FF_55626,FairFace,FairFace/train/55626.jpg,SoutheastAsian,Male,60-69,train,SoutheastAsian,6,none,0.0,0.0,0.0,0.94,0.895,0.5,
+FA_FF_62548,FairFace,FairFace/train/62548.jpg,SoutheastAsian,Female,20-29,train,SoutheastAsian|EastAsian,2,none,1.0,0.0,1.0,0.661,0.972,0.536,auto: multi-heritage heuristic; auto: low confidence / uncertain
+FA_FF_14972,FairFace,FairFace/train/14972.jpg,SoutheastAsian,Male,30-39,train,SoutheastAsian,5,beard,0.0,0.0,0.0,0.818,0.877,0.59,
+FA_FF_24228,FairFace,FairFace/train/24228.jpg,SoutheastAsian,Male,10-19,train,SoutheastAsian,1,none,0.0,0.0,1.0,0.935,0.87,0.549,auto: low confidence / uncertain
+FA_FF_39024,FairFace,FairFace/train/39024.jpg,SoutheastAsian,Male,40-49,train,SoutheastAsian,1,none,0.0,0.0,0.0,0.923,0.825,0.542,
+FA_FF_4506,FairFace,FairFace/train/4506.jpg,SoutheastAsian,Female,20-29,train,SoutheastAsian,4,none,0.0,0.0,0.0,0.958,0.92,0.574,
+FA_FF_877,FairFace,FairFace/train/877.jpg,SoutheastAsian,Female,20-29,train,SoutheastAsian,4,none,0.0,0.0,0.0,0.805,0.921,0.562,
+FA_FF_14197,FairFace,FairFace/train/14197.jpg,SoutheastAsian,Female,20-29,train,SoutheastAsian,5,none,0.0,0.0,0.0,0.957,0.848,0.616,
+FA_FF_6363,FairFace,FairFace/train/6363.jpg,SoutheastAsian,Male,40-49,train,SoutheastAsian,6,none,0.0,0.0,0.0,0.802,0.884,0.752,
+FA_FF_11367,FairFace,FairFace/train/11367.jpg,SoutheastAsian,Female,20-29,train,SoutheastAsian,7,none,0.0,0.0,1.0,0.997,0.843,0.504,auto: low confidence / uncertain
+FA_FF_55315,FairFace,FairFace/train/55315.jpg,SoutheastAsian,Male,30-39,train,SoutheastAsian,4,none,0.0,0.0,0.0,0.857,0.928,0.621,
+FA_FF_18853,FairFace,FairFace/train/18853.jpg,SoutheastAsian,Male,20-29,train,SoutheastAsian,3,none,0.0,0.0,1.0,0.32,0.865,0.547,auto: low confidence / uncertain
+FA_FF_36595,FairFace,FairFace/train/36595.jpg,SoutheastAsian,Male,20-29,train,SoutheastAsian,6,none,0.0,0.0,0.0,0.929,0.849,0.572,
+FA_FF_24570,FairFace,FairFace/train/24570.jpg,SoutheastAsian,Female,10-19,train,SoutheastAsian,2,none,0.0,0.0,0.0,0.811,0.803,0.553,
+FA_FF_48249,FairFace,FairFace/train/48249.jpg,SoutheastAsian,Male,50-59,train,SoutheastAsian|EastAsian,4,none,1.0,0.0,0.0,0.788,0.825,0.55,auto: multi-heritage heuristic
+FA_FF_64042,FairFace,FairFace/train/64042.jpg,SoutheastAsian,Female,3-9,train,SoutheastAsian,1,none,0.0,0.0,1.0,0.954,0.813,0.582,auto: low confidence / uncertain
+FA_FF_10319,FairFace,FairFace/train/10319.jpg,SoutheastAsian,Female,30-39,train,SoutheastAsian,1,none,0.0,0.0,1.0,0.414,0.913,0.65,auto: low confidence / uncertain
+FA_FF_49635,FairFace,FairFace/train/49635.jpg,SoutheastAsian,Male,20-29,train,SoutheastAsian,7,none,0.0,0.0,0.0,0.915,0.973,0.513,
+FA_FF_72606,FairFace,FairFace/train/72606.jpg,SoutheastAsian,Male,50-59,train,SoutheastAsian,6,none,0.0,0.0,0.0,0.83,0.948,0.774,
+FA_FF_32333,FairFace,FairFace/train/32333.jpg,SoutheastAsian,Male,3-9,train,SoutheastAsian,5,beard,0.0,0.0,0.0,0.944,0.98,0.651,
+FA_FF_22685,FairFace,FairFace/train/22685.jpg,SoutheastAsian,Female,30-39,train,SoutheastAsian,3,none,0.0,0.0,1.0,0.991,0.969,0.585,auto: low confidence / uncertain
+FA_FF_14440,FairFace,FairFace/train/14440.jpg,SoutheastAsian,Female,more than 70,train,SoutheastAsian,2,none,0.0,0.0,1.0,0.35,0.925,0.591,auto: low confidence / uncertain
+FA_FF_52008,FairFace,FairFace/train/52008.jpg,SoutheastAsian,Female,60-69,train,SoutheastAsian,2,none,0.0,0.0,0.0,0.955,0.849,0.728,
+FA_FF_64218,FairFace,FairFace/train/64218.jpg,SoutheastAsian,Male,3-9,train,SoutheastAsian|SouthAsian,2,piercing_visible,1.0,0.0,0.0,0.685,0.952,0.601,auto: multi-heritage heuristic
+FA_FF_9747,FairFace,FairFace/train/9747.jpg,SoutheastAsian,Female,3-9,train,SoutheastAsian,4,none,0.0,0.0,0.0,0.841,0.995,0.788,
+FA_FF_21664,FairFace,FairFace/train/21664.jpg,SoutheastAsian,Male,40-49,train,SoutheastAsian|SouthAsian,6,none,1.0,0.0,0.0,0.78,0.995,0.612,auto: multi-heritage heuristic
+FA_FF_76324,FairFace,FairFace/train/76324.jpg,SoutheastAsian,Male,30-39,train,SoutheastAsian|EastAsian,5,none,1.0,0.0,0.0,0.709,0.826,0.699,auto: multi-heritage heuristic
+FA_FF_24478,FairFace,FairFace/train/24478.jpg,SoutheastAsian,Male,20-29,train,SoutheastAsian,2,none,0.0,0.0,0.0,0.879,0.989,0.57,
+FA_FF_64959,FairFace,FairFace/train/64959.jpg,SoutheastAsian,Female,20-29,train,SoutheastAsian|EastAsian,7,none,1.0,0.0,1.0,0.591,0.907,0.622,auto: multi-heritage heuristic; auto: low confidence / uncertain
+FA_FF_85244,FairFace,FairFace/train/85244.jpg,SoutheastAsian,Female,20-29,train,SoutheastAsian,6,none,0.0,0.0,0.0,0.853,0.965,0.706,
+FA_FF_37067,FairFace,FairFace/train/37067.jpg,SoutheastAsian,Female,20-29,train,SoutheastAsian,4,none,0.0,0.0,1.0,0.866,0.903,0.607,auto: low confidence / uncertain
+FA_FF_19506,FairFace,FairFace/train/19506.jpg,SoutheastAsian,Male,20-29,train,SoutheastAsian,5,none,0.0,0.0,0.0,0.806,0.892,0.575,
+FA_FF_72010,FairFace,FairFace/train/72010.jpg,SoutheastAsian,Female,50-59,train,SoutheastAsian,3,none,0.0,0.0,1.0,0.508,0.965,0.539,auto: low confidence / uncertain
+FA_FF_72236,FairFace,FairFace/train/72236.jpg,SoutheastAsian,Female,20-29,train,SoutheastAsian,2,none,0.0,0.0,0.0,0.916,0.813,0.507,
+FA_FF_51715,FairFace,FairFace/train/51715.jpg,SoutheastAsian,Female,50-59,train,SoutheastAsian,3,none,0.0,0.0,0.0,0.981,0.892,0.513,
+FA_FF_85667,FairFace,FairFace/train/85667.jpg,SoutheastAsian,Male,30-39,train,SoutheastAsian,6,none,0.0,0.0,1.0,0.879,0.837,0.564,auto: low confidence / uncertain
+FA_FF_24813,FairFace,FairFace/train/24813.jpg,SoutheastAsian,Male,10-19,train,SoutheastAsian,1,none,0.0,0.0,1.0,0.455,0.91,0.624,auto: low confidence / uncertain
+FA_FF_64205,FairFace,FairFace/train/64205.jpg,SoutheastAsian,Male,30-39,train,SoutheastAsian|SouthAsian,1,none,1.0,0.0,0.0,0.655,0.909,0.798,auto: multi-heritage heuristic
+FA_FF_30520,FairFace,FairFace/train/30520.jpg,SoutheastAsian,Female,20-29,train,SoutheastAsian|SouthAsian,1,none,1.0,0.0,0.0,0.64,0.9,0.774,auto: multi-heritage heuristic
+FA_FF_32613,FairFace,FairFace/train/32613.jpg,SoutheastAsian,Female,20-29,train,SoutheastAsian,1,none,0.0,0.0,0.0,0.844,0.998,0.518,
+FA_FF_68248,FairFace,FairFace/train/68248.jpg,SoutheastAsian,Female,20-29,train,SoutheastAsian,6,none,0.0,0.0,0.0,0.995,0.963,0.58,
+FA_FF_25358,FairFace,FairFace/train/25358.jpg,SoutheastAsian,Female,20-29,train,SoutheastAsian,5,none,0.0,0.0,0.0,0.844,0.968,0.606,
+FA_FF_19311,FairFace,FairFace/train/19311.jpg,SoutheastAsian,Male,20-29,train,SoutheastAsian,4,piercing_visible,0.0,0.0,0.0,0.961,0.99,0.71,
+FA_FF_84851,FairFace,FairFace/train/84851.jpg,SoutheastAsian,Male,30-39,train,SoutheastAsian,1,none,0.0,0.0,0.0,0.998,0.818,0.647,
+FA_FF_45685,FairFace,FairFace/train/45685.jpg,SoutheastAsian,Male,30-39,train,SoutheastAsian,4,none,0.0,0.0,0.0,0.8,0.984,0.715,
+FA_FF_54602,FairFace,FairFace/train/54602.jpg,SoutheastAsian,Female,3-9,train,SoutheastAsian,4,none,0.0,0.0,1.0,0.447,0.969,0.732,auto: low confidence / uncertain
+FA_FF_46943,FairFace,FairFace/train/46943.jpg,SoutheastAsian,Female,20-29,train,SoutheastAsian,2,none,0.0,0.0,0.0,0.988,0.827,0.591,
+FA_FF_21016,FairFace,FairFace/train/21016.jpg,SoutheastAsian,Female,20-29,train,SoutheastAsian,4,none,0.0,0.0,0.0,0.992,0.939,0.791,
+FA_FF_52121,FairFace,FairFace/train/52121.jpg,SoutheastAsian,Female,40-49,train,SoutheastAsian,3,none,0.0,0.0,0.0,0.918,0.825,0.707,
+FA_FF_25501,FairFace,FairFace/train/25501.jpg,SoutheastAsian,Female,20-29,train,SoutheastAsian,5,none,0.0,0.0,0.0,0.878,0.92,0.51,
+FA_FF_44916,FairFace,FairFace/train/44916.jpg,SoutheastAsian,Female,30-39,train,SoutheastAsian,5,none,0.0,0.0,0.0,0.913,0.848,0.724,
+FA_FF_45499,FairFace,FairFace/train/45499.jpg,SoutheastAsian,Male,20-29,train,SoutheastAsian,1,none,0.0,0.0,0.0,0.818,0.853,0.634,
+FA_FF_47201,FairFace,FairFace/train/47201.jpg,SoutheastAsian,Female,3-9,train,SoutheastAsian,3,none,0.0,0.0,1.0,0.822,0.994,0.72,auto: low confidence / uncertain
+FA_FF_54251,FairFace,FairFace/train/54251.jpg,SoutheastAsian,Male,20-29,train,SoutheastAsian,5,none,0.0,0.0,0.0,0.909,0.937,0.695,
+FA_FF_57628,FairFace,FairFace/train/57628.jpg,SoutheastAsian,Male,20-29,train,SoutheastAsian,4,none,0.0,0.0,0.0,0.859,0.875,0.551,
+FA_FF_76426,FairFace,FairFace/train/76426.jpg,SoutheastAsian,Male,3-9,train,SoutheastAsian,6,none,0.0,0.0,0.0,0.819,0.988,0.509,
+FA_FF_50392,FairFace,FairFace/train/50392.jpg,SoutheastAsian,Female,20-29,train,SoutheastAsian,5,none,0.0,0.0,0.0,0.82,0.944,0.709,
+FA_FF_59830,FairFace,FairFace/train/59830.jpg,SoutheastAsian,Female,60-69,train,SoutheastAsian,2,none,0.0,0.0,1.0,0.848,0.831,0.752,auto: low confidence / uncertain
+FA_FF_25950,FairFace,FairFace/train/25950.jpg,SoutheastAsian,Male,20-29,train,SoutheastAsian,1,piercing_visible,0.0,0.0,0.0,0.932,0.858,0.551,
+FA_FF_13349,FairFace,FairFace/train/13349.jpg,SoutheastAsian,Male,20-29,train,SoutheastAsian|EastAsian,5,none,1.0,0.0,0.0,0.649,0.837,0.663,auto: multi-heritage heuristic
+FA_FF_8413,FairFace,FairFace/train/8413.jpg,SoutheastAsian,Male,20-29,train,SoutheastAsian,1,none,0.0,0.0,0.0,0.853,0.95,0.518,
+FA_FF_255,FairFace,FairFace/train/255.jpg,SoutheastAsian,Female,more than 70,train,SoutheastAsian,5,none,0.0,0.0,0.0,0.908,0.968,0.666,
+FA_FF_26375,FairFace,FairFace/train/26375.jpg,SoutheastAsian,Male,40-49,train,SoutheastAsian,7,none,0.0,0.0,0.0,0.973,0.981,0.524,
+FA_FF_3598,FairFace,FairFace/train/3598.jpg,SoutheastAsian,Male,3-9,train,SoutheastAsian,5,none,0.0,0.0,0.0,0.96,0.835,0.727,
+FA_FF_47166,FairFace,FairFace/train/47166.jpg,SoutheastAsian,Male,20-29,train,SoutheastAsian,3,none,0.0,0.0,0.0,0.825,0.925,0.799,
+FA_FF_51941,FairFace,FairFace/train/51941.jpg,SoutheastAsian,Female,10-19,train,SoutheastAsian,5,none,0.0,0.0,1.0,0.983,0.865,0.619,auto: low confidence / uncertain
+FA_FF_76866,FairFace,FairFace/train/76866.jpg,SoutheastAsian,Male,3-9,train,SoutheastAsian,4,none,0.0,0.0,0.0,0.957,0.83,0.624,
+FA_FF_12199,FairFace,FairFace/train/12199.jpg,SoutheastAsian,Female,20-29,train,SoutheastAsian,4,none,0.0,0.0,0.0,0.985,0.907,0.586,
+FA_FF_34632,FairFace,FairFace/train/34632.jpg,SoutheastAsian,Female,3-9,train,SoutheastAsian,7,piercing_visible,0.0,0.0,0.0,0.897,0.829,0.583,
+FA_FF_42972,FairFace,FairFace/train/42972.jpg,SoutheastAsian,Male,50-59,train,SoutheastAsian,3,none,0.0,0.0,1.0,0.522,0.984,0.724,auto: low confidence / uncertain
+FA_FF_15758,FairFace,FairFace/train/15758.jpg,SoutheastAsian,Male,50-59,train,SoutheastAsian,7,none,0.0,0.0,0.0,0.861,0.974,0.529,
+FA_FF_53920,FairFace,FairFace/train/53920.jpg,SoutheastAsian,Female,30-39,train,SoutheastAsian|SouthAsian,7,none,1.0,0.0,0.0,0.63,0.888,0.527,auto: multi-heritage heuristic
+FA_FF_73611,FairFace,FairFace/train/73611.jpg,SoutheastAsian,Male,50-59,train,SoutheastAsian,2,beard,0.0,0.0,0.0,0.903,0.942,0.52,
+FA_FF_63921,FairFace,FairFace/train/63921.jpg,SoutheastAsian,Male,20-29,train,SoutheastAsian,1,none,0.0,0.0,0.0,0.914,0.807,0.517,
+UT_UTK_16_1_3_20170104222158160.jpg.chip,UTKFace,UTKFace/16_1_3_20170104222158160.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian|SoutheastAsian,1,none,1.0,0.0,0.0,0.618,0.806,0.537,auto: multi-heritage heuristic
+FA_FF_58395,FairFace,FairFace/train/58395.jpg,SouthAsian,Male,20-29,train,SouthAsian,1,none,0.0,0.0,0.0,0.974,0.938,0.725,
+FA_FF_53939,FairFace,FairFace/train/53939.jpg,SouthAsian,Male,40-49,train,SouthAsian,1,none,0.0,0.0,0.0,0.914,0.882,0.581,
+FA_FF_32471,FairFace,FairFace/train/32471.jpg,SouthAsian,Female,3-9,train,SouthAsian|MiddleEastern,5,none,1.0,0.0,1.0,0.583,0.922,0.567,auto: multi-heritage heuristic; auto: low confidence / uncertain
+UT_UTK_32_1_3_20170104235157578.jpg.chip,UTKFace,UTKFace/32_1_3_20170104235157578.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian,1,none,0.0,0.0,0.0,0.855,0.86,0.565,
+FA_FF_38309,FairFace,FairFace/train/38309.jpg,SouthAsian,Female,30-39,train,SouthAsian,3,none,0.0,0.0,0.0,0.801,0.919,0.668,
+FA_FF_42434,FairFace,FairFace/train/42434.jpg,SouthAsian,Female,20-29,train,SouthAsian,6,none,0.0,0.0,0.0,0.867,0.99,0.697,
+UT_UTK_23_1_3_20170104231559289.jpg.chip,UTKFace,UTKFace/23_1_3_20170104231559289.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian,1,none,0.0,0.0,1.0,0.848,0.864,0.621,auto: low confidence / uncertain
+UT_UTK_75_0_3_20170105175429670.jpg.chip,UTKFace,UTKFace/75_0_3_20170105175429670.jpg.chip.jpg,SouthAsian,Male,,train,SouthAsian|MiddleEastern,6,piercing_visible,1.0,0.0,0.0,0.799,0.914,0.712,auto: multi-heritage heuristic
+UT_UTK_47_1_3_20170119200858036.jpg.chip,UTKFace,UTKFace/47_1_3_20170119200858036.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian,2,none,0.0,0.0,0.0,0.907,0.969,0.652,
+UT_UTK_2_1_3_20161220144853855.jpg.chip,UTKFace,UTKFace/2_1_3_20161220144853855.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian,1,none,0.0,0.0,0.0,0.82,0.837,0.729,
+FA_FF_42694,FairFace,FairFace/train/42694.jpg,SouthAsian,Male,20-29,train,SouthAsian,5,none,0.0,0.0,1.0,0.389,0.852,0.599,auto: low confidence / uncertain
+FA_FF_63128,FairFace,FairFace/train/63128.jpg,SouthAsian,Female,20-29,train,SouthAsian,5,none,0.0,0.0,0.0,0.973,0.9,0.767,
+FA_FF_20646,FairFace,FairFace/train/20646.jpg,SouthAsian,Male,20-29,train,SouthAsian,7,none,0.0,0.0,0.0,0.811,0.981,0.671,
+FA_FF_84024,FairFace,FairFace/train/84024.jpg,SouthAsian,Male,3-9,train,SouthAsian,6,none,0.0,0.0,0.0,0.956,0.855,0.501,
+FA_FF_2498,FairFace,FairFace/train/2498.jpg,SouthAsian,Male,30-39,train,SouthAsian,6,religious_headwear,0.0,0.0,0.0,0.898,0.993,0.621,
+UT_UTK_29_0_3_20170119195259338.jpg.chip,UTKFace,UTKFace/29_0_3_20170119195259338.jpg.chip.jpg,SouthAsian,Male,,train,SouthAsian,2,none,0.0,0.0,1.0,0.875,0.925,0.703,auto: low confidence / uncertain
+UT_UTK_26_1_3_20170117153326979.jpg.chip,UTKFace,UTKFace/26_1_3_20170117153326979.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian,2,none,0.0,0.0,0.0,0.826,0.86,0.747,
+FA_FF_24586,FairFace,FairFace/train/24586.jpg,SouthAsian,Female,10-19,train,SouthAsian,6,none,0.0,0.0,0.0,0.868,0.872,0.77,
+FA_FF_34094,FairFace,FairFace/train/34094.jpg,SouthAsian,Male,50-59,train,SouthAsian,6,none,0.0,0.0,0.0,0.881,0.834,0.677,
+FA_FF_68093,FairFace,FairFace/train/68093.jpg,SouthAsian,Female,30-39,train,SouthAsian,7,none,0.0,0.0,1.0,0.519,0.999,0.515,auto: low confidence / uncertain
+UT_UTK_23_1_3_20170119164606005.jpg.chip,UTKFace,UTKFace/23_1_3_20170119164606005.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian,3,none,0.0,0.0,1.0,0.472,0.895,0.664,auto: low confidence / uncertain
+FA_FF_55725,FairFace,FairFace/train/55725.jpg,SouthAsian,Male,50-59,train,SouthAsian,3,none,0.0,0.0,0.0,0.86,0.966,0.541,
+UT_UTK_47_0_3_20170116184916978.jpg.chip,UTKFace,UTKFace/47_0_3_20170116184916978.jpg.chip.jpg,SouthAsian,Male,,train,SouthAsian|MiddleEastern,6,none,1.0,0.0,0.0,0.746,0.872,0.792,auto: multi-heritage heuristic
+UT_UTK_25_1_3_20170104234944475.jpg.chip,UTKFace,UTKFace/25_1_3_20170104234944475.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian,3,none,0.0,0.0,0.0,0.982,0.818,0.504,
+FA_FF_86444,FairFace,FairFace/train/86444.jpg,SouthAsian,Male,30-39,train,SouthAsian|SoutheastAsian,7,none,1.0,0.0,1.0,0.573,0.846,0.577,auto: multi-heritage heuristic; auto: low confidence / uncertain
+UT_UTK_29_1_3_20170109134027563.jpg.chip,UTKFace,UTKFace/29_1_3_20170109134027563.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian,7,religious_headwear,0.0,0.0,0.0,0.82,0.863,0.74,
+FA_FF_10402,FairFace,FairFace/train/10402.jpg,SouthAsian,Male,20-29,train,SouthAsian,4,none,0.0,0.0,0.0,0.809,0.924,0.631,
+UT_UTK_26_0_3_20170120134330671.jpg.chip,UTKFace,UTKFace/26_0_3_20170120134330671.jpg.chip.jpg,SouthAsian,Male,,train,SouthAsian,6,none,0.0,0.0,0.0,0.837,0.96,0.755,
+UT_UTK_26_1_3_20170119193128490.jpg.chip,UTKFace,UTKFace/26_1_3_20170119193128490.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian,6,none,0.0,0.0,1.0,0.939,0.918,0.625,auto: low confidence / uncertain
+UT_UTK_3_0_3_20161219230515152.jpg.chip,UTKFace,UTKFace/3_0_3_20161219230515152.jpg.chip.jpg,SouthAsian,Male,,train,SouthAsian,1,religious_headwear,0.0,0.0,0.0,0.876,0.826,0.792,
+FA_FF_27838,FairFace,FairFace/train/27838.jpg,SouthAsian,Male,20-29,train,SouthAsian,7,none,0.0,0.0,0.0,0.809,0.915,0.73,
+FA_FF_43535,FairFace,FairFace/train/43535.jpg,SouthAsian,Female,20-29,train,SouthAsian,4,none,0.0,0.0,0.0,0.868,0.85,0.699,
+UT_UTK_1_1_3_20161219225416559.jpg.chip,UTKFace,UTKFace/1_1_3_20161219225416559.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian,6,piercing_visible,0.0,0.0,0.0,0.968,0.831,0.693,
+FA_FF_51608,FairFace,FairFace/train/51608.jpg,SouthAsian,Female,40-49,train,SouthAsian,3,none,0.0,0.0,0.0,0.815,0.845,0.515,
+UT_UTK_1_0_3_20161219230714633.jpg.chip,UTKFace,UTKFace/1_0_3_20161219230714633.jpg.chip.jpg,SouthAsian,Male,,train,SouthAsian,7,none,0.0,0.0,0.0,0.892,0.899,0.536,
+FA_FF_17077,FairFace,FairFace/train/17077.jpg,SouthAsian,Female,50-59,train,SouthAsian,3,religious_headwear,0.0,0.0,1.0,0.911,0.861,0.686,auto: low confidence / uncertain
+UT_UTK_36_0_3_20170119183728238.jpg.chip,UTKFace,UTKFace/36_0_3_20170119183728238.jpg.chip.jpg,SouthAsian,Male,,train,SouthAsian,1,religious_headwear,0.0,0.0,0.0,0.99,0.924,0.668,
+FA_FF_40907,FairFace,FairFace/train/40907.jpg,SouthAsian,Female,20-29,train,SouthAsian,7,none,0.0,0.0,0.0,0.823,0.993,0.749,
+FA_FF_68008,FairFace,FairFace/train/68008.jpg,SouthAsian,Male,20-29,train,SouthAsian,1,none,0.0,0.0,0.0,0.809,0.922,0.532,
+FA_FF_81667,FairFace,FairFace/train/81667.jpg,SouthAsian,Female,60-69,train,SouthAsian,3,none,0.0,0.0,0.0,0.891,0.985,0.624,
+FA_FF_67540,FairFace,FairFace/train/67540.jpg,SouthAsian,Female,20-29,train,SouthAsian,7,none,0.0,0.0,0.0,0.89,0.906,0.65,
+UT_UTK_26_1_3_20170119180605476.jpg.chip,UTKFace,UTKFace/26_1_3_20170119180605476.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian|SoutheastAsian,7,none,1.0,0.0,0.0,0.671,0.946,0.674,auto: multi-heritage heuristic
+FA_FF_24040,FairFace,FairFace/train/24040.jpg,SouthAsian,Male,20-29,train,SouthAsian|SoutheastAsian,5,none,1.0,0.0,0.0,0.702,0.85,0.708,auto: multi-heritage heuristic
+UT_UTK_1_1_3_20161219224454728.jpg.chip,UTKFace,UTKFace/1_1_3_20161219224454728.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian,5,none,0.0,0.0,0.0,0.961,0.969,0.654,
+UT_UTK_26_1_3_20170119193117522.jpg.chip,UTKFace,UTKFace/26_1_3_20170119193117522.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian,4,none,0.0,0.0,0.0,0.911,0.984,0.706,
+FA_FF_26537,FairFace,FairFace/train/26537.jpg,SouthAsian,Female,40-49,train,SouthAsian|MiddleEastern,3,religious_headwear,1.0,0.0,0.0,0.724,0.914,0.644,auto: multi-heritage heuristic
+UT_UTK_25_1_3_20170119155132282.jpg.chip,UTKFace,UTKFace/25_1_3_20170119155132282.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian,3,none,0.0,0.0,0.0,0.968,0.805,0.657,
+UT_UTK_32_1_3_20170119200442740.jpg.chip,UTKFace,UTKFace/32_1_3_20170119200442740.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian|MiddleEastern,5,none,1.0,0.0,0.0,0.738,0.938,0.752,auto: multi-heritage heuristic
+UT_UTK_25_0_3_20170119163012781.jpg.chip,UTKFace,UTKFace/25_0_3_20170119163012781.jpg.chip.jpg,SouthAsian,Male,,train,SouthAsian,6,religious_headwear,0.0,0.0,1.0,0.504,0.948,0.759,auto: low confidence / uncertain
+UT_UTK_26_1_3_20170104214715278.jpg.chip,UTKFace,UTKFace/26_1_3_20170104214715278.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian,6,none,0.0,0.0,0.0,0.96,0.991,0.616,
+UT_UTK_26_1_3_20170119193059058.jpg.chip,UTKFace,UTKFace/26_1_3_20170119193059058.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian,6,none,0.0,0.0,0.0,0.803,0.966,0.761,
+FA_FF_42114,FairFace,FairFace/train/42114.jpg,SouthAsian,Male,30-39,train,SouthAsian,1,none,0.0,0.0,0.0,0.951,0.835,0.588,
+UT_UTK_49_1_3_20170109132625049.jpg.chip,UTKFace,UTKFace/49_1_3_20170109132625049.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian,4,none,0.0,0.0,0.0,0.903,0.917,0.539,
+FA_FF_56665,FairFace,FairFace/train/56665.jpg,SouthAsian,Male,3-9,train,SouthAsian,1,beard,0.0,0.0,0.0,0.831,0.932,0.685,
+FA_FF_41118,FairFace,FairFace/train/41118.jpg,SouthAsian,Female,60-69,train,SouthAsian,4,none,0.0,0.0,0.0,0.957,0.901,0.52,
+FA_FF_28922,FairFace,FairFace/train/28922.jpg,SouthAsian,Male,3-9,train,SouthAsian,4,none,0.0,0.0,1.0,0.355,0.951,0.566,auto: low confidence / uncertain
+FA_FF_48224,FairFace,FairFace/train/48224.jpg,SouthAsian,Male,50-59,train,SouthAsian,7,none,0.0,0.0,1.0,0.996,0.924,0.684,auto: low confidence / uncertain
+FA_FF_8523,FairFace,FairFace/train/8523.jpg,SouthAsian,Male,30-39,train,SouthAsian,3,none,0.0,0.0,0.0,0.983,0.964,0.773,
+UT_UTK_27_1_3_20170117175958932.jpg.chip,UTKFace,UTKFace/27_1_3_20170117175958932.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian,1,none,0.0,0.0,0.0,0.809,0.833,0.784,
+FA_FF_2166,FairFace,FairFace/train/2166.jpg,SouthAsian,Female,10-19,train,SouthAsian,2,none,0.0,0.0,1.0,0.316,0.885,0.759,auto: low confidence / uncertain
+UT_UTK_37_0_3_20170119193244666.jpg.chip,UTKFace,UTKFace/37_0_3_20170119193244666.jpg.chip.jpg,SouthAsian,Male,,train,SouthAsian|SoutheastAsian,6,none,1.0,0.0,0.0,0.785,0.811,0.526,auto: multi-heritage heuristic
+UT_UTK_24_1_3_20170117150632348.jpg.chip,UTKFace,UTKFace/24_1_3_20170117150632348.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian,5,none,0.0,0.0,0.0,0.846,0.803,0.63,
+FA_FF_40431,FairFace,FairFace/train/40431.jpg,SouthAsian,Male,10-19,train,SouthAsian,1,none,0.0,0.0,0.0,0.924,0.821,0.778,
+UT_UTK_16_0_3_20170110232812662.jpg.chip,UTKFace,UTKFace/16_0_3_20170110232812662.jpg.chip.jpg,SouthAsian,Male,,train,SouthAsian,1,none,0.0,0.0,1.0,0.491,0.907,0.642,auto: low confidence / uncertain
+FA_FF_42945,FairFace,FairFace/train/42945.jpg,SouthAsian,Male,30-39,train,SouthAsian|SoutheastAsian,5,none,1.0,0.0,0.0,0.762,0.973,0.79,auto: multi-heritage heuristic
+UT_UTK_38_1_3_20170105003415085.jpg.chip,UTKFace,UTKFace/38_1_3_20170105003415085.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian,1,piercing_visible,0.0,0.0,1.0,0.519,0.879,0.672,auto: low confidence / uncertain
+FA_FF_11592,FairFace,FairFace/train/11592.jpg,SouthAsian,Male,30-39,train,SouthAsian,6,none,0.0,0.0,0.0,0.948,0.837,0.543,
+UT_UTK_43_0_3_20170119204553167.jpg.chip,UTKFace,UTKFace/43_0_3_20170119204553167.jpg.chip.jpg,SouthAsian,Male,,train,SouthAsian,5,religious_headwear,0.0,0.0,0.0,0.934,0.929,0.665,
+FA_FF_37288,FairFace,FairFace/train/37288.jpg,SouthAsian,Female,10-19,train,SouthAsian|MiddleEastern,1,none,1.0,0.0,1.0,0.599,0.934,0.607,auto: multi-heritage heuristic; auto: low confidence / uncertain
+UT_UTK_31_0_3_20170104165548728.jpg.chip,UTKFace,UTKFace/31_0_3_20170104165548728.jpg.chip.jpg,SouthAsian,Male,,train,SouthAsian,1,none,0.0,0.0,1.0,0.348,0.83,0.708,auto: low confidence / uncertain
+FA_FF_52662,FairFace,FairFace/train/52662.jpg,SouthAsian,Male,10-19,train,SouthAsian,7,none,0.0,0.0,0.0,0.834,0.872,0.583,
+FA_FF_48657,FairFace,FairFace/train/48657.jpg,SouthAsian,Female,20-29,train,SouthAsian,3,none,0.0,0.0,0.0,0.889,0.816,0.694,
+UT_UTK_40_0_3_20170119203747574.jpg.chip,UTKFace,UTKFace/40_0_3_20170119203747574.jpg.chip.jpg,SouthAsian,Male,,train,SouthAsian,3,none,0.0,0.0,0.0,0.839,0.926,0.755,
+FA_FF_8480,FairFace,FairFace/train/8480.jpg,SouthAsian,Female,10-19,train,SouthAsian,6,none,0.0,0.0,1.0,0.843,0.931,0.662,auto: low confidence / uncertain
+FA_FF_74939,FairFace,FairFace/train/74939.jpg,SouthAsian,Male,30-39,train,SouthAsian|SoutheastAsian,7,none,1.0,0.0,0.0,0.743,0.9,0.619,auto: multi-heritage heuristic
+FA_FF_80374,FairFace,FairFace/train/80374.jpg,SouthAsian,Female,3-9,train,SouthAsian,7,none,0.0,0.0,0.0,0.923,0.99,0.554,
+FA_FF_18989,FairFace,FairFace/train/18989.jpg,SouthAsian,Male,30-39,train,SouthAsian,6,none,0.0,0.0,0.0,0.897,0.809,0.611,
+UT_UTK_12_1_3_20170104221704334.jpg.chip,UTKFace,UTKFace/12_1_3_20170104221704334.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian,3,religious_headwear,0.0,0.0,0.0,0.894,0.941,0.597,
+UT_UTK_31_1_3_20170104222647935.jpg.chip,UTKFace,UTKFace/31_1_3_20170104222647935.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian,1,none,0.0,0.0,0.0,0.853,0.931,0.61,
+UT_UTK_25_1_3_20170119172144676.jpg.chip,UTKFace,UTKFace/25_1_3_20170119172144676.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian,6,none,0.0,0.0,0.0,0.981,0.896,0.646,
+UT_UTK_25_0_3_20170119171837104.jpg.chip,UTKFace,UTKFace/25_0_3_20170119171837104.jpg.chip.jpg,SouthAsian,Male,,train,SouthAsian,4,none,0.0,0.0,1.0,0.833,0.943,0.609,auto: low confidence / uncertain
+UT_UTK_25_1_3_20170119151009470.jpg.chip,UTKFace,UTKFace/25_1_3_20170119151009470.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian|MiddleEastern,3,none,1.0,0.0,0.0,0.633,0.929,0.677,auto: multi-heritage heuristic
+UT_UTK_45_1_3_20170119193037786.jpg.chip,UTKFace,UTKFace/45_1_3_20170119193037786.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian,7,none,0.0,0.0,0.0,0.918,0.833,0.544,
+FA_FF_34845,FairFace,FairFace/train/34845.jpg,SouthAsian,Male,30-39,train,SouthAsian,1,none,0.0,0.0,0.0,0.994,0.843,0.784,
+UT_UTK_29_1_3_20170103214234261.jpg.chip,UTKFace,UTKFace/29_1_3_20170103214234261.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian,4,none,0.0,0.0,0.0,0.844,0.925,0.73,
+FA_FF_49912,FairFace,FairFace/train/49912.jpg,SouthAsian,Male,40-49,train,SouthAsian,1,religious_headwear,0.0,0.0,0.0,0.984,0.905,0.505,
+FA_FF_45239,FairFace,FairFace/train/45239.jpg,SouthAsian,Male,3-9,train,SouthAsian,4,none,0.0,0.0,0.0,0.921,0.95,0.659,
+UT_UTK_22_1_3_20170119163328077.jpg.chip,UTKFace,UTKFace/22_1_3_20170119163328077.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian|MiddleEastern,1,none,1.0,0.0,1.0,0.685,0.884,0.629,auto: multi-heritage heuristic; auto: low confidence / uncertain
+FA_FF_20471,FairFace,FairFace/train/20471.jpg,SouthAsian,Female,20-29,train,SouthAsian,1,none,0.0,0.0,0.0,0.988,0.982,0.741,
+UT_UTK_34_0_3_20170117182805214.jpg.chip,UTKFace,UTKFace/34_0_3_20170117182805214.jpg.chip.jpg,SouthAsian,Male,,train,SouthAsian,1,beard,0.0,0.0,0.0,0.851,0.852,0.663,
+UT_UTK_55_1_3_20170119192720664.jpg.chip,UTKFace,UTKFace/55_1_3_20170119192720664.jpg.chip.jpg,SouthAsian,Female,,train,SouthAsian|MiddleEastern,5,religious_headwear,1.0,0.0,1.0,0.579,0.863,0.706,auto: multi-heritage heuristic; auto: low confidence / uncertain
+FA_FF_22384,FairFace,FairFace/train/22384.jpg,Latino,Male,10-19,train,Latino,6,none,0.0,0.0,0.0,0.851,0.936,0.583,
+FA_FF_50821,FairFace,FairFace/train/50821.jpg,Latino,Female,20-29,train,Latino,5,none,0.0,0.0,0.0,0.896,0.861,0.576,
+FA_FF_14971,FairFace,FairFace/train/14971.jpg,Latino,Female,20-29,train,Latino,7,none,0.0,0.0,0.0,0.971,0.94,0.634,
+FA_FF_22183,FairFace,FairFace/train/22183.jpg,Latino,Male,20-29,train,Latino,3,none,0.0,0.0,0.0,0.868,0.993,0.548,
+FA_FF_51555,FairFace,FairFace/train/51555.jpg,Latino,Female,30-39,train,Latino|White,2,none,1.0,0.0,0.0,0.668,0.874,0.579,auto: multi-heritage heuristic
+FA_FF_19136,FairFace,FairFace/train/19136.jpg,Latino,Male,30-39,train,Latino,7,none,0.0,0.0,0.0,0.88,0.955,0.517,
+FA_FF_85985,FairFace,FairFace/train/85985.jpg,Latino,Female,20-29,train,Latino,2,none,0.0,0.0,1.0,0.513,0.839,0.655,auto: low confidence / uncertain
+FA_FF_15939,FairFace,FairFace/train/15939.jpg,Latino,Male,0-2,train,Latino,7,none,0.0,0.0,0.0,0.923,0.817,0.793,
+FA_FF_50303,FairFace,FairFace/train/50303.jpg,Latino,Female,40-49,train,Latino,1,piercing_visible,0.0,0.0,0.0,0.881,0.984,0.711,
+FA_FF_54816,FairFace,FairFace/train/54816.jpg,Latino,Female,20-29,train,Latino,7,none,0.0,0.0,0.0,0.917,0.993,0.568,
+FA_FF_44153,FairFace,FairFace/train/44153.jpg,Latino,Female,20-29,train,Latino,1,none,0.0,0.0,1.0,0.344,0.901,0.668,auto: low confidence / uncertain
+FA_FF_3517,FairFace,FairFace/train/3517.jpg,Latino,Female,30-39,train,Latino,7,none,0.0,0.0,0.0,0.852,0.889,0.575,
+FA_FF_10930,FairFace,FairFace/train/10930.jpg,Latino,Male,3-9,train,Latino,4,none,0.0,0.0,0.0,0.868,0.896,0.759,
+FA_FF_11059,FairFace,FairFace/train/11059.jpg,Latino,Female,30-39,train,Latino,7,none,0.0,0.0,0.0,0.844,0.871,0.624,
+FA_FF_14978,FairFace,FairFace/train/14978.jpg,Latino,Male,30-39,train,Latino,1,none,0.0,0.0,0.0,0.857,0.836,0.666,
+FA_FF_83478,FairFace,FairFace/train/83478.jpg,Latino,Male,3-9,train,Latino,4,none,0.0,0.0,0.0,0.837,0.847,0.721,
+FA_FF_74085,FairFace,FairFace/train/74085.jpg,Latino,Male,10-19,train,Latino,7,none,0.0,0.0,0.0,0.967,0.816,0.536,
+FA_FF_17918,FairFace,FairFace/train/17918.jpg,Latino,Female,50-59,train,Latino,4,none,0.0,0.0,1.0,0.514,0.874,0.754,auto: low confidence / uncertain
+FA_FF_60344,FairFace,FairFace/train/60344.jpg,Latino,Male,30-39,train,Latino,5,none,0.0,0.0,0.0,0.915,0.88,0.653,
+FA_FF_85286,FairFace,FairFace/train/85286.jpg,Latino,Female,20-29,train,Latino,5,piercing_visible,0.0,0.0,0.0,0.885,0.972,0.604,
+FA_FF_44038,FairFace,FairFace/train/44038.jpg,Latino,Male,40-49,train,Latino,4,beard,0.0,0.0,0.0,0.904,0.82,0.614,
+FA_FF_25104,FairFace,FairFace/train/25104.jpg,Latino,Female,3-9,train,Latino,5,none,0.0,0.0,0.0,0.853,0.837,0.603,
+FA_FF_23776,FairFace,FairFace/train/23776.jpg,Latino,Female,30-39,train,Latino,5,none,0.0,0.0,0.0,0.873,0.996,0.671,
+FA_FF_78185,FairFace,FairFace/train/78185.jpg,Latino,Male,50-59,train,Latino,7,none,0.0,0.0,0.0,0.961,0.948,0.74,
+FA_FF_64384,FairFace,FairFace/train/64384.jpg,Latino,Male,30-39,train,Latino,1,none,0.0,1.0,1.0,0.405,0.907,0.689,auto: low confidence / uncertain; auto: prefer-not-to-label set
+FA_FF_38175,FairFace,FairFace/train/38175.jpg,Latino,Male,40-49,train,Latino,2,beard,0.0,0.0,1.0,0.972,0.851,0.565,auto: low confidence / uncertain
+FA_FF_28432,FairFace,FairFace/train/28432.jpg,Latino,Male,50-59,train,Latino,7,none,0.0,0.0,0.0,0.852,0.882,0.603,
+FA_FF_21909,FairFace,FairFace/train/21909.jpg,Latino,Female,30-39,train,Latino,7,none,0.0,0.0,0.0,0.915,0.857,0.794,
+FA_FF_66451,FairFace,FairFace/train/66451.jpg,Latino,Male,40-49,train,Latino,4,none,0.0,0.0,1.0,0.889,0.974,0.787,auto: low confidence / uncertain
+FA_FF_25588,FairFace,FairFace/train/25588.jpg,Latino,Female,10-19,train,Latino,5,none,0.0,0.0,0.0,0.922,0.869,0.524,
+FA_FF_36320,FairFace,FairFace/train/36320.jpg,Latino,Female,40-49,train,Latino,2,none,0.0,0.0,0.0,0.921,0.988,0.734,
+FA_FF_66148,FairFace,FairFace/train/66148.jpg,Latino,Male,40-49,train,Latino,2,none,0.0,0.0,0.0,0.833,0.949,0.575,
+FA_FF_12925,FairFace,FairFace/train/12925.jpg,Latino,Male,3-9,train,Latino,4,piercing_visible,0.0,0.0,0.0,0.819,0.905,0.731,
+FA_FF_18596,FairFace,FairFace/train/18596.jpg,Latino,Female,30-39,train,Latino,3,none,0.0,0.0,0.0,0.817,0.948,0.569,
+FA_FF_31526,FairFace,FairFace/train/31526.jpg,Latino,Female,40-49,train,Latino,5,none,0.0,0.0,1.0,0.834,0.973,0.775,auto: low confidence / uncertain
+FA_FF_56990,FairFace,FairFace/train/56990.jpg,Latino,Male,50-59,train,Latino,1,none,0.0,0.0,0.0,0.91,0.891,0.677,
+FA_FF_49423,FairFace,FairFace/train/49423.jpg,Latino,Male,3-9,train,Latino,7,none,0.0,0.0,0.0,0.928,0.818,0.568,
+FA_FF_9481,FairFace,FairFace/train/9481.jpg,Latino,Female,20-29,train,Latino,7,none,0.0,0.0,0.0,0.802,0.857,0.541,
+FA_FF_29831,FairFace,FairFace/train/29831.jpg,Latino,Female,20-29,train,Latino,5,none,0.0,0.0,0.0,0.951,0.919,0.739,
+FA_FF_36088,FairFace,FairFace/train/36088.jpg,Latino,Male,30-39,train,Latino,4,none,0.0,0.0,0.0,0.976,0.966,0.694,
+FA_FF_2688,FairFace,FairFace/train/2688.jpg,Latino,Female,20-29,train,Latino,3,none,0.0,0.0,0.0,0.903,0.854,0.708,
+FA_FF_24367,FairFace,FairFace/train/24367.jpg,Latino,Female,0-2,train,Latino,6,none,0.0,0.0,1.0,0.838,0.891,0.533,auto: low confidence / uncertain
+FA_FF_43241,FairFace,FairFace/train/43241.jpg,Latino,Female,20-29,train,Latino,5,none,0.0,0.0,0.0,0.864,0.994,0.507,
+FA_FF_60991,FairFace,FairFace/train/60991.jpg,Latino,Male,60-69,train,Latino,2,beard,0.0,0.0,1.0,0.802,0.957,0.626,auto: low confidence / uncertain
+FA_FF_42664,FairFace,FairFace/train/42664.jpg,Latino,Male,20-29,train,Latino,7,none,0.0,0.0,1.0,0.806,0.878,0.58,auto: low confidence / uncertain
+FA_FF_22848,FairFace,FairFace/train/22848.jpg,Latino,Male,30-39,train,Latino,6,beard,0.0,0.0,0.0,0.85,0.877,0.714,
+FA_FF_53812,FairFace,FairFace/train/53812.jpg,Latino,Male,10-19,train,Latino,7,beard,0.0,0.0,0.0,0.84,0.878,0.563,
+FA_FF_59428,FairFace,FairFace/train/59428.jpg,Latino,Female,3-9,train,Latino,6,none,0.0,0.0,0.0,0.946,0.896,0.537,
+FA_FF_55832,FairFace,FairFace/train/55832.jpg,Latino,Female,30-39,train,Latino,5,none,0.0,0.0,1.0,0.467,0.887,0.571,auto: low confidence / uncertain
+FA_FF_73358,FairFace,FairFace/train/73358.jpg,Latino,Male,30-39,train,Latino|MiddleEastern,3,none,1.0,0.0,0.0,0.649,0.938,0.707,auto: multi-heritage heuristic
+FA_FF_38212,FairFace,FairFace/train/38212.jpg,Latino,Female,40-49,train,Latino,7,none,0.0,0.0,0.0,0.9,0.952,0.791,
+FA_FF_9487,FairFace,FairFace/train/9487.jpg,Latino,Female,20-29,train,Latino|MiddleEastern,7,none,1.0,0.0,0.0,0.725,0.996,0.57,auto: multi-heritage heuristic
+FA_FF_46912,FairFace,FairFace/train/46912.jpg,Latino,Female,40-49,train,Latino,1,none,0.0,0.0,0.0,0.888,0.827,0.607,
+FA_FF_35284,FairFace,FairFace/train/35284.jpg,Latino,Male,3-9,train,Latino,1,none,0.0,0.0,0.0,0.859,0.946,0.604,
+FA_FF_72828,FairFace,FairFace/train/72828.jpg,Latino,Male,20-29,train,Latino,3,none,0.0,0.0,1.0,0.911,0.873,0.579,auto: low confidence / uncertain
+FA_FF_79722,FairFace,FairFace/train/79722.jpg,Latino,Female,3-9,train,Latino|MiddleEastern,6,none,1.0,0.0,0.0,0.771,0.864,0.686,auto: multi-heritage heuristic
+FA_FF_19961,FairFace,FairFace/train/19961.jpg,Latino,Male,50-59,train,Latino|MiddleEastern,7,none,1.0,0.0,0.0,0.721,0.864,0.623,auto: multi-heritage heuristic
+FA_FF_29730,FairFace,FairFace/train/29730.jpg,Latino,Female,20-29,train,Latino|White,2,piercing_visible,1.0,0.0,0.0,0.784,0.838,0.532,auto: multi-heritage heuristic
+FA_FF_47146,FairFace,FairFace/train/47146.jpg,Latino,Female,20-29,train,Latino|MiddleEastern,5,none,1.0,0.0,0.0,0.681,0.921,0.61,auto: multi-heritage heuristic
+FA_FF_49840,FairFace,FairFace/train/49840.jpg,Latino,Male,20-29,train,Latino|White,3,none,1.0,0.0,0.0,0.782,0.949,0.608,auto: multi-heritage heuristic
+FA_FF_22994,FairFace,FairFace/train/22994.jpg,Latino,Female,20-29,train,Latino,7,none,0.0,0.0,0.0,0.812,0.967,0.72,
+FA_FF_63076,FairFace,FairFace/train/63076.jpg,Latino,Female,40-49,train,Latino|White,6,none,1.0,0.0,1.0,0.574,0.838,0.659,auto: multi-heritage heuristic; auto: low confidence / uncertain
+FA_FF_60018,FairFace,FairFace/train/60018.jpg,Latino,Male,20-29,train,Latino,6,none,0.0,0.0,0.0,0.836,0.872,0.692,
+FA_FF_27943,FairFace,FairFace/train/27943.jpg,Latino,Male,20-29,train,Latino,4,none,0.0,0.0,0.0,0.833,1.0,0.547,
+FA_FF_3219,FairFace,FairFace/train/3219.jpg,Latino,Female,20-29,train,Latino,3,none,0.0,0.0,0.0,0.998,0.886,0.729,
+FA_FF_78027,FairFace,FairFace/train/78027.jpg,Latino,Female,20-29,train,Latino,2,none,0.0,0.0,0.0,0.843,0.992,0.576,
+FA_FF_50502,FairFace,FairFace/train/50502.jpg,Latino,Male,50-59,train,Latino,1,none,0.0,0.0,0.0,0.997,0.86,0.591,
+FA_FF_61497,FairFace,FairFace/train/61497.jpg,Latino,Female,40-49,train,Latino,7,none,0.0,0.0,1.0,0.505,0.911,0.583,auto: low confidence / uncertain
+FA_FF_3763,FairFace,FairFace/train/3763.jpg,Latino,Female,30-39,train,Latino,6,none,0.0,0.0,0.0,0.808,0.916,0.61,
+FA_FF_63206,FairFace,FairFace/train/63206.jpg,Latino,Male,30-39,train,Latino,7,none,0.0,0.0,1.0,0.4,0.959,0.717,auto: low confidence / uncertain
+FA_FF_24369,FairFace,FairFace/train/24369.jpg,Latino,Male,30-39,train,Latino,7,none,0.0,0.0,0.0,0.915,0.915,0.719,
+FA_FF_19323,FairFace,FairFace/train/19323.jpg,Latino,Female,10-19,train,Latino|White,4,none,1.0,0.0,0.0,0.634,0.824,0.779,auto: multi-heritage heuristic
+FA_FF_59246,FairFace,FairFace/train/59246.jpg,Latino,Male,20-29,train,Latino,6,piercing_visible,0.0,0.0,0.0,0.986,0.864,0.657,
+FA_FF_65756,FairFace,FairFace/train/65756.jpg,Latino,Female,40-49,train,Latino,7,none,0.0,0.0,0.0,0.831,0.951,0.791,
+FA_FF_68058,FairFace,FairFace/train/68058.jpg,Black,Female,3-9,train,Black,5,none,0.0,0.0,1.0,0.408,0.867,0.544,auto: low confidence / uncertain
+UT_UTK_26_0_1_20170116204952113.jpg.chip,UTKFace,UTKFace/26_0_1_20170116204952113.jpg.chip.jpg,Black,Male,,train,Black,1,none,0.0,0.0,0.0,0.91,0.952,0.709,
+FA_FF_6017,FairFace,FairFace/train/6017.jpg,Black,Male,20-29,train,Black,2,none,0.0,0.0,0.0,0.879,0.848,0.657,
+UT_UTK_39_0_1_20170117165631399.jpg.chip,UTKFace,UTKFace/39_0_1_20170117165631399.jpg.chip.jpg,Black,Male,,train,Black,1,beard,0.0,0.0,0.0,0.937,0.838,0.61,
+UT_UTK_29_1_1_20170116231920226.jpg.chip,UTKFace,UTKFace/29_1_1_20170116231920226.jpg.chip.jpg,Black,Female,,train,Black,6,none,0.0,0.0,0.0,0.954,0.961,0.746,
+FA_FF_34786,FairFace,FairFace/train/34786.jpg,Black,Male,40-49,train,Black,3,none,0.0,0.0,0.0,0.985,0.817,0.719,
+UT_UTK_38_1_1_20170116223044761.jpg.chip,UTKFace,UTKFace/38_1_1_20170116223044761.jpg.chip.jpg,Black,Female,,train,Black,1,none,0.0,0.0,0.0,0.924,0.869,0.586,
+FA_FF_67463,FairFace,FairFace/train/67463.jpg,Black,Female,30-39,train,Black,4,none,0.0,0.0,0.0,0.894,0.909,0.564,
+FA_FF_11300,FairFace,FairFace/train/11300.jpg,Black,Female,10-19,train,Black,3,none,0.0,0.0,0.0,0.925,0.875,0.7,
+UT_UTK_19_1_1_20170113012937783.jpg.chip,UTKFace,UTKFace/19_1_1_20170113012937783.jpg.chip.jpg,Black,Female,,train,Black,2,none,0.0,0.0,1.0,0.851,0.854,0.709,auto: low confidence / uncertain
+UT_UTK_27_1_1_20170112231931030.jpg.chip,UTKFace,UTKFace/27_1_1_20170112231931030.jpg.chip.jpg,Black,Female,,train,Black,1,none,0.0,0.0,0.0,0.813,0.872,0.774,
+FA_FF_8197,FairFace,FairFace/train/8197.jpg,Black,Female,50-59,train,Black,4,none,0.0,0.0,0.0,0.977,0.942,0.653,
+UT_UTK_35_0_1_20170116195822091.jpg.chip,UTKFace,UTKFace/35_0_1_20170116195822091.jpg.chip.jpg,Black,Male,,train,Black,3,none,0.0,0.0,1.0,0.919,0.942,0.668,auto: low confidence / uncertain
+FA_FF_49458,FairFace,FairFace/train/49458.jpg,Black,Female,10-19,train,Black,4,none,0.0,0.0,0.0,0.861,0.937,0.506,
+UT_UTK_45_1_1_20170117164716460.jpg.chip,UTKFace,UTKFace/45_1_1_20170117164716460.jpg.chip.jpg,Black,Female,,train,Black,3,none,0.0,0.0,0.0,0.999,0.852,0.519,
+UT_UTK_35_0_1_20170116002219767.jpg.chip,UTKFace,UTKFace/35_0_1_20170116002219767.jpg.chip.jpg,Black,Male,,train,Black,5,none,0.0,0.0,0.0,0.998,0.879,0.603,
+UT_UTK_45_0_1_20170120223517421.jpg.chip,UTKFace,UTKFace/45_0_1_20170120223517421.jpg.chip.jpg,Black,Male,,train,Black,3,none,0.0,0.0,0.0,0.904,0.915,0.625,
+FA_FF_43256,FairFace,FairFace/train/43256.jpg,Black,Female,50-59,train,Black,3,none,0.0,0.0,0.0,0.921,0.916,0.696,
+FA_FF_5591,FairFace,FairFace/train/5591.jpg,Black,Male,30-39,train,Black,5,none,0.0,0.0,0.0,0.828,0.982,0.629,
+UT_UTK_24_1_1_20170112203907818.jpg.chip,UTKFace,UTKFace/24_1_1_20170112203907818.jpg.chip.jpg,Black,Female,,train,Black,2,none,0.0,0.0,0.0,0.913,0.944,0.66,
+UT_UTK_89_0_1_20170117182437361.jpg.chip,UTKFace,UTKFace/89_0_1_20170117182437361.jpg.chip.jpg,Black,Male,,train,Black,1,none,0.0,0.0,1.0,0.829,0.861,0.788,auto: low confidence / uncertain
+UT_UTK_51_0_1_20170117173642448.jpg.chip,UTKFace,UTKFace/51_0_1_20170117173642448.jpg.chip.jpg,Black,Male,,train,Black,1,none,0.0,0.0,0.0,0.927,0.805,0.539,
+UT_UTK_48_1_1_20170113001756978.jpg.chip,UTKFace,UTKFace/48_1_1_20170113001756978.jpg.chip.jpg,Black,Female,,train,Black,4,none,0.0,0.0,0.0,0.921,0.805,0.569,
+FA_FF_35903,FairFace,FairFace/train/35903.jpg,Black,Female,20-29,train,Black,3,none,0.0,0.0,0.0,0.827,0.837,0.695,
+UT_UTK_34_0_1_20170116193916761.jpg.chip,UTKFace,UTKFace/34_0_1_20170116193916761.jpg.chip.jpg,Black,Male,,train,Black,4,none,0.0,0.0,0.0,0.833,0.99,0.778,
+FA_FF_77259,FairFace,FairFace/train/77259.jpg,Black,Female,50-59,train,Black,1,none,0.0,0.0,0.0,0.841,0.888,0.786,
+FA_FF_45688,FairFace,FairFace/train/45688.jpg,Black,Male,3-9,train,Black,1,none,0.0,0.0,0.0,0.973,0.965,0.682,
+UT_UTK_39_0_1_20170116010441172.jpg.chip,UTKFace,UTKFace/39_0_1_20170116010441172.jpg.chip.jpg,Black,Male,,train,Black,1,none,0.0,0.0,0.0,0.988,0.808,0.711,
+UT_UTK_67_0_1_20170120224828928.jpg.chip,UTKFace,UTKFace/67_0_1_20170120224828928.jpg.chip.jpg,Black,Male,,train,Black,2,none,0.0,0.0,0.0,0.976,0.808,0.795,
+UT_UTK_26_1_1_20170112224805692.jpg.chip,UTKFace,UTKFace/26_1_1_20170112224805692.jpg.chip.jpg,Black,Female,,train,Black,3,none,0.0,0.0,0.0,0.993,0.955,0.765,
+UT_UTK_26_0_1_20170113154809050.jpg.chip,UTKFace,UTKFace/26_0_1_20170113154809050.jpg.chip.jpg,Black,Male,,train,Black,2,none,0.0,0.0,0.0,0.859,0.929,0.639,
+FA_FF_83942,FairFace,FairFace/train/83942.jpg,Black,Male,50-59,train,Black,2,none,0.0,0.0,0.0,0.836,0.865,0.618,
+UT_UTK_26_1_1_20170112213133100.jpg.chip,UTKFace,UTKFace/26_1_1_20170112213133100.jpg.chip.jpg,Black,Female,,train,Black,6,none,0.0,0.0,0.0,0.979,0.865,0.527,
+UT_UTK_26_0_1_20170116203607574.jpg.chip,UTKFace,UTKFace/26_0_1_20170116203607574.jpg.chip.jpg,Black,Male,,train,Black,2,beard,0.0,0.0,0.0,0.833,0.817,0.69,
+UT_UTK_26_1_1_20170116155801198.jpg.chip,UTKFace,UTKFace/26_1_1_20170116155801198.jpg.chip.jpg,Black,Female,,train,Black,3,none,0.0,0.0,0.0,0.995,0.809,0.665,
+UT_UTK_26_0_1_20170117201041494.jpg.chip,UTKFace,UTKFace/26_0_1_20170117201041494.jpg.chip.jpg,Black,Male,,train,Black,4,none,0.0,0.0,0.0,0.974,0.81,0.731,
+FA_FF_36886,FairFace,FairFace/train/36886.jpg,Black,Female,30-39,train,Black,2,none,0.0,0.0,0.0,0.992,0.992,0.77,
+FA_FF_71389,FairFace,FairFace/train/71389.jpg,Black,Male,3-9,train,Black,3,beard,0.0,1.0,1.0,0.491,0.961,0.65,auto: low confidence / uncertain; auto: prefer-not-to-label set
+FA_FF_9339,FairFace,FairFace/train/9339.jpg,Black,Male,0-2,train,Black,5,none,0.0,0.0,0.0,0.843,0.801,0.68,
+UT_UTK_30_1_1_20170116022055600.jpg.chip,UTKFace,UTKFace/30_1_1_20170116022055600.jpg.chip.jpg,Black,Female,,train,Black,6,none,0.0,0.0,0.0,0.926,0.811,0.555,
+FA_FF_55157,FairFace,FairFace/train/55157.jpg,Black,Female,20-29,train,Black,1,none,0.0,0.0,0.0,0.806,0.818,0.599,
+FA_FF_25904,FairFace,FairFace/train/25904.jpg,Black,Female,3-9,train,Black,6,none,0.0,0.0,0.0,0.832,0.914,0.71,
+UT_UTK_35_0_1_20170113152731945.jpg.chip,UTKFace,UTKFace/35_0_1_20170113152731945.jpg.chip.jpg,Black,Male,,train,Black,3,beard,0.0,0.0,0.0,0.95,0.98,0.597,
+FA_FF_74675,FairFace,FairFace/train/74675.jpg,Black,Male,20-29,train,Black,2,none,0.0,0.0,1.0,0.969,0.866,0.758,auto: low confidence / uncertain
+FA_FF_70528,FairFace,FairFace/train/70528.jpg,Black,Female,20-29,train,Black,2,none,0.0,0.0,1.0,0.842,0.906,0.794,auto: low confidence / uncertain
+UT_UTK_11_1_1_20170114033545468.jpg.chip,UTKFace,UTKFace/11_1_1_20170114033545468.jpg.chip.jpg,Black,Female,,train,Black,7,none,0.0,0.0,0.0,0.921,0.97,0.628,
+FA_FF_83635,FairFace,FairFace/train/83635.jpg,Black,Female,3-9,train,Black,3,none,0.0,0.0,0.0,0.925,0.946,0.649,
+FA_FF_62960,FairFace,FairFace/train/62960.jpg,Black,Female,10-19,train,Black,2,none,0.0,0.0,0.0,0.977,0.824,0.558,
+FA_FF_44409,FairFace,FairFace/train/44409.jpg,Black,Female,3-9,train,Black,3,none,0.0,0.0,0.0,0.947,0.809,0.624,
+UT_UTK_25_0_1_20170113151350864.jpg.chip,UTKFace,UTKFace/25_0_1_20170113151350864.jpg.chip.jpg,Black,Male,,train,Black,1,none,0.0,0.0,0.0,0.842,0.86,0.52,
+UT_UTK_25_1_1_20170112205059883.jpg.chip,UTKFace,UTKFace/25_1_1_20170112205059883.jpg.chip.jpg,Black,Female,,train,Black,1,none,0.0,0.0,0.0,0.823,0.992,0.671,
+UT_UTK_24_1_1_20170116224913775.jpg.chip,UTKFace,UTKFace/24_1_1_20170116224913775.jpg.chip.jpg,Black,Female,,train,Black,1,none,0.0,0.0,0.0,0.967,0.807,0.642,
+UT_UTK_68_0_1_20170117170414776.jpg.chip,UTKFace,UTKFace/68_0_1_20170117170414776.jpg.chip.jpg,Black,Male,,train,Black,1,none,0.0,0.0,0.0,0.892,0.986,0.744,
+FA_FF_4188,FairFace,FairFace/train/4188.jpg,Black,Male,10-19,train,Black,1,piercing_visible,0.0,0.0,0.0,0.913,0.866,0.673,
+UT_UTK_7_0_1_20170110224720024.jpg.chip,UTKFace,UTKFace/7_0_1_20170110224720024.jpg.chip.jpg,Black,Male,,train,Black,1,none,0.0,0.0,0.0,0.813,0.907,0.613,
+UT_UTK_32_1_1_20170117140855418.jpg.chip,UTKFace,UTKFace/32_1_1_20170117140855418.jpg.chip.jpg,Black,Female,,train,Black,3,none,0.0,0.0,0.0,0.837,0.972,0.592,
+UT_UTK_25_0_1_20170113132636784.jpg.chip,UTKFace,UTKFace/25_0_1_20170113132636784.jpg.chip.jpg,Black,Male,,train,Black,1,none,0.0,0.0,0.0,0.817,0.905,0.591,
+UT_UTK_32_0_1_20170117140609238.jpg.chip,UTKFace,UTKFace/32_0_1_20170117140609238.jpg.chip.jpg,Black,Male,,train,Black,2,beard,0.0,0.0,0.0,0.807,0.981,0.74,
+UT_UTK_35_0_1_20170113134244873.jpg.chip,UTKFace,UTKFace/35_0_1_20170113134244873.jpg.chip.jpg,Black,Male,,train,Black,6,none,0.0,0.0,0.0,0.897,0.82,0.731,
+FA_FF_27091,FairFace,FairFace/train/27091.jpg,Black,Male,20-29,train,Black,3,beard,0.0,0.0,0.0,0.999,0.823,0.759,
+UT_UTK_58_0_1_20170117184831471.jpg.chip,UTKFace,UTKFace/58_0_1_20170117184831471.jpg.chip.jpg,Black,Male,,train,Black,4,none,0.0,0.0,1.0,0.512,0.821,0.767,auto: low confidence / uncertain
+FA_FF_7708,FairFace,FairFace/train/7708.jpg,Black,Female,30-39,train,Black,1,none,0.0,0.0,0.0,0.804,0.84,0.563,
+UT_UTK_65_0_1_20170117191903245.jpg.chip,UTKFace,UTKFace/65_0_1_20170117191903245.jpg.chip.jpg,Black,Male,,train,Black,1,none,0.0,0.0,0.0,0.955,0.992,0.534,
+UT_UTK_24_1_1_20170112230626278.jpg.chip,UTKFace,UTKFace/24_1_1_20170112230626278.jpg.chip.jpg,Black,Female,,train,Black,1,none,0.0,0.0,0.0,0.909,0.961,0.783,
+FA_FF_43478,FairFace,FairFace/train/43478.jpg,Black,Female,30-39,train,Black,1,none,0.0,0.0,0.0,0.862,0.806,0.515,
+UT_UTK_46_0_1_20170113151900392.jpg.chip,UTKFace,UTKFace/46_0_1_20170113151900392.jpg.chip.jpg,Black,Male,,train,Black,2,beard,0.0,0.0,1.0,0.396,0.978,0.711,auto: low confidence / uncertain
+FA_FF_44044,FairFace,FairFace/train/44044.jpg,Black,Male,20-29,train,Black,1,none,0.0,0.0,0.0,0.889,0.962,0.728,
+FA_FF_86424,FairFace,FairFace/train/86424.jpg,Black,Female,10-19,train,Black,1,none,0.0,0.0,0.0,0.953,0.94,0.741,
+FA_FF_41487,FairFace,FairFace/train/41487.jpg,Black,Female,60-69,train,Black,1,none,0.0,0.0,0.0,0.929,0.829,0.784,
+FA_FF_11736,FairFace,FairFace/train/11736.jpg,Black,Female,20-29,train,Black,2,none,0.0,0.0,0.0,0.873,0.972,0.599,
+FA_FF_10386,FairFace,FairFace/train/10386.jpg,Black,Female,10-19,train,Black,1,none,0.0,0.0,0.0,0.813,0.856,0.754,
+FA_FF_39588,FairFace,FairFace/train/39588.jpg,Black,Female,0-2,train,Black,2,none,0.0,0.0,0.0,0.902,0.911,0.532,
+FA_FF_60945,FairFace,FairFace/train/60945.jpg,Black,Female,10-19,train,Black,3,none,0.0,0.0,0.0,0.892,0.832,0.573,
+UT_UTK_47_1_1_20170116160640036.jpg.chip,UTKFace,UTKFace/47_1_1_20170116160640036.jpg.chip.jpg,Black,Female,,train,Black,4,none,0.0,0.0,1.0,0.352,0.996,0.629,auto: low confidence / uncertain
+UT_UTK_26_1_1_20170116223115624.jpg.chip,UTKFace,UTKFace/26_1_1_20170116223115624.jpg.chip.jpg,Black,Female,,train,Black,1,none,0.0,0.0,0.0,0.939,0.942,0.722,
+UT_UTK_45_1_1_20170116233320931.jpg.chip,UTKFace,UTKFace/45_1_1_20170116233320931.jpg.chip.jpg,Black,Female,,train,Black,5,none,0.0,0.0,0.0,0.919,0.862,0.634,
+FA_FF_38031,FairFace,FairFace/train/38031.jpg,Black,Male,30-39,train,Black,3,none,0.0,0.0,0.0,0.937,0.812,0.693,
+FA_FF_75670,FairFace,FairFace/train/75670.jpg,Black,Male,10-19,train,Black,1,none,0.0,0.0,0.0,0.916,0.891,0.698,
+FA_FF_21858,FairFace,FairFace/train/21858.jpg,Black,Female,20-29,train,Black,5,none,0.0,0.0,0.0,0.889,0.959,0.59,
+FA_FF_77362,FairFace,FairFace/train/77362.jpg,Black,Male,30-39,train,Black,6,none,0.0,0.0,0.0,0.987,0.922,0.675,
+FA_FF_1720,FairFace,FairFace/train/1720.jpg,Black,Male,3-9,train,Black,1,none,0.0,0.0,1.0,0.971,0.912,0.5,auto: low confidence / uncertain
+FA_FF_73356,FairFace,FairFace/train/73356.jpg,Black,Male,20-29,train,Black,2,none,0.0,0.0,1.0,0.856,0.942,0.688,auto: low confidence / uncertain
+FA_FF_40292,FairFace,FairFace/train/40292.jpg,Black,Female,30-39,train,Black,5,none,0.0,0.0,0.0,0.842,0.969,0.667,
+FA_FF_27525,FairFace,FairFace/train/27525.jpg,Black,Female,3-9,train,Black,4,none,0.0,0.0,0.0,0.858,0.93,0.503,
+FA_FF_39115,FairFace,FairFace/train/39115.jpg,Black,Male,3-9,train,Black,1,none,0.0,0.0,0.0,0.932,0.972,0.742,
+UT_UTK_35_0_1_20170117172831584.jpg.chip,UTKFace,UTKFace/35_0_1_20170117172831584.jpg.chip.jpg,Black,Male,,train,Black,1,none,0.0,0.0,0.0,0.986,0.877,0.746,
+UT_UTK_22_1_1_20170113010336430.jpg.chip,UTKFace,UTKFace/22_1_1_20170113010336430.jpg.chip.jpg,Black,Female,,train,Black,2,none,0.0,0.0,0.0,0.801,0.854,0.714,
+FA_FF_67876,FairFace,FairFace/train/67876.jpg,Black,Female,20-29,train,Black,3,none,0.0,0.0,1.0,0.807,0.916,0.611,auto: low confidence / uncertain
+FA_FF_45860,FairFace,FairFace/train/45860.jpg,Black,Female,3-9,train,Black,3,none,0.0,0.0,1.0,0.483,0.95,0.758,auto: low confidence / uncertain
+FA_FF_73293,FairFace,FairFace/train/73293.jpg,Black,Male,20-29,train,Black,2,none,0.0,0.0,0.0,0.905,0.934,0.699,
+FA_FF_55763,FairFace,FairFace/train/55763.jpg,Black,Female,10-19,train,Black,2,none,0.0,0.0,0.0,0.916,0.802,0.661,
+UT_UTK_42_0_1_20170113155055273.jpg.chip,UTKFace,UTKFace/42_0_1_20170113155055273.jpg.chip.jpg,Black,Male,,train,Black,4,none,0.0,0.0,0.0,0.915,0.834,0.588,
+FA_FF_60517,FairFace,FairFace/train/60517.jpg,Black,Female,30-39,train,Black,1,none,0.0,0.0,0.0,0.861,0.916,0.689,
+UT_UTK_38_0_1_20170117133818533.jpg.chip,UTKFace,UTKFace/38_0_1_20170117133818533.jpg.chip.jpg,Black,Male,,train,Black,2,beard,0.0,0.0,0.0,0.858,0.815,0.538,
+UT_UTK_16_0_1_20170116214205175.jpg.chip,UTKFace,UTKFace/16_0_1_20170116214205175.jpg.chip.jpg,Black,Male,,train,Black,4,none,0.0,0.0,0.0,0.923,0.982,0.681,
+UT_UTK_25_1_0_20170103180835288.jpg.chip,UTKFace,UTKFace/25_1_0_20170103180835288.jpg.chip.jpg,White,Female,,val,White,7,none,0.0,0.0,0.0,0.835,0.905,0.554,
+UT_UTK_26_1_0_20170117152808211.jpg.chip,UTKFace,UTKFace/26_1_0_20170117152808211.jpg.chip.jpg,White,Female,,val,White|Latino,5,none,1.0,0.0,0.0,0.699,0.883,0.726,auto: multi-heritage heuristic
+UT_UTK_62_0_0_20170111204505433.jpg.chip,UTKFace,UTKFace/62_0_0_20170111204505433.jpg.chip.jpg,White,Male,,val,White,6,piercing_visible,0.0,0.0,0.0,0.833,0.964,0.579,
+UT_UTK_38_1_0_20170104201657730.jpg.chip,UTKFace,UTKFace/38_1_0_20170104201657730.jpg.chip.jpg,White,Female,,val,White|Latino,2,none,1.0,0.0,0.0,0.625,0.876,0.66,auto: multi-heritage heuristic
+UT_UTK_25_1_0_20170105002736333.jpg.chip,UTKFace,UTKFace/25_1_0_20170105002736333.jpg.chip.jpg,White,Female,,val,White,5,none,0.0,0.0,1.0,0.974,0.936,0.635,auto: low confidence / uncertain
+FA_FF_75660,FairFace,FairFace/train/75660.jpg,White,Female,10-19,val,White,6,none,0.0,0.0,1.0,0.529,0.886,0.787,auto: low confidence / uncertain
+UT_UTK_62_0_0_20170111210035323.jpg.chip,UTKFace,UTKFace/62_0_0_20170111210035323.jpg.chip.jpg,White,Male,,val,White,4,none,0.0,0.0,1.0,0.853,0.95,0.732,auto: low confidence / uncertain
+FA_FF_78052,FairFace,FairFace/train/78052.jpg,White,Male,20-29,val,White,4,none,0.0,0.0,0.0,0.867,0.966,0.702,
+UT_UTK_56_1_0_20170117172544019.jpg.chip,UTKFace,UTKFace/56_1_0_20170117172544019.jpg.chip.jpg,White,Female,,val,White|Latino,5,none,1.0,0.0,0.0,0.721,0.807,0.576,auto: multi-heritage heuristic
+UT_UTK_3_1_0_20170109190802410.jpg.chip,UTKFace,UTKFace/3_1_0_20170109190802410.jpg.chip.jpg,White,Female,,val,White,1,none,0.0,0.0,0.0,0.979,0.992,0.537,
+FA_FF_85633,FairFace,FairFace/train/85633.jpg,White,Male,20-29,val,White|Latino,4,none,1.0,0.0,0.0,0.741,0.837,0.533,auto: multi-heritage heuristic
+FA_FF_18649,FairFace,FairFace/train/18649.jpg,White,Male,30-39,val,White,4,none,0.0,0.0,1.0,0.413,0.934,0.708,auto: low confidence / uncertain
+UT_UTK_26_0_0_20170113210126011.jpg.chip,UTKFace,UTKFace/26_0_0_20170113210126011.jpg.chip.jpg,White,Male,,val,White,4,none,0.0,0.0,1.0,0.855,0.963,0.577,auto: low confidence / uncertain
+UT_UTK_67_0_0_20170120225129440.jpg.chip,UTKFace,UTKFace/67_0_0_20170120225129440.jpg.chip.jpg,White,Male,,val,White,3,none,0.0,0.0,0.0,0.84,0.886,0.662,
+UT_UTK_60_0_0_20170117173825225.jpg.chip,UTKFace,UTKFace/60_0_0_20170117173825225.jpg.chip.jpg,White,Male,,val,White,7,beard,0.0,0.0,1.0,0.852,0.804,0.733,auto: low confidence / uncertain
+FA_FF_19046,FairFace,FairFace/train/19046.jpg,White,Male,50-59,val,White,6,none,0.0,0.0,1.0,0.309,0.878,0.599,auto: low confidence / uncertain
+FA_FF_35230,FairFace,FairFace/train/35230.jpg,White,Male,30-39,val,White|Latino,6,none,1.0,0.0,0.0,0.651,0.877,0.568,auto: multi-heritage heuristic
+UT_UTK_50_0_0_20170111203910911.jpg.chip,UTKFace,UTKFace/50_0_0_20170111203910911.jpg.chip.jpg,White,Male,,val,White,7,none,0.0,0.0,0.0,0.907,0.999,0.517,
+UT_UTK_42_0_0_20170117154802006.jpg.chip,UTKFace,UTKFace/42_0_0_20170117154802006.jpg.chip.jpg,White,Male,,val,White,5,none,0.0,0.0,0.0,0.868,0.911,0.561,
+UT_UTK_52_0_0_20170104200739706.jpg.chip,UTKFace,UTKFace/52_0_0_20170104200739706.jpg.chip.jpg,White,Male,,val,White,2,none,0.0,0.0,0.0,0.878,0.888,0.766,
+UT_UTK_73_0_0_20170105173752749.jpg.chip,UTKFace,UTKFace/73_0_0_20170105173752749.jpg.chip.jpg,White,Male,,val,White,6,none,0.0,0.0,1.0,0.549,0.929,0.738,auto: low confidence / uncertain
+FA_FF_8488,FairFace,FairFace/train/8488.jpg,White,Female,20-29,val,White,6,none,0.0,0.0,1.0,0.993,0.944,0.601,auto: low confidence / uncertain
+UT_UTK_28_0_0_20170117180444192.jpg.chip,UTKFace,UTKFace/28_0_0_20170117180444192.jpg.chip.jpg,White,Male,,val,White,6,none,0.0,0.0,0.0,0.905,0.847,0.722,
+FA_FF_79135,FairFace,FairFace/train/79135.jpg,White,Male,30-39,val,White|Latino,5,none,1.0,0.0,1.0,0.555,0.93,0.573,auto: multi-heritage heuristic; auto: low confidence / uncertain
+FA_FF_39953,FairFace,FairFace/train/39953.jpg,White,Female,20-29,val,White|Latino,3,none,1.0,0.0,1.0,0.755,0.813,0.751,auto: multi-heritage heuristic; auto: low confidence / uncertain
+FA_FF_37427,FairFace,FairFace/train/37427.jpg,MiddleEastern,Male,20-29,val,MiddleEastern,2,none,0.0,0.0,1.0,0.923,0.88,0.721,auto: low confidence / uncertain
+FA_FF_40268,FairFace,FairFace/train/40268.jpg,MiddleEastern,Male,40-49,val,MiddleEastern|SouthAsian,3,religious_headwear,1.0,0.0,0.0,0.791,0.952,0.582,auto: multi-heritage heuristic
+FA_FF_45622,FairFace,FairFace/train/45622.jpg,MiddleEastern,Male,60-69,val,MiddleEastern,5,none,0.0,0.0,0.0,0.849,0.832,0.613,
+FA_FF_79262,FairFace,FairFace/train/79262.jpg,MiddleEastern,Male,60-69,val,MiddleEastern,4,none,0.0,0.0,1.0,0.532,0.958,0.708,auto: low confidence / uncertain
+FA_FF_56054,FairFace,FairFace/train/56054.jpg,MiddleEastern,Male,50-59,val,MiddleEastern,3,none,0.0,0.0,0.0,0.854,0.943,0.679,
+FA_FF_42244,FairFace,FairFace/train/42244.jpg,MiddleEastern,Male,30-39,val,MiddleEastern,7,none,0.0,0.0,0.0,0.86,0.924,0.793,
+FA_FF_76525,FairFace,FairFace/train/76525.jpg,MiddleEastern,Female,30-39,val,MiddleEastern,5,piercing_visible,0.0,0.0,0.0,0.893,0.83,0.534,
+FA_FF_11261,FairFace,FairFace/train/11261.jpg,MiddleEastern,Male,40-49,val,MiddleEastern,2,religious_headwear,0.0,0.0,0.0,0.832,0.923,0.575,
+FA_FF_20137,FairFace,FairFace/train/20137.jpg,MiddleEastern,Male,40-49,val,MiddleEastern,1,beard,0.0,0.0,0.0,0.81,0.847,0.521,
+FA_FF_34230,FairFace,FairFace/train/34230.jpg,MiddleEastern,Female,30-39,val,MiddleEastern,2,none,0.0,0.0,0.0,0.949,0.847,0.568,
+FA_FF_47970,FairFace,FairFace/train/47970.jpg,MiddleEastern,Male,40-49,val,MiddleEastern,2,religious_headwear,0.0,0.0,0.0,0.815,0.836,0.683,
+FA_FF_15715,FairFace,FairFace/train/15715.jpg,MiddleEastern,Male,40-49,val,MiddleEastern,2,beard,0.0,0.0,0.0,0.872,0.822,0.584,
+FA_FF_487,FairFace,FairFace/train/487.jpg,MiddleEastern,Female,30-39,val,MiddleEastern,2,none,0.0,0.0,0.0,0.844,0.981,0.786,
+FA_FF_34615,FairFace,FairFace/train/34615.jpg,MiddleEastern,Male,30-39,val,MiddleEastern,2,none,0.0,0.0,0.0,0.882,0.803,0.639,
+FA_FF_28303,FairFace,FairFace/train/28303.jpg,MiddleEastern,Male,3-9,val,MiddleEastern,2,none,0.0,0.0,0.0,0.887,0.884,0.769,
+FA_FF_79575,FairFace,FairFace/train/79575.jpg,MiddleEastern,Male,20-29,val,MiddleEastern|Latino,7,none,1.0,0.0,0.0,0.676,0.899,0.529,auto: multi-heritage heuristic
+UT_UTK_39_0_2_20170104201921434.jpg.chip,UTKFace,UTKFace/39_0_2_20170104201921434.jpg.chip.jpg,EastAsian,Male,,val,EastAsian|SoutheastAsian,1,none,1.0,0.0,0.0,0.652,0.803,0.8,auto: multi-heritage heuristic
+UT_UTK_61_0_2_20170116193742399.jpg.chip,UTKFace,UTKFace/61_0_2_20170116193742399.jpg.chip.jpg,EastAsian,Male,,val,EastAsian,4,none,0.0,0.0,0.0,0.914,0.941,0.542,
+FA_FF_81398,FairFace,FairFace/train/81398.jpg,EastAsian,Male,30-39,val,EastAsian,3,none,0.0,0.0,1.0,0.941,0.906,0.707,auto: low confidence / uncertain
+UT_UTK_24_0_2_20170116170903688.jpg.chip,UTKFace,UTKFace/24_0_2_20170116170903688.jpg.chip.jpg,EastAsian,Male,,val,EastAsian,7,none,0.0,0.0,0.0,0.923,0.867,0.686,
+FA_FF_30771,FairFace,FairFace/train/30771.jpg,EastAsian,Male,20-29,val,EastAsian,1,none,0.0,0.0,1.0,0.873,0.873,0.512,auto: low confidence / uncertain
+FA_FF_61614,FairFace,FairFace/train/61614.jpg,EastAsian,Male,10-19,val,EastAsian,3,none,0.0,0.0,0.0,0.955,0.947,0.695,
+UT_UTK_1_0_2_20170109191209991.jpg.chip,UTKFace,UTKFace/1_0_2_20170109191209991.jpg.chip.jpg,EastAsian,Male,,val,EastAsian,7,none,0.0,0.0,0.0,0.951,0.885,0.651,
+FA_FF_19667,FairFace,FairFace/train/19667.jpg,EastAsian,Male,3-9,val,EastAsian|SoutheastAsian,7,none,1.0,0.0,0.0,0.672,0.907,0.703,auto: multi-heritage heuristic
+UT_UTK_28_0_2_20170116190154379.jpg.chip,UTKFace,UTKFace/28_0_2_20170116190154379.jpg.chip.jpg,EastAsian,Male,,val,EastAsian,6,none,0.0,0.0,0.0,0.989,0.892,0.768,
+FA_FF_27828,FairFace,FairFace/train/27828.jpg,EastAsian,Female,20-29,val,EastAsian|SoutheastAsian,2,none,1.0,0.0,0.0,0.789,0.899,0.709,auto: multi-heritage heuristic
+UT_UTK_3_1_2_20161219160304718.jpg.chip,UTKFace,UTKFace/3_1_2_20161219160304718.jpg.chip.jpg,EastAsian,Female,,val,EastAsian,2,none,0.0,0.0,0.0,0.859,0.869,0.54,
+UT_UTK_21_1_2_20170105000725292.jpg.chip,UTKFace,UTKFace/21_1_2_20170105000725292.jpg.chip.jpg,EastAsian,Female,,val,EastAsian,5,none,0.0,0.0,0.0,0.813,0.929,0.784,
+UT_UTK_30_1_2_20170116162634192.jpg.chip,UTKFace,UTKFace/30_1_2_20170116162634192.jpg.chip.jpg,EastAsian,Female,,val,EastAsian,7,none,0.0,0.0,0.0,0.865,0.889,0.753,
+FA_FF_29519,FairFace,FairFace/train/29519.jpg,EastAsian,Male,20-29,val,EastAsian,4,none,0.0,0.0,0.0,0.834,0.809,0.731,
+UT_UTK_1_1_2_20170109193557242.jpg.chip,UTKFace,UTKFace/1_1_2_20170109193557242.jpg.chip.jpg,EastAsian,Female,,val,EastAsian,5,none,0.0,0.0,0.0,0.985,0.968,0.792,
+FA_FF_32747,FairFace,FairFace/train/32747.jpg,EastAsian,Female,10-19,val,EastAsian,2,none,0.0,0.0,1.0,0.848,0.852,0.538,auto: low confidence / uncertain
+UT_UTK_24_1_2_20170116163638814.jpg.chip,UTKFace,UTKFace/24_1_2_20170116163638814.jpg.chip.jpg,EastAsian,Female,,val,EastAsian,6,none,0.0,0.0,1.0,0.379,0.908,0.612,auto: low confidence / uncertain
+UT_UTK_29_0_2_20170116173703903.jpg.chip,UTKFace,UTKFace/29_0_2_20170116173703903.jpg.chip.jpg,EastAsian,Male,,val,EastAsian,2,none,0.0,0.0,0.0,0.881,0.801,0.596,
+FA_FF_43601,FairFace,FairFace/train/43601.jpg,EastAsian,Female,3-9,val,EastAsian,3,none,0.0,0.0,0.0,0.941,0.996,0.783,
+UT_UTK_23_1_2_20170105162602515.jpg.chip,UTKFace,UTKFace/23_1_2_20170105162602515.jpg.chip.jpg,EastAsian,Female,,val,EastAsian,3,none,0.0,0.0,0.0,0.981,0.98,0.719,
+FA_FF_61686,FairFace,FairFace/train/61686.jpg,EastAsian,Female,20-29,val,EastAsian|SoutheastAsian,4,none,1.0,0.0,0.0,0.65,0.811,0.528,auto: multi-heritage heuristic
+FA_FF_41243,FairFace,FairFace/train/41243.jpg,SoutheastAsian,Female,20-29,val,SoutheastAsian,2,piercing_visible,0.0,0.0,0.0,0.987,0.889,0.662,
+FA_FF_84305,FairFace,FairFace/train/84305.jpg,SoutheastAsian,Female,10-19,val,SoutheastAsian,1,none,0.0,0.0,0.0,0.839,0.982,0.783,
+FA_FF_74603,FairFace,FairFace/train/74603.jpg,SoutheastAsian,Male,40-49,val,SoutheastAsian,5,none,0.0,0.0,0.0,0.874,0.975,0.793,
+FA_FF_76878,FairFace,FairFace/train/76878.jpg,SoutheastAsian,Female,20-29,val,SoutheastAsian|SouthAsian,3,none,1.0,0.0,0.0,0.654,0.98,0.718,auto: multi-heritage heuristic
+FA_FF_86059,FairFace,FairFace/train/86059.jpg,SoutheastAsian,Male,30-39,val,SoutheastAsian,5,none,0.0,0.0,0.0,0.92,0.867,0.658,
+FA_FF_832,FairFace,FairFace/train/832.jpg,SoutheastAsian,Female,20-29,val,SoutheastAsian,2,none,0.0,0.0,0.0,0.801,0.892,0.552,
+FA_FF_3547,FairFace,FairFace/train/3547.jpg,SoutheastAsian,Male,20-29,val,SoutheastAsian,4,none,0.0,0.0,0.0,0.966,0.917,0.591,
+FA_FF_69315,FairFace,FairFace/train/69315.jpg,SoutheastAsian,Female,20-29,val,SoutheastAsian,4,none,0.0,0.0,0.0,0.958,0.927,0.692,
+FA_FF_71708,FairFace,FairFace/train/71708.jpg,SoutheastAsian,Female,30-39,val,SoutheastAsian|SouthAsian,1,none,1.0,0.0,0.0,0.673,0.855,0.536,auto: multi-heritage heuristic
+FA_FF_42517,FairFace,FairFace/train/42517.jpg,SoutheastAsian,Female,20-29,val,SoutheastAsian,3,none,0.0,0.0,0.0,0.916,0.895,0.688,
+FA_FF_264,FairFace,FairFace/train/264.jpg,SoutheastAsian,Male,10-19,val,SoutheastAsian,1,piercing_visible,0.0,0.0,0.0,0.915,0.976,0.596,
+FA_FF_64723,FairFace,FairFace/train/64723.jpg,SoutheastAsian,Male,40-49,val,SoutheastAsian|EastAsian,1,piercing_visible,1.0,0.0,0.0,0.64,0.928,0.587,auto: multi-heritage heuristic
+FA_FF_43178,FairFace,FairFace/train/43178.jpg,SoutheastAsian,Female,40-49,val,SoutheastAsian|EastAsian,7,none,1.0,0.0,1.0,0.596,0.909,0.726,auto: multi-heritage heuristic; auto: low confidence / uncertain
+FA_FF_17983,FairFace,FairFace/train/17983.jpg,SoutheastAsian,Female,20-29,val,SoutheastAsian,3,none,0.0,0.0,0.0,0.86,0.916,0.529,
+FA_FF_29829,FairFace,FairFace/train/29829.jpg,SoutheastAsian,Male,40-49,val,SoutheastAsian,6,none,0.0,0.0,0.0,0.875,0.831,0.531,
+FA_FF_60406,FairFace,FairFace/train/60406.jpg,SoutheastAsian,Female,20-29,val,SoutheastAsian,2,none,0.0,0.0,0.0,0.923,0.91,0.66,
+FA_FF_2157,FairFace,FairFace/train/2157.jpg,SoutheastAsian,Male,60-69,val,SoutheastAsian,5,none,0.0,0.0,0.0,0.815,0.873,0.593,
+UT_UTK_40_0_3_20170119175332114.jpg.chip,UTKFace,UTKFace/40_0_3_20170119175332114.jpg.chip.jpg,SouthAsian,Male,,val,SouthAsian,6,beard,0.0,0.0,0.0,0.953,0.971,0.567,
+UT_UTK_26_1_3_20170119144411037.jpg.chip,UTKFace,UTKFace/26_1_3_20170119144411037.jpg.chip.jpg,SouthAsian,Female,,val,SouthAsian|MiddleEastern,5,none,1.0,0.0,0.0,0.602,0.804,0.534,auto: multi-heritage heuristic
+UT_UTK_24_1_3_20170119164720463.jpg.chip,UTKFace,UTKFace/24_1_3_20170119164720463.jpg.chip.jpg,SouthAsian,Female,,val,SouthAsian,4,none,0.0,0.0,0.0,0.807,0.809,0.773,
+UT_UTK_34_0_3_20170119165755400.jpg.chip,UTKFace,UTKFace/34_0_3_20170119165755400.jpg.chip.jpg,SouthAsian,Male,,val,SouthAsian,3,none,0.0,0.0,1.0,0.331,0.806,0.701,auto: low confidence / uncertain
+UT_UTK_26_0_3_20170119180602948.jpg.chip,UTKFace,UTKFace/26_0_3_20170119180602948.jpg.chip.jpg,SouthAsian,Male,,val,SouthAsian|SoutheastAsian,3,none,1.0,0.0,0.0,0.637,0.82,0.671,auto: multi-heritage heuristic
+FA_FF_34606,FairFace,FairFace/train/34606.jpg,SouthAsian,Female,20-29,val,SouthAsian,7,none,0.0,0.0,0.0,0.838,0.82,0.792,
+FA_FF_32461,FairFace,FairFace/train/32461.jpg,SouthAsian,Male,20-29,val,SouthAsian,6,none,0.0,0.0,0.0,0.873,0.876,0.606,
+FA_FF_36882,FairFace,FairFace/train/36882.jpg,SouthAsian,Female,60-69,val,SouthAsian,7,religious_headwear,0.0,0.0,0.0,0.997,0.941,0.729,
+UT_UTK_1_1_3_20161220143222430.jpg.chip,UTKFace,UTKFace/1_1_3_20161220143222430.jpg.chip.jpg,SouthAsian,Female,,val,SouthAsian,1,none,0.0,0.0,0.0,0.823,0.889,0.793,
+UT_UTK_24_1_3_20170104222753607.jpg.chip,UTKFace,UTKFace/24_1_3_20170104222753607.jpg.chip.jpg,SouthAsian,Female,,val,SouthAsian,6,none,0.0,0.0,1.0,0.838,0.836,0.704,auto: low confidence / uncertain
+UT_UTK_30_0_3_20170119204751837.jpg.chip,UTKFace,UTKFace/30_0_3_20170119204751837.jpg.chip.jpg,SouthAsian,Male,,val,SouthAsian,7,religious_headwear,0.0,0.0,0.0,0.888,0.82,0.677,
+UT_UTK_21_1_3_20170104221836903.jpg.chip,UTKFace,UTKFace/21_1_3_20170104221836903.jpg.chip.jpg,SouthAsian,Female,,val,SouthAsian,2,none,0.0,0.0,1.0,0.544,0.825,0.797,auto: low confidence / uncertain
+UT_UTK_54_1_3_20170109140625083.jpg.chip,UTKFace,UTKFace/54_1_3_20170109140625083.jpg.chip.jpg,SouthAsian,Female,,val,SouthAsian,1,none,0.0,0.0,0.0,0.943,0.88,0.693,
+FA_FF_35637,FairFace,FairFace/train/35637.jpg,SouthAsian,Female,20-29,val,SouthAsian,6,none,0.0,0.0,0.0,0.897,0.899,0.575,
+UT_UTK_26_1_3_20170119193143376.jpg.chip,UTKFace,UTKFace/26_1_3_20170119193143376.jpg.chip.jpg,SouthAsian,Female,,val,SouthAsian,5,religious_headwear,0.0,0.0,1.0,0.313,0.877,0.792,auto: low confidence / uncertain
+FA_FF_1409,FairFace,FairFace/train/1409.jpg,SouthAsian,Male,10-19,val,SouthAsian,6,none,0.0,0.0,1.0,0.819,0.932,0.561,auto: low confidence / uncertain
+FA_FF_1544,FairFace,FairFace/train/1544.jpg,SouthAsian,Male,10-19,val,SouthAsian,1,beard,0.0,0.0,0.0,0.972,0.877,0.774,
+FA_FF_16464,FairFace,FairFace/train/16464.jpg,SouthAsian,Male,10-19,val,SouthAsian,6,none,0.0,0.0,0.0,0.807,0.827,0.647,
+UT_UTK_24_1_3_20170104222526663.jpg.chip,UTKFace,UTKFace/24_1_3_20170104222526663.jpg.chip.jpg,SouthAsian,Female,,val,SouthAsian,2,none,0.0,0.0,0.0,0.935,0.971,0.643,
+FA_FF_84525,FairFace,FairFace/train/84525.jpg,Latino,Male,30-39,val,Latino,2,none,0.0,0.0,0.0,0.994,0.806,0.596,
+FA_FF_28052,FairFace,FairFace/train/28052.jpg,Latino,Female,3-9,val,Latino|MiddleEastern,2,none,1.0,0.0,1.0,0.736,0.819,0.602,auto: multi-heritage heuristic; auto: low confidence / uncertain
+FA_FF_40040,FairFace,FairFace/train/40040.jpg,Latino,Male,40-49,val,Latino,6,none,0.0,0.0,0.0,0.932,0.813,0.773,
+FA_FF_50627,FairFace,FairFace/train/50627.jpg,Latino,Female,30-39,val,Latino,5,none,0.0,0.0,1.0,0.382,0.914,0.759,auto: low confidence / uncertain
+FA_FF_43514,FairFace,FairFace/train/43514.jpg,Latino,Female,20-29,val,Latino,4,none,0.0,0.0,0.0,0.918,0.915,0.617,
+FA_FF_47632,FairFace,FairFace/train/47632.jpg,Latino,Female,20-29,val,Latino,3,none,0.0,0.0,0.0,0.867,0.923,0.602,
+FA_FF_35610,FairFace,FairFace/train/35610.jpg,Latino,Female,20-29,val,Latino,7,none,0.0,0.0,0.0,0.969,0.857,0.661,
+FA_FF_51359,FairFace,FairFace/train/51359.jpg,Latino,Female,50-59,val,Latino|MiddleEastern,3,none,1.0,0.0,0.0,0.706,0.918,0.673,auto: multi-heritage heuristic
+FA_FF_65424,FairFace,FairFace/train/65424.jpg,Latino,Male,50-59,val,Latino,6,beard,0.0,0.0,0.0,0.885,0.86,0.651,
+FA_FF_56188,FairFace,FairFace/train/56188.jpg,Latino,Female,30-39,val,Latino,4,none,0.0,0.0,0.0,0.85,0.976,0.664,
+FA_FF_41238,FairFace,FairFace/train/41238.jpg,Latino,Male,40-49,val,Latino,3,none,0.0,0.0,0.0,0.9,0.928,0.58,
+FA_FF_58453,FairFace,FairFace/train/58453.jpg,Latino,Female,20-29,val,Latino,4,piercing_visible,0.0,0.0,0.0,0.987,0.892,0.56,
+FA_FF_41295,FairFace,FairFace/train/41295.jpg,Latino,Male,30-39,val,Latino,3,none,0.0,0.0,0.0,0.969,0.969,0.69,
+FA_FF_40441,FairFace,FairFace/train/40441.jpg,Latino,Male,50-59,val,Latino,6,none,0.0,0.0,0.0,0.937,0.959,0.508,
+FA_FF_85629,FairFace,FairFace/train/85629.jpg,Latino,Female,20-29,val,Latino,4,none,0.0,0.0,0.0,0.884,0.806,0.582,
+FA_FF_10235,FairFace,FairFace/train/10235.jpg,Latino,Male,40-49,val,Latino,2,none,0.0,0.0,1.0,0.929,0.979,0.517,auto: low confidence / uncertain
+FA_FF_50437,FairFace,FairFace/train/50437.jpg,Black,Female,40-49,val,Black,6,none,0.0,0.0,0.0,0.813,0.977,0.702,
+FA_FF_81573,FairFace,FairFace/train/81573.jpg,Black,Female,60-69,val,Black,2,none,0.0,0.0,0.0,0.969,0.824,0.65,
+FA_FF_37368,FairFace,FairFace/train/37368.jpg,Black,Female,20-29,val,Black,3,none,0.0,0.0,0.0,0.955,0.92,0.527,
+UT_UTK_28_0_1_20170120220341425.jpg.chip,UTKFace,UTKFace/28_0_1_20170120220341425.jpg.chip.jpg,Black,Male,,val,Black,6,none,0.0,0.0,0.0,0.966,0.844,0.781,
+FA_FF_3556,FairFace,FairFace/train/3556.jpg,Black,Male,60-69,val,Black,3,piercing_visible,0.0,0.0,0.0,0.855,0.94,0.66,
+FA_FF_25238,FairFace,FairFace/train/25238.jpg,Black,Male,50-59,val,Black,1,none,0.0,0.0,0.0,0.895,0.895,0.543,
+FA_FF_18194,FairFace,FairFace/train/18194.jpg,Black,Female,40-49,val,Black,6,piercing_visible,0.0,0.0,0.0,0.929,0.96,0.722,
+UT_UTK_24_0_1_20170116220224657 .jpg.chip,UTKFace,UTKFace/24_0_1_20170116220224657 .jpg.chip.jpg,Black,Male,,val,Black,3,none,0.0,0.0,0.0,0.934,0.981,0.71,
+UT_UTK_31_1_1_20170113011230351.jpg.chip,UTKFace,UTKFace/31_1_1_20170113011230351.jpg.chip.jpg,Black,Female,,val,Black,2,piercing_visible,0.0,0.0,0.0,0.847,0.986,0.788,
+FA_FF_78584,FairFace,FairFace/train/78584.jpg,Black,Male,40-49,val,Black,1,none,0.0,0.0,0.0,0.987,0.888,0.548,
+UT_UTK_20_1_1_20170112191224819.jpg.chip,UTKFace,UTKFace/20_1_1_20170112191224819.jpg.chip.jpg,Black,Female,,val,Black,5,none,0.0,0.0,0.0,0.929,0.956,0.524,
+FA_FF_75355,FairFace,FairFace/train/75355.jpg,Black,Female,20-29,val,Black,3,none,0.0,0.0,0.0,0.985,0.82,0.776,
+UT_UTK_32_0_1_20170113141930308.jpg.chip,UTKFace,UTKFace/32_0_1_20170113141930308.jpg.chip.jpg,Black,Male,,val,Black,3,none,0.0,0.0,0.0,0.813,0.939,0.598,
+FA_FF_54886,FairFace,FairFace/train/54886.jpg,Black,Female,10-19,val,Black,6,none,0.0,0.0,0.0,0.837,0.84,0.501,
+UT_UTK_21_1_1_20170116233611534.jpg.chip,UTKFace,UTKFace/21_1_1_20170116233611534.jpg.chip.jpg,Black,Female,,val,Black,4,none,0.0,0.0,0.0,0.822,0.93,0.73,
+UT_UTK_38_1_1_20170112231350830.jpg.chip,UTKFace,UTKFace/38_1_1_20170112231350830.jpg.chip.jpg,Black,Female,,val,Black,1,none,0.0,0.0,0.0,0.882,0.827,0.762,
+FA_FF_6274,FairFace,FairFace/train/6274.jpg,Black,Female,3-9,val,Black,2,none,0.0,0.0,0.0,0.866,0.879,0.61,
+UT_UTK_26_0_1_20170113135322642.jpg.chip,UTKFace,UTKFace/26_0_1_20170113135322642.jpg.chip.jpg,Black,Male,,val,Black,1,beard,0.0,0.0,1.0,0.914,0.846,0.684,auto: low confidence / uncertain
+UT_UTK_1_1_1_20170109194654049.jpg.chip,UTKFace,UTKFace/1_1_1_20170109194654049.jpg.chip.jpg,Black,Female,,val,Black,4,piercing_visible,0.0,0.0,0.0,0.852,0.92,0.685,
+UT_UTK_29_1_1_20170112235043081.jpg.chip,UTKFace,UTKFace/29_1_1_20170112235043081.jpg.chip.jpg,Black,Female,,val,Black,1,piercing_visible,0.0,0.0,0.0,0.834,0.955,0.658,
+FA_FF_5869,FairFace,FairFace/train/5869.jpg,White,Male,20-29,test,White,6,none,0.0,0.0,0.0,0.845,0.949,0.58,
+FA_FF_7593,FairFace,FairFace/train/7593.jpg,White,Male,50-59,test,White,7,none,0.0,0.0,0.0,0.843,0.958,0.554,
+UT_UTK_9_0_0_20170110224835799.jpg.chip,UTKFace,UTKFace/9_0_0_20170110224835799.jpg.chip.jpg,White,Male,,test,White|Latino,7,none,1.0,0.0,0.0,0.663,0.894,0.526,auto: multi-heritage heuristic
+FA_FF_3048,FairFace,FairFace/train/3048.jpg,White,Male,50-59,test,White,4,none,0.0,0.0,0.0,0.842,0.911,0.522,
+UT_UTK_9_0_0_20170110220411186.jpg.chip,UTKFace,UTKFace/9_0_0_20170110220411186.jpg.chip.jpg,White,Male,,test,White|Latino,7,none,1.0,0.0,0.0,0.639,0.962,0.713,auto: multi-heritage heuristic
+UT_UTK_87_0_0_20170110183538244.jpg.chip,UTKFace,UTKFace/87_0_0_20170110183538244.jpg.chip.jpg,White,Male,,test,White|Latino,3,none,1.0,0.0,0.0,0.649,0.852,0.674,auto: multi-heritage heuristic
+UT_UTK_1_0_0_20170109194350047.jpg.chip,UTKFace,UTKFace/1_0_0_20170109194350047.jpg.chip.jpg,White,Male,,test,White,7,none,0.0,0.0,0.0,0.826,0.809,0.535,
+FA_FF_85209,FairFace,FairFace/train/85209.jpg,White,Male,30-39,test,White|Latino,3,none,1.0,0.0,0.0,0.782,0.853,0.728,auto: multi-heritage heuristic
+UT_UTK_49_0_0_20170119211323601.jpg.chip,UTKFace,UTKFace/49_0_0_20170119211323601.jpg.chip.jpg,White,Male,,test,White,5,none,0.0,0.0,0.0,0.999,0.96,0.697,
+FA_FF_48531,FairFace,FairFace/train/48531.jpg,White,Male,30-39,test,White|Latino,7,none,1.0,0.0,1.0,0.596,0.823,0.64,auto: multi-heritage heuristic; auto: low confidence / uncertain
+UT_UTK_3_1_0_20170109192434126.jpg.chip,UTKFace,UTKFace/3_1_0_20170109192434126.jpg.chip.jpg,White,Female,,test,White,3,none,0.0,0.0,0.0,0.998,0.944,0.534,
+FA_FF_65518,FairFace,FairFace/train/65518.jpg,White,Female,30-39,test,White|Latino,4,none,1.0,0.0,0.0,0.767,0.855,0.653,auto: multi-heritage heuristic
+FA_FF_63321,FairFace,FairFace/train/63321.jpg,White,Female,20-29,test,White,6,none,0.0,0.0,0.0,0.994,0.815,0.625,
+UT_UTK_75_1_0_20170120225821626.jpg.chip,UTKFace,UTKFace/75_1_0_20170120225821626.jpg.chip.jpg,White,Female,,test,White,6,none,0.0,0.0,0.0,0.805,0.918,0.618,
+UT_UTK_55_0_0_20170117175529999.jpg.chip,UTKFace,UTKFace/55_0_0_20170117175529999.jpg.chip.jpg,White,Male,,test,White,6,none,0.0,0.0,0.0,0.816,0.919,0.787,
+FA_FF_42575,FairFace,FairFace/train/42575.jpg,White,Male,40-49,test,White|Latino,6,none,1.0,0.0,0.0,0.788,0.914,0.787,auto: multi-heritage heuristic
+UT_UTK_59_0_0_20170111201348742.jpg.chip,UTKFace,UTKFace/59_0_0_20170111201348742.jpg.chip.jpg,White,Male,,test,White,6,beard,0.0,0.0,1.0,0.865,0.88,0.614,auto: low confidence / uncertain
+UT_UTK_29_0_0_20170117202657886.jpg.chip,UTKFace,UTKFace/29_0_0_20170117202657886.jpg.chip.jpg,White,Male,,test,White,4,none,0.0,0.0,0.0,0.818,0.951,0.585,
+FA_FF_84552,FairFace,FairFace/train/84552.jpg,White,Male,40-49,test,White,4,none,0.0,0.0,0.0,0.886,0.933,0.539,
+FA_FF_36375,FairFace,FairFace/train/36375.jpg,White,Male,50-59,test,White,3,none,0.0,0.0,0.0,0.977,0.962,0.727,
+UT_UTK_40_1_0_20170117150823490.jpg.chip,UTKFace,UTKFace/40_1_0_20170117150823490.jpg.chip.jpg,White,Female,,test,White,7,none,0.0,0.0,0.0,0.808,0.937,0.567,
+FA_FF_80907,FairFace,FairFace/train/80907.jpg,White,Female,0-2,test,White,6,none,0.0,0.0,0.0,0.905,0.896,0.772,
+FA_FF_32300,FairFace,FairFace/train/32300.jpg,White,Male,20-29,test,White|Latino,5,none,1.0,0.0,0.0,0.625,0.983,0.665,auto: multi-heritage heuristic
+FA_FF_37646,FairFace,FairFace/train/37646.jpg,White,Male,20-29,test,White,5,none,0.0,0.0,0.0,0.893,0.954,0.676,
+FA_FF_70501,FairFace,FairFace/train/70501.jpg,MiddleEastern,Male,20-29,test,MiddleEastern|Latino,7,beard,1.0,0.0,1.0,0.596,0.917,0.589,auto: multi-heritage heuristic; auto: low confidence / uncertain
+FA_FF_31042,FairFace,FairFace/train/31042.jpg,MiddleEastern,Female,30-39,test,MiddleEastern,2,none,0.0,0.0,0.0,0.853,0.949,0.556,
+FA_FF_8677,FairFace,FairFace/train/8677.jpg,MiddleEastern,Male,3-9,test,MiddleEastern,5,religious_headwear,0.0,0.0,1.0,0.907,0.974,0.708,auto: low confidence / uncertain
+FA_FF_14423,FairFace,FairFace/train/14423.jpg,MiddleEastern,Female,3-9,test,MiddleEastern,4,none,0.0,0.0,0.0,0.924,0.879,0.707,
+FA_FF_54993,FairFace,FairFace/train/54993.jpg,MiddleEastern,Female,40-49,test,MiddleEastern,5,religious_headwear,0.0,0.0,1.0,0.328,0.842,0.758,auto: low confidence / uncertain
+FA_FF_3122,FairFace,FairFace/train/3122.jpg,MiddleEastern,Female,20-29,test,MiddleEastern,1,none,0.0,0.0,0.0,0.925,0.895,0.639,
+FA_FF_30539,FairFace,FairFace/train/30539.jpg,MiddleEastern,Male,20-29,test,MiddleEastern|SouthAsian,7,beard,1.0,0.0,0.0,0.735,0.859,0.573,auto: multi-heritage heuristic
+FA_FF_57069,FairFace,FairFace/train/57069.jpg,MiddleEastern,Female,20-29,test,MiddleEastern,7,none,0.0,0.0,0.0,0.821,0.916,0.649,
+FA_FF_85412,FairFace,FairFace/train/85412.jpg,MiddleEastern,Male,30-39,test,MiddleEastern,4,none,0.0,0.0,1.0,0.4,0.974,0.772,auto: low confidence / uncertain
+FA_FF_48972,FairFace,FairFace/train/48972.jpg,MiddleEastern,Male,10-19,test,MiddleEastern,5,none,0.0,0.0,1.0,0.444,0.823,0.767,auto: low confidence / uncertain
+FA_FF_10284,FairFace,FairFace/train/10284.jpg,MiddleEastern,Male,40-49,test,MiddleEastern,7,none,0.0,0.0,0.0,0.887,0.918,0.652,
+FA_FF_47073,FairFace,FairFace/train/47073.jpg,MiddleEastern,Female,50-59,test,MiddleEastern,5,none,0.0,0.0,0.0,0.943,0.883,0.617,
+FA_FF_19920,FairFace,FairFace/train/19920.jpg,MiddleEastern,Female,30-39,test,MiddleEastern,2,none,0.0,0.0,0.0,0.894,0.817,0.707,
+FA_FF_16470,FairFace,FairFace/train/16470.jpg,MiddleEastern,Female,20-29,test,MiddleEastern,5,none,0.0,0.0,0.0,0.898,0.911,0.57,
+FA_FF_34323,FairFace,FairFace/train/34323.jpg,MiddleEastern,Male,30-39,test,MiddleEastern,5,none,0.0,0.0,0.0,0.935,0.823,0.601,
+FA_FF_7244,FairFace,FairFace/train/7244.jpg,MiddleEastern,Female,10-19,test,MiddleEastern,3,none,0.0,0.0,0.0,0.999,0.979,0.667,
+FA_FF_69003,FairFace,FairFace/train/69003.jpg,EastAsian,Male,20-29,test,EastAsian,6,none,0.0,0.0,1.0,0.821,0.951,0.789,auto: low confidence / uncertain
+UT_UTK_60_0_2_20170116182650366.jpg.chip,UTKFace,UTKFace/60_0_2_20170116182650366.jpg.chip.jpg,EastAsian,Male,,test,EastAsian,7,none,0.0,0.0,0.0,0.972,0.824,0.55,
+UT_UTK_2_0_2_20161219200225291.jpg.chip,UTKFace,UTKFace/2_0_2_20161219200225291.jpg.chip.jpg,EastAsian,Male,,test,EastAsian,7,none,0.0,0.0,0.0,0.942,0.873,0.546,
+FA_FF_8215,FairFace,FairFace/train/8215.jpg,EastAsian,Male,30-39,test,EastAsian,4,beard,0.0,0.0,0.0,0.994,0.857,0.642,
+UT_UTK_26_1_2_20170116162412165.jpg.chip,UTKFace,UTKFace/26_1_2_20170116162412165.jpg.chip.jpg,EastAsian,Female,,test,EastAsian,1,none,0.0,0.0,0.0,0.883,0.906,0.726,
+UT_UTK_32_1_2_20170116180211518.jpg.chip,UTKFace,UTKFace/32_1_2_20170116180211518.jpg.chip.jpg,EastAsian,Female,,test,EastAsian,7,none,0.0,0.0,0.0,0.984,0.936,0.655,
+FA_FF_23833,FairFace,FairFace/train/23833.jpg,EastAsian,Male,20-29,test,EastAsian,6,beard,0.0,0.0,0.0,0.944,0.954,0.62,
+FA_FF_76402,FairFace,FairFace/train/76402.jpg,EastAsian,Female,10-19,test,EastAsian,1,none,0.0,0.0,1.0,0.531,0.996,0.672,auto: low confidence / uncertain
+UT_UTK_15_1_2_20170116175234078.jpg.chip,UTKFace,UTKFace/15_1_2_20170116175234078.jpg.chip.jpg,EastAsian,Female,,test,EastAsian,7,none,0.0,0.0,0.0,0.995,0.975,0.71,
+UT_UTK_89_1_2_20170110182930160.jpg.chip,UTKFace,UTKFace/89_1_2_20170110182930160.jpg.chip.jpg,EastAsian,Female,,test,EastAsian,7,none,0.0,0.0,0.0,0.965,0.881,0.544,
+UT_UTK_26_1_2_20170116184244368.jpg.chip,UTKFace,UTKFace/26_1_2_20170116184244368.jpg.chip.jpg,EastAsian,Female,,test,EastAsian,4,none,0.0,0.0,0.0,0.924,0.93,0.744,
+FA_FF_10870,FairFace,FairFace/train/10870.jpg,EastAsian,Male,20-29,test,EastAsian,5,none,0.0,0.0,1.0,0.434,0.904,0.764,auto: low confidence / uncertain
+FA_FF_26006,FairFace,FairFace/train/26006.jpg,EastAsian,Male,50-59,test,EastAsian,3,piercing_visible,0.0,0.0,0.0,0.862,0.908,0.767,
+FA_FF_43272,FairFace,FairFace/train/43272.jpg,EastAsian,Female,20-29,test,EastAsian,1,none,0.0,0.0,0.0,0.885,0.852,0.752,
+FA_FF_6865,FairFace,FairFace/train/6865.jpg,EastAsian,Female,40-49,test,EastAsian,3,none,0.0,0.0,0.0,0.988,0.868,0.502,
+FA_FF_52535,FairFace,FairFace/train/52535.jpg,EastAsian,Female,30-39,test,EastAsian,6,none,0.0,0.0,0.0,0.943,0.847,0.753,
+FA_FF_78732,FairFace,FairFace/train/78732.jpg,EastAsian,Male,30-39,test,EastAsian,1,none,0.0,0.0,0.0,0.915,0.903,0.532,
+UT_UTK_26_0_2_20170116182451477.jpg.chip,UTKFace,UTKFace/26_0_2_20170116182451477.jpg.chip.jpg,EastAsian,Male,,test,EastAsian,3,none,0.0,0.0,0.0,0.829,0.826,0.627,
+FA_FF_52668,FairFace,FairFace/train/52668.jpg,EastAsian,Female,20-29,test,EastAsian,3,none,0.0,0.0,0.0,0.881,0.917,0.762,
+UT_UTK_30_0_2_20170116174750148.jpg.chip,UTKFace,UTKFace/30_0_2_20170116174750148.jpg.chip.jpg,EastAsian,Male,,test,EastAsian,4,none,0.0,0.0,0.0,0.99,0.897,0.652,
+UT_UTK_30_0_2_20170116163100468.jpg.chip,UTKFace,UTKFace/30_0_2_20170116163100468.jpg.chip.jpg,EastAsian,Male,,test,EastAsian,7,piercing_visible,0.0,0.0,0.0,0.906,0.912,0.547,
+UT_UTK_3_0_2_20161219160259510.jpg.chip,UTKFace,UTKFace/3_0_2_20161219160259510.jpg.chip.jpg,EastAsian,Male,,test,EastAsian,3,none,0.0,0.0,0.0,0.822,0.861,0.535,
+FA_FF_33707,FairFace,FairFace/train/33707.jpg,SoutheastAsian,Female,30-39,test,SoutheastAsian,3,none,0.0,0.0,1.0,0.336,0.987,0.627,auto: low confidence / uncertain
+FA_FF_62914,FairFace,FairFace/train/62914.jpg,SoutheastAsian,Male,3-9,test,SoutheastAsian,6,none,0.0,0.0,1.0,0.948,0.896,0.513,auto: low confidence / uncertain
+FA_FF_11981,FairFace,FairFace/train/11981.jpg,SoutheastAsian,Male,20-29,test,SoutheastAsian,4,none,0.0,0.0,0.0,0.875,0.927,0.542,
+FA_FF_28606,FairFace,FairFace/train/28606.jpg,SoutheastAsian,Female,10-19,test,SoutheastAsian,2,none,0.0,0.0,1.0,0.946,0.877,0.687,auto: low confidence / uncertain
+FA_FF_56617,FairFace,FairFace/train/56617.jpg,SoutheastAsian,Male,40-49,test,SoutheastAsian,4,none,0.0,0.0,1.0,0.468,0.833,0.527,auto: low confidence / uncertain
+FA_FF_55410,FairFace,FairFace/train/55410.jpg,SoutheastAsian,Male,30-39,test,SoutheastAsian|SouthAsian,1,none,1.0,0.0,1.0,0.581,0.915,0.686,auto: multi-heritage heuristic; auto: low confidence / uncertain
+FA_FF_34678,FairFace,FairFace/train/34678.jpg,SoutheastAsian,Female,20-29,test,SoutheastAsian|EastAsian,2,none,1.0,0.0,1.0,0.676,0.992,0.66,auto: multi-heritage heuristic; auto: low confidence / uncertain
+FA_FF_62434,FairFace,FairFace/train/62434.jpg,SoutheastAsian,Male,20-29,test,SoutheastAsian,4,beard,0.0,0.0,0.0,0.968,0.918,0.596,
+FA_FF_35266,FairFace,FairFace/train/35266.jpg,SoutheastAsian,Female,20-29,test,SoutheastAsian,3,none,0.0,0.0,1.0,0.836,0.818,0.615,auto: low confidence / uncertain
+FA_FF_68022,FairFace,FairFace/train/68022.jpg,SoutheastAsian,Female,20-29,test,SoutheastAsian,7,none,0.0,0.0,0.0,0.837,0.936,0.786,
+FA_FF_19399,FairFace,FairFace/train/19399.jpg,SoutheastAsian,Male,40-49,test,SoutheastAsian|SouthAsian,3,beard,1.0,0.0,0.0,0.728,0.852,0.768,auto: multi-heritage heuristic
+FA_FF_9588,FairFace,FairFace/train/9588.jpg,SoutheastAsian,Female,60-69,test,SoutheastAsian,5,none,0.0,0.0,1.0,0.36,0.902,0.571,auto: low confidence / uncertain
+FA_FF_84040,FairFace,FairFace/train/84040.jpg,SoutheastAsian,Male,20-29,test,SoutheastAsian,5,beard|piercing_visible,0.0,0.0,0.0,0.864,0.983,0.69,
+FA_FF_23738,FairFace,FairFace/train/23738.jpg,SoutheastAsian,Female,3-9,test,SoutheastAsian|EastAsian,1,none,1.0,0.0,0.0,0.689,0.817,0.622,auto: multi-heritage heuristic
+FA_FF_16371,FairFace,FairFace/train/16371.jpg,SoutheastAsian,Female,0-2,test,SoutheastAsian,5,none,0.0,0.0,0.0,0.875,0.885,0.661,
+FA_FF_2595,FairFace,FairFace/train/2595.jpg,SoutheastAsian,Female,40-49,test,SoutheastAsian,2,none,0.0,0.0,1.0,0.416,0.994,0.587,auto: low confidence / uncertain
+FA_FF_20175,FairFace,FairFace/train/20175.jpg,SoutheastAsian,Male,3-9,test,SoutheastAsian|SouthAsian,7,none,1.0,0.0,0.0,0.613,0.968,0.564,auto: multi-heritage heuristic
+UT_UTK_8_1_3_20161220220642802.jpg.chip,UTKFace,UTKFace/8_1_3_20161220220642802.jpg.chip.jpg,SouthAsian,Female,,test,SouthAsian,2,none,0.0,0.0,1.0,0.814,1.0,0.718,auto: low confidence / uncertain
+FA_FF_29345,FairFace,FairFace/train/29345.jpg,SouthAsian,Female,10-19,test,SouthAsian,3,none,0.0,0.0,0.0,0.96,0.942,0.794,
+FA_FF_11925,FairFace,FairFace/train/11925.jpg,SouthAsian,Female,40-49,test,SouthAsian,1,none,0.0,0.0,0.0,0.842,0.984,0.54,
+FA_FF_34692,FairFace,FairFace/train/34692.jpg,SouthAsian,Male,10-19,test,SouthAsian,7,none,0.0,1.0,1.0,0.302,0.879,0.647,auto: low confidence / uncertain; auto: prefer-not-to-label set
+UT_UTK_1_1_3_20161220220214417.jpg.chip,UTKFace,UTKFace/1_1_3_20161220220214417.jpg.chip.jpg,SouthAsian,Female,,test,SouthAsian|MiddleEastern,4,none,1.0,0.0,0.0,0.773,0.875,0.792,auto: multi-heritage heuristic
+UT_UTK_16_0_3_20170110232150874.jpg.chip,UTKFace,UTKFace/16_0_3_20170110232150874.jpg.chip.jpg,SouthAsian,Male,,test,SouthAsian,5,none,0.0,0.0,0.0,0.962,0.949,0.503,
+FA_FF_20887,FairFace,FairFace/train/20887.jpg,SouthAsian,Female,30-39,test,SouthAsian,1,none,0.0,0.0,0.0,0.838,0.996,0.566,
+UT_UTK_17_1_3_20170119153627673.jpg.chip,UTKFace,UTKFace/17_1_3_20170119153627673.jpg.chip.jpg,SouthAsian,Female,,test,SouthAsian,6,religious_headwear,0.0,0.0,0.0,0.941,0.822,0.692,
+FA_FF_18960,FairFace,FairFace/train/18960.jpg,SouthAsian,Male,20-29,test,SouthAsian,2,none,0.0,0.0,0.0,0.839,0.949,0.676,
+FA_FF_40506,FairFace,FairFace/train/40506.jpg,SouthAsian,Male,40-49,test,SouthAsian|MiddleEastern,7,beard,1.0,0.0,0.0,0.732,0.923,0.703,auto: multi-heritage heuristic
+UT_UTK_40_0_3_20170119204129150.jpg.chip,UTKFace,UTKFace/40_0_3_20170119204129150.jpg.chip.jpg,SouthAsian,Male,,test,SouthAsian,2,none,0.0,0.0,1.0,0.407,0.969,0.597,auto: low confidence / uncertain
+FA_FF_38163,FairFace,FairFace/train/38163.jpg,SouthAsian,Male,40-49,test,SouthAsian,2,piercing_visible|religious_headwear,0.0,0.0,0.0,0.899,0.906,0.776,
+UT_UTK_37_0_3_20170119202301349.jpg.chip,UTKFace,UTKFace/37_0_3_20170119202301349.jpg.chip.jpg,SouthAsian,Male,,test,SouthAsian,1,none,0.0,0.0,0.0,0.976,0.983,0.787,
+FA_FF_64089,FairFace,FairFace/train/64089.jpg,SouthAsian,Female,50-59,test,SouthAsian,4,religious_headwear,0.0,0.0,1.0,0.456,0.959,0.507,auto: low confidence / uncertain
+FA_FF_53084,FairFace,FairFace/train/53084.jpg,SouthAsian,Female,10-19,test,SouthAsian,4,none,0.0,0.0,0.0,0.895,0.847,0.656,
+UT_UTK_31_0_3_20170119200050628.jpg.chip,UTKFace,UTKFace/31_0_3_20170119200050628.jpg.chip.jpg,SouthAsian,Male,,test,SouthAsian|SoutheastAsian,1,beard|piercing_visible|religious_headwear,1.0,0.0,0.0,0.706,0.97,0.594,auto: multi-heritage heuristic
+FA_FF_5412,FairFace,FairFace/train/5412.jpg,SouthAsian,Male,30-39,test,SouthAsian|MiddleEastern,6,none,1.0,0.0,1.0,0.751,0.81,0.517,auto: multi-heritage heuristic; auto: low confidence / uncertain
+UT_UTK_65_0_3_20170119205841400.jpg.chip,UTKFace,UTKFace/65_0_3_20170119205841400.jpg.chip.jpg,SouthAsian,Male,,test,SouthAsian,4,none,0.0,0.0,0.0,0.882,0.886,0.639,
+FA_FF_15776,FairFace,FairFace/train/15776.jpg,SouthAsian,Female,40-49,test,SouthAsian,4,none,0.0,0.0,1.0,0.935,0.802,0.532,auto: low confidence / uncertain
+FA_FF_71625,FairFace,FairFace/train/71625.jpg,SouthAsian,Male,40-49,test,SouthAsian,4,none,0.0,0.0,0.0,0.981,0.837,0.686,
+FA_FF_64267,FairFace,FairFace/train/64267.jpg,Latino,Female,3-9,test,Latino|White,3,none,1.0,0.0,0.0,0.628,0.862,0.726,auto: multi-heritage heuristic
+FA_FF_15590,FairFace,FairFace/train/15590.jpg,Latino,Male,50-59,test,Latino,4,piercing_visible,0.0,0.0,0.0,0.862,0.936,0.676,
+FA_FF_23180,FairFace,FairFace/train/23180.jpg,Latino,Male,20-29,test,Latino|White,2,none,1.0,0.0,1.0,0.599,0.868,0.736,auto: multi-heritage heuristic; auto: low confidence / uncertain
+FA_FF_411,FairFace,FairFace/train/411.jpg,Latino,Female,20-29,test,Latino,2,none,0.0,0.0,0.0,0.92,0.923,0.789,
+FA_FF_84433,FairFace,FairFace/train/84433.jpg,Latino,Male,30-39,test,Latino,7,piercing_visible,0.0,0.0,1.0,0.958,0.846,0.567,auto: low confidence / uncertain
+FA_FF_24878,FairFace,FairFace/train/24878.jpg,Latino,Male,10-19,test,Latino,7,none,0.0,0.0,0.0,0.991,0.998,0.555,
+FA_FF_75384,FairFace,FairFace/train/75384.jpg,Latino,Female,30-39,test,Latino,3,none,0.0,0.0,1.0,0.329,0.917,0.558,auto: low confidence / uncertain
+FA_FF_56657,FairFace,FairFace/train/56657.jpg,Latino,Female,20-29,test,Latino,2,none,0.0,0.0,1.0,0.349,0.944,0.766,auto: low confidence / uncertain
+FA_FF_60047,FairFace,FairFace/train/60047.jpg,Latino,Male,10-19,test,Latino,5,piercing_visible,0.0,0.0,0.0,0.804,0.876,0.703,
+FA_FF_76091,FairFace,FairFace/train/76091.jpg,Latino,Male,3-9,test,Latino,3,none,0.0,0.0,0.0,0.861,0.995,0.782,
+FA_FF_80194,FairFace,FairFace/train/80194.jpg,Latino,Female,20-29,test,Latino,1,none,0.0,0.0,0.0,0.813,0.838,0.738,
+FA_FF_35275,FairFace,FairFace/train/35275.jpg,Latino,Female,50-59,test,Latino,2,piercing_visible,0.0,0.0,0.0,0.995,0.838,0.685,
+FA_FF_27214,FairFace,FairFace/train/27214.jpg,Latino,Female,30-39,test,Latino,6,none,0.0,0.0,0.0,0.811,0.994,0.755,
+FA_FF_17963,FairFace,FairFace/train/17963.jpg,Latino,Male,40-49,test,Latino,5,none,0.0,0.0,1.0,0.418,0.95,0.653,auto: low confidence / uncertain
+FA_FF_40968,FairFace,FairFace/train/40968.jpg,Latino,Female,20-29,test,Latino,1,none,0.0,0.0,0.0,0.893,0.943,0.708,
+FA_FF_6431,FairFace,FairFace/train/6431.jpg,Latino,Male,20-29,test,Latino,2,beard,0.0,0.0,0.0,0.984,0.973,0.561,
+UT_UTK_39_0_1_20170113141736403.jpg.chip,UTKFace,UTKFace/39_0_1_20170113141736403.jpg.chip.jpg,Black,Male,,test,Black,1,none,0.0,0.0,0.0,0.978,0.827,0.665,
+UT_UTK_26_1_1_20170116231831266.jpg.chip,UTKFace,UTKFace/26_1_1_20170116231831266.jpg.chip.jpg,Black,Female,,test,Black,4,none,0.0,0.0,0.0,0.87,0.885,0.686,
+FA_FF_36434,FairFace,FairFace/train/36434.jpg,Black,Male,40-49,test,Black,1,none,0.0,0.0,0.0,0.961,0.929,0.57,
+FA_FF_31290,FairFace,FairFace/train/31290.jpg,Black,Male,3-9,test,Black,1,none,0.0,0.0,1.0,0.511,0.985,0.736,auto: low confidence / uncertain
+UT_UTK_30_0_1_20170117202825454.jpg.chip,UTKFace,UTKFace/30_0_1_20170117202825454.jpg.chip.jpg,Black,Male,,test,Black,5,none,0.0,0.0,1.0,0.31,0.861,0.599,auto: low confidence / uncertain
+UT_UTK_37_1_1_20170116222809020.jpg.chip,UTKFace,UTKFace/37_1_1_20170116222809020.jpg.chip.jpg,Black,Female,,test,Black,1,none,0.0,0.0,0.0,0.855,0.95,0.8,
+UT_UTK_31_1_1_20170116222821659.jpg.chip,UTKFace,UTKFace/31_1_1_20170116222821659.jpg.chip.jpg,Black,Female,,test,Black,4,none,0.0,0.0,0.0,0.802,0.881,0.735,
+UT_UTK_22_1_1_20170105183837056.jpg.chip,UTKFace,UTKFace/22_1_1_20170105183837056.jpg.chip.jpg,Black,Female,,test,Black,1,none,0.0,0.0,0.0,0.931,0.83,0.728,
+FA_FF_70334,FairFace,FairFace/train/70334.jpg,Black,Female,40-49,test,Black,1,none,0.0,0.0,0.0,0.95,0.952,0.736,
+FA_FF_84937,FairFace,FairFace/train/84937.jpg,Black,Female,10-19,test,Black,1,none,0.0,0.0,0.0,0.958,0.94,0.731,
+UT_UTK_24_0_1_20170113151024815.jpg.chip,UTKFace,UTKFace/24_0_1_20170113151024815.jpg.chip.jpg,Black,Male,,test,Black,4,none,0.0,0.0,0.0,0.912,0.802,0.783,
+FA_FF_20121,FairFace,FairFace/train/20121.jpg,Black,Male,40-49,test,Black,5,none,0.0,0.0,0.0,0.868,0.908,0.734,
+UT_UTK_25_0_1_20170117012445920.jpg.chip,UTKFace,UTKFace/25_0_1_20170117012445920.jpg.chip.jpg,Black,Male,,test,Black,5,none,0.0,0.0,1.0,0.496,0.866,0.786,auto: low confidence / uncertain
+FA_FF_45062,FairFace,FairFace/train/45062.jpg,Black,Female,30-39,test,Black,2,none,0.0,0.0,0.0,0.922,0.878,0.561,
+FA_FF_5506,FairFace,FairFace/train/5506.jpg,Black,Female,3-9,test,Black,4,none,0.0,0.0,0.0,0.822,0.819,0.768,
+UT_UTK_62_0_1_20170113185008129.jpg.chip,UTKFace,UTKFace/62_0_1_20170113185008129.jpg.chip.jpg,Black,Male,,test,Black,1,none,0.0,0.0,0.0,0.806,0.993,0.521,
+UT_UTK_15_1_1_20170112191208424.jpg.chip,UTKFace,UTKFace/15_1_1_20170112191208424.jpg.chip.jpg,Black,Female,,test,Black,2,piercing_visible,0.0,0.0,1.0,0.932,0.834,0.656,auto: low confidence / uncertain
+UT_UTK_60_1_1_20170113011739319.jpg.chip,UTKFace,UTKFace/60_1_1_20170113011739319.jpg.chip.jpg,Black,Female,,test,Black,6,none,0.0,0.0,0.0,0.831,0.814,0.643,
+UT_UTK_10_1_1_20170117134313205.jpg.chip,UTKFace,UTKFace/10_1_1_20170117134313205.jpg.chip.jpg,Black,Female,,test,Black,1,none,0.0,0.0,0.0,0.826,0.895,0.713,
+FA_FF_57433,FairFace,FairFace/train/57433.jpg,Black,Female,20-29,test,Black,1,none,0.0,0.0,0.0,0.917,0.801,0.583,
